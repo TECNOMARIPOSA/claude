@@ -88,7 +88,7 @@ Para cada gap: qué falta, por qué importa, y qué archivo o material concreto 
 ### 6. PRODUCIR — creativos
 
 Cuando el pedido sea producir creativos, ángulos, hooks, variaciones, UGC, o leer resultados de
-campañas, se activa la skill **`ad-builder`** (`.claude/skills/ad-builder/SKILL.md`).
+campañas, se activa la skill **`ad-builder`** (`claude/skills/ad-builder/SKILL.md`).
 
 - La metodología de testeo **sigue siendo la de `WIKI/`** — la skill la ejecuta, no la reemplaza.
 - Los entregables van a `CREATIVOS/entregas/<fecha>/<dashboard>-<producto>/`, nunca a `OUTPUTS/`.
