@@ -2,7 +2,7 @@
 
 ## 2026-11-03
 **Procesado:** nada de RAW/ (pedido de producción de landing).
-**Cambios:** output guardado `OUTPUTS/2026-11-03-landing-calma-en-colores.txt` (landing LATAM «Calma en Colores», 16 imágenes generadas en Higgsfield); enlazado en `WIKI/index.md`.
+**Cambios:** output guardado `OUTPUTS/2026-11-03-landing-calma-en-colores.txt` (landing LATAM «Calma en Colores», v2: paleta turquesa/coral, nuevas imágenes Higgsfield, bonos reordenados, oferta en 2 columnas); enlazado en `WIKI/index.md`.
 
 ## 2026-09-24 — decisiones del método
 **Cambios:** el teléfono no es obligatorio en el checkout · descuento de carrito abandonado por email al 30% · bajar de peso y salud se corren en cualquier mercado con un buen mecanismo único · VSL en todos los OTO y downsells con ruleta · surfeo cada 2 h también en la V3 con ROAS > 2–2,5 · el método ya no usa Shopify, solo Impultienda.
