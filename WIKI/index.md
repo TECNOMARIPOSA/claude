@@ -81,4 +81,4 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
-*(vacío: acá se enlazan tus entregables de `OUTPUTS/`)*
+- [2026-11-03 · Landing «Calma en Colores» (LATAM)](../OUTPUTS/2026-11-03-landing-calma-en-colores.txt) — HTML completo de la landing replicada de turitualdelcolor.com sobre la estructura de Meu AuMigu.
