@@ -52,7 +52,7 @@ Si falta alguna de las cuatro, decirlo y pedirla. No producir "mientras tanto".
 
 ```
 SegundoCerebro/
-├── .claude/skills/ad-builder/
+├── claude/skills/ad-builder/
 │   ├── SKILL.md                        ← este archivo
 │   └── references/
 │       ├── historial-resultados.md     ← el registro vivo
