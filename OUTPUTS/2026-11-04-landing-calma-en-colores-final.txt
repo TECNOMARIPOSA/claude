@@ -1,0 +1,745 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calma en Colores — El Ritual Antiestrés de Pintura por Números</title>
+<meta name="description" content="Pintura por números para bajar el estrés y desconectar del celular. 3 colecciones + 4 bonos gratis. Acceso inmediato por e-mail. Garantía de 120 días.">
+<!-- META PIXEL: pega aquí tu código base del Pixel (PageView) -->
+<!-- PRECIOS: price, original_price, savings y currency se escriben como tokens entre llaves dobles; la plataforma los reemplaza por el precio formateado en la moneda del comprador. No escribir símbolos de moneda al lado. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--olive:#7d7f52;--olive-deep:#5c5e3a;--olive-soft:#a3a57e;--olive-wash:#eceedd;--cream:#f7f3e6;--cream-lt:#fffdf6;
+  --terra:#eba46b;--terra-deep:#c06f35;--gold:#f3c590;--peach:#fdeedd;--on-terra:#2e2f24;--green:#5f7f4e;--green-deep:#4a6640;
+  --ink:#2e2f24;--ink-soft:#6b6c5b;--line:#e3dfcd;--white:#fff;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Inter',sans-serif;color:var(--ink);background:var(--cream-lt);-webkit-font-smoothing:antialiased;line-height:1.5;padding-bottom:84px;}
+img{max-width:100%;display:block;}
+section,header{position:relative;}
+.wrap{max-width:1040px;margin:0 auto;padding:0 22px;}
+.eyebrow{display:inline-block;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--olive);font-weight:700;margin-bottom:14px;}
+.h2{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(28px,4.6vw,46px);line-height:1.13;letter-spacing:-.012em;color:var(--ink);}
+.h2 em,.h1 em{font-style:italic;color:var(--terra-deep);}
+.head{text-align:center;max-width:700px;margin:0 auto 44px;}
+.lede{font-size:16px;line-height:1.7;color:var(--ink-soft);margin-top:14px;}
+.pad{padding:64px 0;}
+.cta{display:inline-flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;background:var(--terra);color:var(--on-terra);
+  padding:19px 38px;border-radius:50px;font-size:16px;font-weight:700;letter-spacing:.02em;width:100%;max-width:440px;
+  box-shadow:0 16px 36px -12px rgba(235,164,107,.6);transition:transform .3s,background .3s;animation:pulse 2.6s ease-in-out infinite;}
+.cta:hover{transform:translateY(-2px);background:#f0b27f;}
+.cta .arrow{transition:transform .3s;}.cta:hover .arrow{transform:translateX(4px);}
+@keyframes pulse{0%,100%{box-shadow:0 16px 36px -12px rgba(235,164,107,.6);}50%{box-shadow:0 16px 44px -6px rgba(235,164,107,.85);}}
+@media(min-width:576px){.cta{width:auto;}}
+
+
+/* 01 BARRA */
+.mab{background:var(--olive-deep);color:var(--cream-lt);padding:11px 0;overflow:hidden;}
+.mab-track{display:flex;width:max-content;animation:scroll 38s linear infinite;}
+.mab-group{display:flex;align-items:center;gap:26px;padding-right:26px;flex-shrink:0;}
+.mab-item{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap;}
+.mab-sub{font-size:13px;font-family:'Fraunces',serif;font-style:italic;color:#e6e2d2;white-space:nowrap;}
+.mab-dot{width:6px;height:6px;border-radius:50%;background:var(--gold);flex-shrink:0;}
+@keyframes scroll{to{transform:translateX(-50%);}}
+
+
+/* 02 HERO */
+.mah{text-align:center;padding:22px 22px 36px;background:radial-gradient(ellipse at 50% -10%,rgba(125,127,82,.14),transparent 55%),var(--cream-lt);overflow:hidden;}
+.mah-inner{max-width:760px;margin:0 auto;}
+.pill{display:inline-flex;align-items:center;gap:10px;padding:8px 18px;margin-bottom:16px;background:var(--white);border:1px solid var(--line);border-radius:50px;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--terra);}
+.pill .dot{width:6px;height:6px;border-radius:50%;background:var(--gold);}
+.h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(30px,5.4vw,52px);line-height:1.1;letter-spacing:-.018em;margin:0 auto 14px;max-width:19ch;}
+.mah-sub{font-size:16px;line-height:1.65;color:var(--ink-soft);max-width:52ch;margin:0 auto 18px;}
+.mah-sub b{color:var(--ink);}
+.trust{display:inline-flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 12px;margin-bottom:8px;padding:8px 16px;background:var(--olive-wash);border:1px solid var(--line);border-radius:50px;font-size:12.5px;color:var(--ink-soft);}
+.trust .st{color:var(--gold);letter-spacing:1.5px;}.trust b{color:var(--ink);}
+.access{font-size:12.5px;color:var(--olive-deep);font-weight:600;margin-bottom:22px;}
+.mah-media{position:relative;max-width:500px;margin:0 auto 34px;padding:12px;background:var(--white);border:1px solid var(--line);border-radius:22px;box-shadow:0 26px 56px -28px rgba(92,94,58,.45);}
+.mah-media img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:13px;}
+.badge{position:absolute;bottom:-14px;right:-10px;background:var(--olive-deep);color:var(--cream-lt);padding:12px 18px;border-radius:14px;transform:rotate(-3deg);box-shadow:0 12px 26px -10px rgba(92,94,58,.6);text-align:left;}
+.badge .n{font-family:'Fraunces',serif;font-size:21px;font-weight:600;line-height:1;}
+.badge .l{font-size:9px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin-top:3px;opacity:.9;}
+.meta{margin-top:14px;font-size:12.5px;color:var(--ink-soft);}
+.facts{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-top:16px;}
+.fact{font-size:12px;font-weight:600;color:var(--olive-deep);background:var(--olive-wash);border:1px solid var(--line);padding:7px 14px;border-radius:50px;}
+
+
+/* 03 BARRA TRANSICION */
+.mat{background:var(--olive-deep);color:var(--cream-lt);padding:14px 16px;text-align:center;}
+.mat span{display:inline-flex;align-items:center;gap:14px;font-size:12px;letter-spacing:.24em;text-transform:uppercase;font-weight:700;}
+.mat span::before,.mat span::after{content:'';width:24px;height:1px;background:var(--gold);}
+
+
+/* 04 DOLOR */
+.pain-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:30px;}
+.pain{text-align:center;}
+.icon{display:inline-flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:var(--olive-wash);border:1px solid var(--line);color:var(--olive-deep);margin-bottom:18px;font-size:28px;transition:.3s;}
+.pain:hover .icon{background:var(--olive-deep);transform:translateY(-3px);}
+.pain h3,.card h3{font-family:'Fraunces',serif;font-size:19px;font-weight:500;line-height:1.25;margin-bottom:10px;}
+.pain p{font-size:14px;color:var(--ink-soft);line-height:1.6;max-width:28ch;margin:0 auto;}
+.bridge{display:flex;align-items:center;justify-content:center;gap:18px;margin-top:50px;}
+.bridge p{font-family:'Fraunces',serif;font-style:italic;font-size:clamp(17px,2.4vw,22px);color:var(--olive-deep);text-align:center;max-width:50ch;}
+.bridge b{color:var(--terra-deep);}
+.bridge .ln{flex:0 0 48px;height:1px;background:var(--olive-soft);}
+
+
+/* 05 SOLUCION */
+.sol{background:linear-gradient(180deg,var(--olive-wash),var(--peach));}
+.sol-img{max-width:560px;margin:0 auto 36px;border-radius:20px;overflow:hidden;border:1px solid var(--line);box-shadow:0 26px 56px -28px rgba(92,94,58,.45);}
+.sol-img img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.sol-chips{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:0 auto 40px;}
+.sol-chips span{background:var(--white);border:1px solid var(--line);border-radius:50px;padding:10px 18px;font-size:14px;font-weight:600;color:var(--olive-deep);}
+.sol-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;max-width:980px;margin:0 auto;}
+.card{background:var(--cream-lt);border:1px solid var(--line);border-radius:18px;padding:32px 30px;transition:.5s;}
+.card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -22px rgba(92,94,58,.4);}
+.card .num{font-size:34px;margin-bottom:14px;}
+.card h3{font-size:21px;}
+.card p{font-size:14.5px;color:var(--ink-soft);line-height:1.65;}
+
+
+/* 06 TABS */
+.tabs{display:flex;justify-content:center;gap:8px;margin-bottom:38px;flex-wrap:wrap;}
+.tab{background:var(--white);border:1px solid var(--line);color:var(--ink-soft);padding:13px 22px;border-radius:50px;cursor:pointer;font-family:'Inter',sans-serif;font-size:14px;font-weight:600;transition:.3s;}
+.tab:hover{color:var(--olive-deep);border-color:var(--olive);}
+.tab.on{background:var(--olive-deep);color:var(--cream-lt);border-color:var(--olive-deep);}
+.panel{display:none;}.panel.on{display:block;animation:fade .5s ease;}
+@keyframes fade{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:none;}}
+.panel-c{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center;}
+.panel h3{font-family:'Fraunces',serif;font-size:clamp(24px,3.2vw,34px);font-weight:500;line-height:1.2;margin-bottom:16px;}
+.panel > .panel-c > div > p{font-size:16px;color:var(--ink-soft);line-height:1.7;margin-bottom:20px;}
+.list{list-style:none;}
+.list li{padding:12px 0 12px 26px;border-bottom:1px solid var(--line);position:relative;font-size:14.5px;font-weight:500;}
+.list li:last-child{border:none;}
+.list li::before{content:'';position:absolute;left:0;top:21px;width:14px;height:1px;background:var(--terra);}
+.slot{max-width:400px;margin:0 auto;border-radius:18px;overflow:hidden;border:1px solid var(--line);box-shadow:0 22px 50px -26px rgba(92,94,58,.5);}
+.slot img{width:100%;aspect-ratio:4/5;object-fit:cover;}
+
+
+/* 07 PASOS */
+.steps-img{max-width:760px;margin:0 auto 54px;border-radius:20px;overflow:hidden;border:1px solid var(--line);}
+.steps-img img{width:100%;aspect-ratio:16/9;object-fit:cover;}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin-bottom:44px;position:relative;}
+.steps::before{content:'';position:absolute;top:30px;left:16%;right:16%;height:2px;opacity:.55;background-image:radial-gradient(circle,var(--olive) 1.5px,transparent 1.5px);background-size:12px 2px;background-repeat:repeat-x;}
+.step{background:var(--cream);border:1px solid var(--line);border-radius:18px;padding:14px 26px 28px;text-align:center;position:relative;z-index:1;transition:.5s;}
+.step:hover{transform:translateY(-4px);box-shadow:0 22px 44px -22px rgba(92,94,58,.4);}
+.step .n{width:44px;height:44px;margin:-36px auto 14px;background:var(--terra);color:var(--on-terra);border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Fraunces',serif;font-size:21px;font-weight:600;border:3px solid var(--cream-lt);box-shadow:0 6px 14px rgba(235,164,107,.4);}
+.step .ic{font-size:30px;margin-bottom:10px;}
+.step h3{font-family:'Fraunces',serif;font-size:21px;font-weight:500;margin-bottom:10px;}
+.step p{font-size:14px;color:var(--ink-soft);line-height:1.6;max-width:32ch;margin:0 auto;}
+.center{text-align:center;}
+
+
+/* 08 CARRUSEL */
+.car{overflow:hidden;padding:64px 0;}
+.track{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding:10px 22px 30px;scrollbar-width:none;scroll-behavior:smooth;}
+.track::-webkit-scrollbar{display:none;}
+.ccard{flex:0 0 280px;background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;scroll-snap-align:start;transition:.4s;}
+.ccard:hover{transform:translateY(-6px);box-shadow:0 26px 52px -26px rgba(92,94,58,.45);}
+.ccard .im{position:relative;border-bottom:1px solid var(--line);}
+.ccard img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.tag{position:absolute;bottom:12px;left:50%;transform:translateX(-50%);background:var(--olive-deep);color:var(--cream-lt);padding:7px 14px;border-radius:50px;font-size:10px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap;}
+.tag.alt{background:var(--terra);color:var(--on-terra);}
+.ccard .b{padding:18px 20px 22px;}
+.ccard h3{font-family:'Fraunces',serif;font-size:18px;font-weight:600;margin-bottom:6px;}
+.ccard p{font-size:13px;color:var(--ink-soft);line-height:1.55;}
+.ctrl{display:flex;justify-content:center;gap:14px;margin-bottom:20px;}
+.arrow-btn{width:48px;height:48px;border-radius:50%;background:var(--white);border:1px solid var(--line);color:var(--olive-deep);font-size:18px;cursor:pointer;transition:.3s;}
+.arrow-btn:hover{background:var(--olive-deep);color:var(--cream-lt);}
+.foot-i{text-align:center;padding:0 22px;font-family:'Fraunces',serif;font-style:italic;font-size:15px;color:var(--olive-deep);max-width:60ch;margin:0 auto;}
+
+
+/* 09 BONOS */
+.bon{background:linear-gradient(180deg,var(--peach),var(--olive-wash));}
+.bon-pill{display:inline-flex;background:var(--gold);color:#3a2f14;font-size:11.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:9px 18px;border-radius:50px;margin-bottom:18px;}
+.bon-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;max-width:860px;margin:0 auto;}
+.bcard{background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;transition:.4s;}
+.bcard:hover{transform:translateY(-5px);box-shadow:0 26px 52px -26px rgba(92,94,58,.45);}
+.bcard .im{position:relative;border-bottom:1px solid var(--line);}
+.bcard img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.btag{position:absolute;top:14px;left:14px;background:var(--terra);color:var(--on-terra);padding:7px 14px;border-radius:50px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+.btag.star{background:var(--gold);color:#3a2f14;}
+.bcard .b{padding:22px 22px 24px;display:flex;flex-direction:column;flex-grow:1;}
+.bcard h3{font-family:'Fraunces',serif;font-size:20px;font-weight:600;margin-bottom:8px;}
+.bcard p{font-size:14px;color:var(--ink-soft);line-height:1.6;flex-grow:1;margin-bottom:14px;}
+.free{align-self:flex-start;background:rgba(95,127,78,.12);border:1px solid rgba(95,127,78,.4);color:var(--green);font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:6px 14px;border-radius:50px;}
+.bon-close{text-align:center;max-width:620px;margin:46px auto 0;font-family:'Fraunces',serif;font-size:clamp(18px,2.6vw,24px);line-height:1.5;color:var(--ink-soft);}
+.bon-close b{color:var(--terra-deep);font-weight:600;}
+
+
+/* 10 OFERTA */
+.mof{background:radial-gradient(ellipse at 20% 0%,rgba(243,197,144,.16),transparent 55%),radial-gradient(ellipse at 80% 100%,rgba(125,127,82,.14),transparent 55%),var(--cream);padding:60px 20px 56px;}
+.mof-top{max-width:480px;margin:0 auto 34px;text-align:center;}
+.mof-pill{display:inline-block;padding:10px 24px;border-radius:12px;font-weight:800;letter-spacing:.08em;font-size:17px;background:var(--gold);color:#3a2f14;box-shadow:0 3px 0 #cf9455;}
+.mof-script{font-family:'Fraunces',serif;font-style:italic;font-size:26px;color:var(--terra-deep);margin-top:8px;}
+.mof-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;max-width:1040px;margin:0 auto;align-items:center;}
+.mof-visual{position:relative;}
+.mof-visual img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:24px;border:1px solid var(--line);box-shadow:0 30px 60px -28px rgba(92,94,58,.55);}
+.mof-vcap{position:absolute;left:50%;bottom:-18px;transform:translateX(-50%);background:var(--olive-deep);color:var(--cream-lt);padding:12px 20px;border-radius:50px;font-size:13px;white-space:nowrap;box-shadow:0 12px 26px -10px rgba(92,94,58,.6);}
+.mof-vcap b{color:var(--gold);}
+.mof-grid .mof-card{margin:0;max-width:none;}
+@media(max-width:860px){.mof-grid{grid-template-columns:1fr;gap:44px;max-width:480px;}.mof-vcap{font-size:12px;padding:10px 14px;}}
+.mof-timer{margin-top:22px;border:2px dashed var(--terra);border-radius:16px;padding:16px 20px;background:var(--white);display:inline-block;}
+.mof-timer-lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;margin-bottom:12px;}
+.clock{display:flex;align-items:center;justify-content:center;gap:6px;}
+.unit{background:var(--cream-lt);border:1px solid var(--line);border-radius:10px;padding:10px 16px 8px;min-width:76px;display:flex;flex-direction:column;align-items:center;}
+.unit .n{font-family:'Fraunces',serif;font-size:30px;font-weight:600;line-height:1;}
+.unit .l{font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-top:6px;font-weight:700;}
+.sep{font-family:'Fraunces',serif;font-size:24px;color:var(--terra);font-weight:600;margin-top:-8px;}
+.mof-card{max-width:480px;margin:0 auto;background:var(--cream-lt);border:3px solid var(--terra);border-radius:24px;padding:42px 26px 28px;text-align:center;position:relative;box-shadow:0 24px 60px -24px rgba(235,164,107,.5);}
+.mof-launch{position:absolute;top:-16px;left:50%;transform:translateX(-50%);background:var(--gold);color:#3a2f14;padding:8px 22px;border-radius:50px;font-weight:800;font-size:11px;letter-spacing:.12em;white-space:nowrap;box-shadow:0 3px 0 #cf9455;}
+.mof-name{font-family:'Fraunces',serif;font-size:clamp(24px,5.4vw,31px);font-weight:700;color:var(--terra-deep);line-height:1.1;text-transform:uppercase;margin:6px 0 6px;}
+.mof-bundle{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;margin-bottom:22px;}
+.price-row{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;}
+.was{font-family:'Fraunces',serif;font-size:21px;color:var(--ink-soft);text-decoration:line-through;text-decoration-color:var(--terra);text-decoration-thickness:2px;}
+.off{background:var(--terra);color:var(--on-terra);padding:6px 12px;border-radius:6px;font-weight:800;font-size:12px;letter-spacing:.08em;}
+.now{font-family:'Fraunces',serif;font-size:clamp(46px,12vw,66px);font-weight:700;line-height:1.05;letter-spacing:-.02em;margin:6px 0 2px;}
+.save{display:inline-block;background:rgba(95,127,78,.18);color:var(--green-deep);padding:6px 14px;border-radius:6px;font-weight:800;font-size:12px;letter-spacing:.08em;margin:4px 0 8px;}
+.mof-meta{font-size:12.5px;color:var(--ink-soft);margin-bottom:22px;}
+.mof-list{list-style:none;padding:16px;background:var(--olive-wash);border-radius:16px;text-align:left;margin-bottom:18px;}
+.mof-list li{display:flex;gap:9px;padding:8px 0;font-size:13.5px;font-weight:500;line-height:1.5;}
+.mof-list .ck{color:var(--green);font-weight:800;}
+.mof-bonus{border:2px dashed var(--gold);background:rgba(243,197,144,.1);border-radius:16px;padding:14px 16px;display:flex;align-items:center;gap:14px;margin-bottom:18px;text-align:left;}
+.mof-bonus .ic{width:46px;height:46px;background:var(--white);border:1px solid var(--line);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+.mof-bonus .t{font-weight:800;font-size:12px;letter-spacing:.05em;line-height:1.35;margin-bottom:6px;}
+.mof-bonus .g{background:var(--green);color:var(--cream-lt);padding:4px 9px;border-radius:4px;font-weight:800;font-size:10px;letter-spacing:.06em;}
+.viewers{display:flex;align-items:center;justify-content:center;gap:8px;font-size:13px;color:var(--ink-soft);margin-bottom:16px;}
+.viewers i{width:9px;height:9px;border-radius:50%;background:#e24a3b;animation:blink 1.4s infinite;}
+@keyframes blink{50%{opacity:.25;}}
+.mof-btn{display:flex;flex-direction:column;align-items:center;gap:4px;text-decoration:none;background:var(--green);color:var(--cream-lt);padding:19px 20px;border-radius:16px;box-shadow:0 4px 0 var(--green-deep),0 12px 26px -6px rgba(95,127,78,.5);transition:.3s;}
+.mof-btn:hover{background:var(--green-deep);transform:translateY(-2px);}
+.mof-btn .main{font-weight:800;font-size:16px;}.mof-btn .sub{font-size:11.5px;opacity:.92;font-weight:500;}
+.after{max-width:480px;margin:34px auto 0;}
+.after h3{font-family:'Fraunces',serif;font-size:20px;font-weight:500;text-align:center;margin-bottom:14px;}
+.qb{list-style:none;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:6px 18px;margin-bottom:22px;}
+.qb li{padding:12px 0;border-bottom:1px solid var(--line);font-size:14px;color:var(--ink-soft);}
+.qb li:last-child{border:none;}.qb b{color:var(--ink);}
+.pay{text-align:center;margin-bottom:20px;}
+.pay .lbl{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;margin-bottom:10px;}
+.pay .logos{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-bottom:8px;}
+.pay .logos span{background:var(--white);border:1px solid var(--line);border-radius:8px;padding:7px 14px;font-size:12px;font-weight:700;color:var(--ink);}
+.pay p{font-size:13px;color:var(--ink-soft);}
+.seller{display:flex;align-items:center;gap:14px;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin-bottom:20px;}
+.seller .ic{width:48px;height:48px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.seller .t{flex:1;}.seller b{display:block;font-size:14px;}.seller span{font-size:12px;color:var(--ink-soft);}
+.seller .k{text-align:center;font-family:'Fraunces',serif;font-size:20px;font-weight:700;line-height:1.1;}.seller .k small{display:block;font-family:'Inter',sans-serif;font-size:10px;font-weight:600;color:var(--ink-soft);}
+.tl{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.tl div{background:var(--olive-wash);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center;font-size:12.5px;font-weight:600;color:var(--olive-deep);}
+
+
+/* 11 RESEÑAS */
+.rev{background:var(--cream);padding:64px 0 56px;overflow:hidden;}
+.rev .head{padding:0 22px;}
+.rating{display:inline-flex;flex-wrap:wrap;justify-content:center;gap:6px 8px;font-size:14px;color:var(--ink-soft);}
+.rating .st{color:var(--gold);letter-spacing:1.5px;}.rating b{color:var(--ink);}
+.rcard{flex:0 0 330px;background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;scroll-snap-align:center;display:flex;flex-direction:column;box-shadow:0 20px 44px -24px rgba(92,94,58,.42);}
+.rcard img[src=""],.rcard img:not([src]){display:none;}
+.rcard .ph{width:100%;aspect-ratio:1/1;object-fit:cover;border-bottom:1px solid var(--line);}
+.rcard .b{padding:20px;display:flex;flex-direction:column;flex-grow:1;}
+.rcard .s{color:var(--gold);letter-spacing:1.5px;font-size:14px;}
+.rcard .v{font-size:11px;color:var(--green);font-weight:700;margin:4px 0 10px;}
+.rcard p{font-size:14px;line-height:1.6;color:var(--ink);flex-grow:1;margin-bottom:14px;}
+.rcard .who{font-size:13px;color:var(--ink-soft);font-weight:600;}
+
+
+/* 12 GARANTIA */
+.gu{background:var(--olive-wash);text-align:center;padding:64px 22px;}
+.seal{display:inline-flex;align-items:center;justify-content:center;width:112px;height:112px;background:var(--white);border:2px solid var(--olive);border-radius:50%;margin-bottom:24px;color:var(--olive-deep);text-align:center;line-height:1;}
+.seal b{font-family:'Fraunces',serif;font-size:38px;display:block;}.seal small{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;}
+.gu p.t{font-size:16px;line-height:1.75;color:var(--ink-soft);max-width:58ch;margin:0 auto;}.gu p.t b{color:var(--ink);}
+
+
+/* 13 FAQ */
+.faq-w{max-width:780px;margin:0 auto;padding:0 22px;}
+.fq{background:var(--white);border:1px solid var(--line);border-radius:14px;margin-bottom:12px;overflow:hidden;transition:.3s;}
+.fq[open]{border-color:var(--olive);box-shadow:0 16px 36px -22px rgba(92,94,58,.45);}
+.fq summary{list-style:none;padding:19px 22px;cursor:pointer;font-family:'Fraunces',serif;font-size:clamp(16px,2.2vw,18.5px);font-weight:600;display:flex;justify-content:space-between;align-items:center;gap:16px;}
+.fq summary::-webkit-details-marker{display:none;}
+.fq .pl{width:30px;height:30px;border-radius:50%;border:1px solid var(--olive);color:var(--olive-deep);display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:.4s;font-size:17px;}
+.fq[open] .pl{transform:rotate(45deg);background:var(--olive-deep);color:var(--cream-lt);}
+.fq .a{padding:0 22px 22px;color:var(--ink-soft);line-height:1.7;font-size:14.5px;}
+
+
+/* 14 FINAL */
+.fin{background:var(--cream);text-align:center;padding:60px 22px 0;}
+.fin .wrap{max-width:680px;}
+.fin .h2{max-width:18ch;margin:0 auto 20px;}
+.fin p.t{font-size:16px;line-height:1.75;color:var(--ink-soft);max-width:52ch;margin:0 auto 30px;}
+.fin p.t b{color:var(--ink);}
+.secure{margin-top:18px;font-size:12.5px;color:var(--ink-soft);font-weight:500;}
+.trust4{display:flex;justify-content:center;gap:8px 18px;flex-wrap:wrap;margin-top:14px;font-size:12.5px;color:var(--olive-deep);font-weight:600;}
+.foot{margin:56px -22px 0;padding:40px 22px 34px;background:var(--olive-deep);color:#d8d5c4;}
+.foot .br{font-family:'Fraunces',serif;font-size:22px;font-weight:600;color:var(--cream-lt);margin-bottom:6px;}
+.foot .tg{font-family:'Fraunces',serif;font-style:italic;font-size:14px;color:#c8c5b2;margin-bottom:18px;}
+.foot .c{font-size:12px;color:#a8a696;}
+
+
+/* STICKY */
+.sticky{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--white);border-top:1px solid var(--line);box-shadow:0 -10px 30px -12px rgba(46,47,36,.25);padding:10px 14px;display:flex;align-items:center;gap:12px;transform:translateY(110%);transition:transform .4s ease;}
+.sticky.show{transform:none;}
+.sticky img{width:48px;height:48px;border-radius:10px;object-fit:cover;flex-shrink:0;}
+.sticky .tx{flex:1;min-width:0;}
+.sticky .nm{font-size:12px;font-weight:700;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.sticky .pr{font-size:13px;margin-top:2px;}.sticky .pr b{font-family:'Fraunces',serif;font-size:18px;color:var(--terra-deep);}.sticky .pr s{color:var(--ink-soft);margin-left:6px;}
+.sticky a{background:var(--terra);color:var(--on-terra);text-decoration:none;font-weight:700;font-size:13px;padding:13px 18px;border-radius:50px;white-space:nowrap;}
+@media(max-width:420px){.sticky img{display:none;}}
+
+
+/* RESPONSIVE */
+@media(max-width:900px){.pain-grid{grid-template-columns:repeat(2,1fr);gap:34px 22px;}}
+@media(max-width:860px){.panel-c{grid-template-columns:1fr;gap:28px;}.slot{max-width:340px;}
+  .steps{grid-template-columns:1fr;gap:48px;max-width:420px;margin:0 auto 44px;}.steps::before{display:none;}
+  .sol-grid,.bon-grid{grid-template-columns:1fr;max-width:420px;}}
+@media(max-width:560px){.pad{padding:48px 0;}.pain-grid{grid-template-columns:1fr;gap:20px;max-width:440px;margin:0 auto;}
+  .pain{text-align:left;display:grid;grid-template-columns:52px 1fr;column-gap:16px;align-items:start;}
+  .pain .icon{grid-row:1/3;width:48px;height:48px;font-size:22px;margin:0;}.pain h3{margin-bottom:4px;font-size:17px;}.pain p{max-width:none;margin:0;}
+  .bridge .ln{display:none;}.card{padding:22px 22px;}.rcard{flex-basis:290px;}.unit{min-width:64px;padding:8px 10px 6px;}.unit .n{font-size:26px;}}
+</style>
+</head>
+<body>
+
+
+<!-- ============ 01 — BARRA DE ANUNCIO ============ -->
+<div class="mab">
+  <div class="mab-track">
+    <div class="mab-group">
+      <span class="mab-item">🎁 Solo hoy — 4 bonos extra con tu compra</span><span class="mab-dot"></span>
+      <span class="mab-sub">📩 Acceso instantáneo vía e-mail</span><span class="mab-dot"></span>
+      <span class="mab-sub">🔒 Pago 100% seguro</span><span class="mab-dot"></span>
+      <span class="mab-sub">✅ Garantía de 120 días</span><span class="mab-dot"></span>
+      <span class="mab-item">🎁 50% OFF por tiempo limitado</span><span class="mab-dot"></span>
+    </div>
+    <div class="mab-group">
+      <span class="mab-item">🎁 Solo hoy — 4 bonos extra con tu compra</span><span class="mab-dot"></span>
+      <span class="mab-sub">📩 Acceso instantáneo vía e-mail</span><span class="mab-dot"></span>
+      <span class="mab-sub">🔒 Pago 100% seguro</span><span class="mab-dot"></span>
+      <span class="mab-sub">✅ Garantía de 120 días</span><span class="mab-dot"></span>
+      <span class="mab-item">🎁 50% OFF por tiempo limitado</span><span class="mab-dot"></span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============ 02 — HERO / PROMESA ============ -->
+<header class="mah">
+  <div class="mah-inner">
+    <div class="pill"><span class="dot"></span> Pintura por números antiestrés</div>
+    <h1 class="h1">Calma tu mente en 20 minutos al día, <em>pintando por números.</em></h1>
+    <p class="mah-sub">No es solo un libro para colorear. <b>Es un ratito tuyo, todos los días.</b> Elige un color, sigue los números y deja que tu mente por fin descanse &mdash; lejos del celular.</p>
+
+
+
+
+
+
+    <div class="mah-media">
+      <!-- FOTO (reemplaza el video) -->
+      <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_3443ace1-eb28-4552-982b-74db05ae64c3.png" alt="Calma en Colores: pintura por números antiestrés" fetchpriority="high">
+      <div class="badge"><div class="n">3 + 4</div><div class="l">Colecciones + bonos</div></div>
+    </div>
+
+
+     <!--<div class="trust"><span class="st">★★★★★</span><span><b>4.7/5</b> · 1564 reseñas verificadas</span></div>
+    <div class="trust" style="margin-bottom:10px"><span>🌿 <b>+10 mil personas</b> ya tienen su Ritual</span></div>
+    <div class="access">✨ Acceso instantáneo · Descarga al instante · Tuyo para siempre</div>-->
+
+
+   <!-- <a href="/checkout" class="cta">🎨 ¡Sí, quiero mi Calma en Colores! <span class="arrow">→</span></a>
+  
+    <div class="meta">Acceso inmediato · Descarga al instante · Sin suscripciones</div>-->
+
+
+    <div class="facts">
+      <span class="fact">📩 Te llega al e-mail al instante</span>
+      <span class="fact">🖨 Imprime en A4 o A3</span>
+      <span class="fact">🖌 Pinta con lo que tengas</span>
+      <span class="fact">Pinta paisajes, animales, flores y + de 100 ilustracion</span>
+    </div>
+  </div>
+</header>
+
+
+<!-- ============ 03 — BARRA DE TRANSICIÓN ============ -->
+<div class="mat"><span>Por qué este ritual, por qué hoy</span></div>
+
+
+<!-- ============ 04 — DOLOR ============ -->
+<section class="pad">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">¿Te suena familiar?</span>
+      <h2 class="h2">¿Terminas el día y <em>tu cabeza no para?</em></h2>
+    </div>
+    <div class="pain-grid">
+      <div class="pain"><div class="icon">🌀</div><h3>Tu mente no se apaga</h3><p>Terminas de trabajar y sigues pensando en pendientes, mensajes y preocupaciones. Cuesta bajar el ruido mental.</p></div>
+      <div class="pain"><div class="icon">📱</div><h3>Llegas a casa y sigues en el celular</h3><p>Pasas horas mirando la pantalla sin descansar de verdad. Y al final del día, igual de cansado.</p></div>
+      <div class="pain"><div class="icon">⏳</div><h3>“No tengo tiempo para mí”</h3><p>Siempre hay algo más urgente. Y tú terminas siendo lo último en tu propia lista.</p></div>
+      <div class="pain"><div class="icon">🎨</div><h3>“Yo no sé pintar”</h3><p>Te da miedo que sea complicado o que no se te dé. Eres ansioso y te cuesta relajarte.</p></div>
+    </div>
+    <div class="bridge"><span class="ln"></span><p>Otros libros te dan dibujos para pintar. <b>Tú te llevas un ritual completo para desconectar de verdad.</b></p><span class="ln"></span></div>
+  </div>
+</section>
+
+
+<!-- ============ 05 — SOLUCIÓN / MIRA POR DENTRO ============ -->
+<section class="pad sol">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">✦ Mira por dentro ✦</span>
+      <h2 class="h2">Lo que vas a sentir <em>desde el primer día</em> 🌿</h2>
+      <p class="lede"> Así se ve por dentro: fichas, láminas a color y plantillas para pintar.</p>
+    </div>
+    <div class="sol-img"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080616_bf3d692a-85db-45a8-8e85-8d697837047c.png" alt="Más de 150 ilustraciones: paisajes, animales y flores para pintar por números"></div>
+    <div class="sol-chips"><span>🖌 Pinta con colores, marcadores, pinturas o con el material que mas te guste</span></div>
+    <div class="sol-grid">
+      <article class="card"><div class="num">🧘</div><h3>Baja el estrés y la ansiedad</h3><p>Mientras pintas, tu mente deja de dar vueltas. Es tu momento de calma, lejos del celular.</p></article>
+      <article class="card"><div class="num">🎯</div><h3>Mejora tu concentración</h3><p>Eliges un color, sigues los números y entras en un ritmo tranquilo que entrena la paciencia.</p></article>
+      <article class="card"><div class="num">🌎</div><h3>Viajas sin salir de casa</h3><p>Coloreas paisajes icónicos de Latinoamérica y del mundo mientras conoces curiosidades de cada lugar.</p></article>
+      <article class="card"><div class="num">🕯</div><h3>Un ritual solo para ti</h3><p>Enciende una vela, pon la música sugerida y regálate unos minutos. Te desconecta y te hace bien.</p></article>
+    </div>
+  </div>
+</section>
+
+
+<!-- ============ 06 — TRES TIPOS DE PERSONA (PESTAÑAS CON FOTO) ============ -->
+<section class="pad">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Tres razones para empezar</span>
+      <h2 class="h2">Elige la que <em>suena a ti.</em></h2>
+      <p class="lede">No necesitas experiencia. Solo elegir un color y dejarte llevar por los números.</p>
+    </div>
+    <div class="tabs">
+      <button type="button" class="tab on" data-t="t1">🌙 Para bajar el ruido mental</button>
+      <button type="button" class="tab" data-t="t2">📵 Para soltar el celular</button>
+      <button type="button" class="tab" data-t="t3">👩‍👧 Para compartir un plan</button>
+    </div>
+    <div class="panel on" id="t1"><div class="panel-c">
+      <div><h3>Para quien no logra apagar la cabeza</h3><p>Terminas el día y sigues pensando en todo. Unos minutos antes de dormir, pintando, pueden ser el único momento en que realmente bajas el ruido.</p>
+        <ul class="list"><li>20 minutos al día, sin ninguna presión</li><li>Pon música, prepara un té o un café y desconecta</li><li>Un ritual sencillo para terminar el día más tranquilo</li></ul></div>
+      <div class="slot"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_062700_62ee9598-08a2-432e-a233-c5d0bed81201.png" alt="Mujer pintando por números de noche con una vela"></div>
+    </div></div>
+    <div class="panel" id="t2"><div class="panel-c">
+      <div><h3>Para quien quiere menos pantallas</h3><p>Buscas una actividad que no implique mirar otra pantalla. Aquí tienes una excusa hermosa para frenar un rato y descansar de verdad.</p>
+        <ul class="list"><li>Imprime y pinta en papel, con lo que tengas</li><li>Cada lámina trae curiosidades para aprender mientras pintas</li><li>Un momento tuyo, lejos del celular</li></ul></div>
+      <div class="slot"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_062632_213348be-b9f0-4913-8997-441312bd01e1.png" alt="Manos pintando con el celular boca abajo"></div>
+    </div></div>
+    <div class="panel" id="t3"><div class="panel-c">
+      <div><h3>Para quien quiere un plan lindo en compañía</h3><p>Lo compras para ti y termina siendo un momento que esperan toda la semana: pintar juntos, conversar de cada lugar o animal y disfrutarse.</p>
+        <ul class="list"><li>Incluye Calma kids: 20 aventuras para niños de 4 a 10 años</li><li>Imprime las veces que quieras, para toda la familia</li><li>Un plan que une, sin pantallas</li></ul></div>
+      <div class="slot"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_062633_fdaf4c6a-ad24-4b4e-b175-d0eb2bc8dc51.png" alt="Madre e hija pintando juntas"></div>
+    </div></div>
+  </div>
+</section>
+<script>
+(function(){
+  var tabs=document.querySelectorAll('.tab'),panels=document.querySelectorAll('.panel');
+  tabs.forEach(function(t){t.addEventListener('click',function(){
+    tabs.forEach(function(x){x.classList.remove('on');});panels.forEach(function(p){p.classList.remove('on');});
+    t.classList.add('on');var el=document.getElementById(t.getAttribute('data-t'));if(el)el.classList.add('on');});});
+})();
+</script>
+
+
+
+
+<!-- ============ 09 — BONOS (SIN PRECIO, IGUAL QUE LA LANDING ORIGINAL) ============ -->
+<section class="pad bon">
+  <div class="wrap">
+    <div class="head">
+      <span class="bon-pill">🎁 De regalo solo por hoy</span>
+      <h2 class="h2">Compras Calma en Colores y te llevas <em>4 regalos extra</em> 🧡</h2>
+      <p class="lede">Para que nunca te quedes sin algo nuevo para pintar.</p>
+    </div>
+    <div class="bon-grid">
+      <article class="bcard"><div class="im"><span class="btag star">⭐ Regalo 1 de 4 · El estrella</span><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080647_a78edc01-3eaa-419f-b13b-2d42c25bff4f.png" alt="Grandes Obras de pintores famosos"></div>
+        <div class="b"><h3>Grandes Obras de pintores famosos</h3><p>Una colección de obras maestras de la pintura para pintar por números: llénate de arte y siente como un verdadero artista.</p><span class="free">✓ Bono 1 — Gratis</span></div></article>
+      <article class="bcard"><div class="im"><span class="btag">🎁 Regalo 2 de 4</span><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080646_1c9a1f0d-dfc9-4dd8-90ab-a4c19f0312d3.png" alt="Flora y Fauna de Latinoamérica"></div>
+        <div class="b"><h3>Flora y Fauna de Latinoamérica</h3><p>Jaguares, ballenas, cóndores y flores nativas: la biodiversidad más linda de nuestra región para pintar.</p><span class="free">✓ Bono 2 — Gratis</span></div></article>
+      <article class="bcard"><div class="im"><span class="btag">🎁 Regalo 3 de 4</span><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080710_709e751f-501d-4909-8135-e29a77ad1cae.png" alt="10 Mandalas Originales"></div>
+        <div class="b"><h3>10 Mandalas Originales</h3><p>Para colorear, respirar y encontrar armonía. Un momento para ti: desconecta, respira, crea.</p><span class="free">✓ Bono 3 — Gratis</span></div></article>
+      <article class="bcard"><div class="im"><span class="btag">🎁 Regalo 4 de 4 · Nuevo</span><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080711_77fc62d5-af62-4504-a3d6-4a4e00891954.png" alt="Calma kids"></div>
+        <div class="b"><h3>Calma kids</h3><p>20 aventuras para colorear, imaginar y relajarse. Pensado para niños de 4 a 10 años.</p><span class="free">✓ Bono 4 — Gratis</span></div></article>
+    </div>
+    <p class="bon-close">Otros libros te dan dibujos para pintar.<br><b>Tú te llevas un ritual completo para desconectar de verdad.</b><br>Tu momento empieza hoy. 🧡</p>
+  </div>
+</section>
+
+
+
+
+ </div>
+
+
+    <div class="viewers"><i></i><span><b>7 personas</b> están mirando esto ahora mismo</span></div>
+
+
+    <a href="/checkout" class="mof-btn">
+      <span class="main">🎨 ¡Sí, quiero mi Calma en Colores!</span>
+      <span class="sub">Acceso inmediato · Descarga al instante</span>
+    </a>
+  </div>
+
+
+
+
+<!-- ============ 08 — CARRUSEL: LO QUE VAS A RECIBIR ============ -->
+<section class="car">
+  <div class="head" style="padding:0 22px">
+    <span class="eyebrow">✦ Lo que vas a recibir ✦</span>
+    <h2 class="h2">Una compra: <em>3 colecciones completas + 4 bonos.</em></h2>
+    <p class="lede">Desliza para ver lo que hay dentro. Tienes también "Grandes Obras", un bono extra.</p>
+  </div>
+  <div class="track" id="carTrack">
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080618_e7a8e387-099e-4bac-b61d-633ddc951afd.png" alt="Postales del Mundo"><span class="tag">Colección</span></div><div class="b"><h3>Postales del Mundo</h3><p>Viaja a los lugares más icónicos del planeta mientras pintas.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080647_d26d01ab-e41f-40ba-b20a-3a084f23ec4d.png" alt="Lugares de Latinoamérica"><span class="tag">Colección</span></div><div class="b"><h3>Lugares de Latinoamérica</h3><p>Paisajes icónicos de nuestra región, con curiosidades de cada lugar.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080647_325e00f0-6f72-4ba5-a6ea-62a5bec0c380.png" alt="Calma en flores"><span class="tag">Colección</span></div><div class="b"><h3>Calma en flores</h3><p>Un jardín mágico y tranquilo para pintar, una flor a la vez.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080646_1c9a1f0d-dfc9-4dd8-90ab-a4c19f0312d3.png" alt="Flora y Fauna de Latinoamérica"><span class="tag alt">Bono</span></div><div class="b"><h3>Flora y Fauna de Latinoamérica</h3><p>Paisaje, animales y flora en una sola postal para pintar.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080710_709e751f-501d-4909-8135-e29a77ad1cae.png" alt="10 Mandalas Originales"><span class="tag alt">Bono</span></div><div class="b"><h3>10 Mandalas Originales</h3><p>Para colorear, respirar y encontrar armonía.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080711_77fc62d5-af62-4504-a3d6-4a4e00891954.png" alt="Calma kids"><span class="tag alt">Bono</span></div><div class="b"><h3>Calma kids</h3><p>20 aventuras para colorear, imaginar y relajarse. Para niños de 4 a 10 años.</p></div></article>
+  </div>
+  <div class="ctrl"><button class="arrow-btn" id="carPrev" aria-label="Anterior">←</button><button class="arrow-btn" id="carNext" aria-label="Siguiente">→</button></div>
+  <p class="foot-i">Acceso ilimitado: podrás volver a imprimir tus libros y plantillas todas las veces que quieras.</p>
+</section>
+<script>
+(function(){
+  var t=document.getElementById('carTrack');if(!t)return;
+  function step(){var c=t.querySelector('.ccard');return c?c.offsetWidth+22:300;}
+  document.getElementById('carNext').addEventListener('click',function(){t.scrollBy({left:step(),behavior:'smooth'});});
+  document.getElementById('carPrev').addEventListener('click',function(){t.scrollBy({left:-step(),behavior:'smooth'});});
+})();
+</script>
+
+
+
+
+<!-- ============ 10 — OFERTA (precio anterior → precio final, MISMO ORDEN QUE LA ORIGINAL) ============ -->
+<section class="mof" id="offer-section">
+  <div class="mof-top">
+    <span class="mof-pill">✦ SÚPER OFERTA ✦</span>
+    <div class="mof-script">Precio especial por tiempo limitado</div>
+    <div class="mof-timer">
+      <div class="mof-timer-lbl">⏳ Tu descuento termina en</div>
+      <div class="clock">
+        <div class="unit"><span class="n" id="tMin">10</span><span class="l">Minutos</span></div>
+        <span class="sep">:</span>
+        <div class="unit"><span class="n" id="tSec">00</span><span class="l">Segundos</span></div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="mof-grid">
+  <div class="mof-visual">
+    <img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080844_bddf1eeb-cffb-4ed0-aeda-60063908564b.png" alt="Todo lo que te llevas: 3 colecciones + 4 bonos">
+    <div class="mof-vcap">🎁 Todo esto es tuyo hoy: <b>3 colecciones + 4 bonos</b></div>
+  </div>
+  <div class="mof-card">
+    <div class="mof-launch">★ OFERTA ESPECIAL ★</div>
+    <h3 class="mof-name">Calma en Colores</h3>
+    <p class="mof-bundle">El ritual antiestrés de pintura por números</p>
+
+
+    <div class="price-row"><span class="was">Precio normal: {{original_price}}</span><span class="off">50% OFF</span></div>
+    <div class="now">{{price}}</div>
+    <div class="cur-note" style="font-size:12px;color:var(--ink-soft);margin-bottom:4px">Precio en {{currency}}</div>
+    <div class="save">AHORRAS {{savings}}</div>
+    <p class="mof-meta">Pago único · Acceso ilimitado · Sin suscripciones</p>
+
+
+    <ul class="mof-list">
+      <li><span class="ck">✓</span><span>🎨 <b>3 colecciones completas</b> de pintura por números (+ más de 150 ilustraciones)</span></li>
+      <li><span class="ck">✓</span><span>🌎 Postales del Mundo · Lugares de Latinoamérica · Calma en flores</span></li>
+      <li><span class="ck">✓</span><span>📖 Fichas con curiosidades de cada lugar</span></li>
+      <li><span class="ck">✓</span><span>🖨 Imprime en A4 o A3, por partes si quieres</span></li>
+      <li><span class="ck">✓</span><span>📩 Te llega al e-mail apenas pagas</span></li>
+      <li><span class="ck">✓</span><span>🛡 Garantía de 120 días</span></li>
+    </ul>
+
+
+    <div class="mof-bonus">
+      <span class="ic">🎁</span>
+      <div><div class="t">MÁS 4 BONOS EXTRA<br>DE REGALO</div><span class="g">HOY: GRATIS</span></div>
+    </div>
+
+
+    <div class="viewers"><i></i><span><b>7 personas</b> están mirando esto ahora mismo</span></div>
+
+
+    <a href="/checkout" class="mof-btn">
+      <span class="main">🎨 ¡Sí, quiero mi Calma en Colores!</span>
+      <span class="sub">Acceso inmediato · Descarga al instante</span>
+    </a>
+  </div>
+  </div>
+
+
+<!-- ============ 07 — TU RITUAL, PASO A PASO ============ -->
+<section class="pad" style="padding-top:20px">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">✂ Simple como 1, 2, 3</span>
+      <h2 class="h2">Tu Ritual, paso a paso. <em>Pinta con el material que prefieras.</em></h2>
+    </div>
+    <div class="steps-img"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_e2f2eebc-329a-4a20-bb87-b03609a03e02.png" alt="Cómo funciona Calma en Colores: recibe, imprime y pinta un elefante mandala"></div>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><div class="ic">📩</div><h3>Recíbelo en tu e-mail</h3><p>Apenas pagas, te llega el acceso automáticamente al correo. La entrega es inmediata.</p></div>
+      <div class="step"><div class="n">2</div><div class="ic">🖨</div><h3>Imprime lo que quieras</h3><p>En cualquier papel A4 o A3, y por partes si quieres. Puedes reimprimir todas las veces que desees.</p></div>
+      <div class="step"><div class="n">3</div><div class="ic">🖌</div><h3>Pinta a tu ritmo</h3><p>Con lápices, marcadores o acuarelas: lo que tengas. Elige un color y sigue los números.</p></div>
+    </div>
+    <div class="center"><a href="/checkout" class="cta">Quiero empezar mi Ritual <span class="arrow">→</span></a></div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="after">
+    <h3>Lo que más nos preguntan 👇</h3>
+    <ul class="qb">
+      <li>📩 <b>Te llega al e-mail</b> apenas pagas</li>
+      <li>🖨 <b>Imprime en cualquier papel</b> A4 o A3, y por partes si quieres</li>
+      <li>🖌 <b>Pinta con lo que tengas:</b> lápices, marcadores o acuarelas</li>
+    </ul>
+    <div class="pay">
+      <div class="lbl">Medios de pago</div>
+      <div class="logos"><span>Visa</span><span>Mastercard</span><span>Mercado Pago</span></div>
+      <p>💳 Paga con tarjeta de crédito, débito o Mercado Pago</p>
+    </div>
+    <!-- Reemplaza el bloque por tu insignia oficial de vendedor si la tienes -->
+    <div class="seller">
+      <div class="ic">🏅</div>
+      <div class="t"><b>MercadoLíder Platinum</b><span>Uno de los mejores del sitio · Buena atención · Entrega a tiempo</span></div>
+      <div class="k">+10 mil<small>Ventas</small></div>
+    </div>
+    <div class="tl"><div>🔒 Pago 100% seguro</div><div>📩 Entrega por e-mail</div><div>✅ Garantía de 120 días</div><div>♾ Acceso ilimitado</div></div>
+  </div>
+</section>
+<script>
+(function(){
+  // Cuenta regresiva: 10 minutos exactos (igual que la landing original)
+  var KEY='cec_timer_v1',TOTAL=10*60*1000,m=document.getElementById('tMin'),s=document.getElementById('tSec'),end;
+  try{end=parseInt(localStorage.getItem(KEY),10);}catch(e){}
+  if(!end||end<Date.now()){end=Date.now()+TOTAL;try{localStorage.setItem(KEY,end);}catch(e){}}
+  function tick(){
+    var left=Math.max(0,end-Date.now());
+    m.textContent=('0'+Math.floor(left/60000)).slice(-2);
+    s.textContent=('0'+Math.floor(left/1000)%60).slice(-2);
+    if(left<=0){end=Date.now()+TOTAL;try{localStorage.setItem(KEY,end);}catch(e){}}
+  }
+  tick();setInterval(tick,1000);
+})();
+</script>
+
+
+<!-- ============ 11 — RESEÑAS ============ -->
+<section class="rev">
+  <div class="head">
+    <span class="eyebrow">💬 Reseñas verificadas</span>
+    <h2 class="h2">Lo que dicen quienes ya viven <em>su Ritual del Color</em></h2>
+    <p class="lede" style="margin-bottom:16px">Descubre cómo este momento de calma transformó la rutina de cientos de personas.</p>
+    <div class="rating"><span class="st">★★★★★</span> <b>4.7/5</b> · 1564 reseñas verificadas</div>
+  </div>
+  <!-- FOTOS: pega en cada src="" la foto REAL de la obra de la clienta (solo con su permiso). Si queda vacío, la foto se oculta sola. -->
+  <div class="track" id="revTrack">
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Valentina P."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 5 días</div><p>Trabajo todo el día y cuando llegaba a casa seguía mirando el celular sin descansar de verdad. Empecé a dedicarme 20 minutos cada tarde para pintar con un café y música de fondo. Me sorprendió lo relajante que es, y además miren lo hermoso que quedó mi jaguar.</p><div class="who">Valentina P.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Mariana R."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 1 semana</div><p>Pensé que era un simple libro para colorear, pero terminó siendo mi ritual de todos los domingos. Me encanta que cada ilustración tenga datos curiosos y propuestas para desconectar un rato. Siento que por fin encontré una actividad que realmente me ayuda a bajar un cambio. ¡Empecé por Santorini, obvio!</p><div class="who">Mariana R.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Martín G."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 2 semanas</div><p>Nunca fui de pintar, pero me llamó la atención la propuesta. Me gustó descubrir historias de cada lugar mientras hacía algo totalmente distinto a mirar mi celular. Hoy es una de las formas que encontré para desconectarme después de un día difícil. Mil gracias.</p><div class="who">Martín G.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Sofía M."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 3 semanas</div><p>Lo compré para mí y terminó siendo un plan hermoso con mi hija. Nos sentamos juntas a pintar mientras hablamos de cada lugar o animal. Es un momento que las dos esperamos durante la semana.</p><div class="who">Sofía M.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Javier P."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 1 mes</div><p>Buscaba una actividad tranquila para los fines de semana y superó mis expectativas. Las ilustraciones son hermosas y la información que acompaña cada página hace que no sea solo colorear. Es un momento para relajarme y aprender algo nuevo al mismo tiempo.</p><div class="who">Javier P.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 6 días</div><p>Me llegó al mail apenas pagué. Eso me gustó mucho porque enseguida fui a imprimir y pude empezar a pintar el mismo día.</p><div class="who">Natalia T.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 2 semanas</div><p>Mi cabeza no paraba nunca. Terminaba de trabajar y seguía pensando en pendientes, mensajes y preocupaciones. Empecé a pintar unos minutos antes de dormir y siento que es el único momento del día en el que realmente puedo bajar mi ruido mental.</p><div class="who">Meli R.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 3 semanas</div><p>Vivo con mucho estrés y buscaba una actividad que no implicara mirar otra pantalla. Este libro me dio una excusa para frenar un rato. Pongo música, preparo un café y durante media hora me olvido del trabajo.</p><div class="who">Diego L.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 1 mes</div><p>Muy buena inversión. Siempre decía que no tenía tiempo para mí. Me di cuenta de que solo necesitaba veinte minutos. Ahora ese ratito con los lápices se convirtió en mi pequeño ritual para terminar el día mucho más tranquila.</p><div class="who">Micaela G.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 10 días</div><p>Me daba miedo que fuera complicado, soy bastante ansioso y me cuesta relajarme. Nunca imaginé que colorear pudiera ayudarme tanto. Mientras voy pintando dejo de pensar en todo lo demás y termino sintiéndome mucho más liviano.</p><div class="who">Nico R.</div></div></article>
+  </div>
+  <div class="ctrl"><button class="arrow-btn" id="revPrev" aria-label="Anterior">←</button><button class="arrow-btn" id="revNext" aria-label="Siguiente">→</button></div>
+  <p class="foot-i" style="margin-top:6px">Basado en más de 1.500 compradores · Compra verificada · Entrega inmediata</p>
+</section>
+<script>
+(function(){
+  var t=document.getElementById('revTrack');if(!t)return;
+  t.querySelectorAll('img.ph').forEach(function(i){if(!i.getAttribute('src'))i.style.display='none';});
+  function step(){var c=t.querySelector('.rcard');return c?c.offsetWidth+22:340;}
+  document.getElementById('revNext').addEventListener('click',function(){t.scrollBy({left:step(),behavior:'smooth'});});
+  document.getElementById('revPrev').addEventListener('click',function(){t.scrollBy({left:-step(),behavior:'smooth'});});
+})();
+</script>
+
+
+<!-- ============ 12 — GARANTÍA ============ -->
+<section class="gu">
+  <div class="seal"><div><b>120</b><small>días</small></div></div>
+  <span class="eyebrow" style="color:var(--terra);display:block">Una garantía real, sin letra chica</span>
+  <h2 class="h2" style="margin-bottom:18px">120 días para probarlo, <em>sin riesgo.</em></h2>
+  <p class="t">Tu compra está protegida por nuestra <b>garantía de satisfacción de 120 días</b>. Descarga, imprime, pinta y vive tu Ritual. Si no cumple tus expectativas, te devolvemos tu dinero.</p>
+</section>
+
+
+<!-- ============ 13 — PREGUNTAS FRECUENTES ============ -->
+<section class="pad">
+  <div class="faq-w">
+    <div class="head" style="margin-bottom:34px">
+      <span class="eyebrow">Preguntas frecuentes ❓</span>
+      <h2 class="h2">Todo lo que necesitas saber <em>antes de comenzar.</em></h2>
+    </div>
+    <details class="fq"><summary>💳 ¿Puedo pagar con Mercado Pago? <span class="pl">+</span></summary><div class="a">Sí. Puedes pagar con Mercado Pago y también con tarjeta de crédito o débito.</div></details>
+    <details class="fq"><summary>📩 ¿Cómo recibo los libros después de comprar? <span class="pl">+</span></summary><div class="a">El acceso se envía automáticamente al correo electrónico que ingresas al momento de la compra. La entrega es inmediata.</div></details>
+    <details class="fq"><summary>🔒 ¿El pago es seguro? <span class="pl">+</span></summary><div class="a">Sí. El pago se procesa con sistemas de seguridad y encriptación SSL para proteger tus datos.</div></details>
+    <details class="fq"><summary>🎨 ¿Necesito experiencia previa para empezar? <span class="pl">+</span></summary><div class="a">No. Los libros están diseñados para principiantes: solo eliges un color y te dejas llevar por los números.</div></details>
+    <details class="fq"><summary>🖌 ¿Puedo pintar con acuarelas? <span class="pl">+</span></summary><div class="a">Puedes pintar con lo que quieras: marcadores, lápices, lápices acuarelables o pintura. Si usas acuarela u otra pintura con agua, te recomendamos imprimir en un papel grueso apto para pintura.</div></details>
+    <details class="fq"><summary>🖨 ¿Puedo imprimir en cualquier papel? <span class="pl">+</span></summary><div class="a">Sí. Puedes imprimir en cualquier papel A4 o A3; solo ten en cuenta el gramaje según el material con el que vayas a pintar. Si imprimes en una copistería, cuéntales con qué vas a pintar y sabrán recomendarte el mejor papel.</div></details>
+    <details class="fq"><summary>🖼 ¿Puedo hacer un cuadro con mi obra? <span class="pl">+</span></summary><div class="a">¡Claro! Puedes enmarcar todo lo que quieras. En ese caso, te conviene usar un papel de mejor calidad.</div></details>
+    <details class="fq"><summary>♾ ¿Cuánto tiempo tendré acceso al contenido? <span class="pl">+</span></summary><div class="a">El acceso es ilimitado. Podrás volver a imprimir tus libros y plantillas todas las veces que quieras.</div></details>
+    <details class="fq"><summary>📚 ¿Puedo imprimir los libros por partes? <span class="pl">+</span></summary><div class="a">Sí. Puedes imprimir solo lo que vayas a usar: por ejemplo, primero una colección, tomarte tu tiempo para pintarla y, cuando la termines, imprimir las siguientes.</div></details>
+    <details class="fq"><summary>🛡 ¿Qué pasa si el libro no cumple mis expectativas? <span class="pl">+</span></summary><div class="a">Tu compra está protegida por nuestra garantía de satisfacción de 120 días, para que puedas probar el contenido sin riesgo.</div></details>
+  </div>
+</section>
+
+
+<!-- ============ 14 — LLAMADO FINAL + FOOTER ============ -->
+<section class="fin">
+  <div class="wrap">
+    <h2 class="h2">¿Te regalas tu Ritual hoy? <em>🎨</em></h2>
+    <p class="t">Hoy puedes regalarte algo distinto: <b>menos pantallas, más calma y un ratito solo para ti.</b></p>
+    <a href="/checkout" class="cta">🎁 ¡Quiero mi Calma en Colores ahora! <span class="arrow">→</span></a>
+    <div class="secure">🔒 Pago 100% seguro · ✅ Acceso inmediato</div>
+    <div class="trust4"><span>🔒 Pago seguro</span><span>📩 Acceso inmediato</span><span>✅ Garantía de 120 días</span><span>♾ Acceso ilimitado</span></div>
+    <div class="foot">
+      <div class="br">Calma en Colores</div>
+      <div class="tg">Elige un color. Sigue los números. Respira.</div>
+      <div class="c">© 2026 Calma en Colores · Todos los derechos reservados</div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ============ BARRA FIJA INFERIOR (aparece al llegar a la oferta, respetando el orden de precios) ============ -->
+<div class="sticky" id="sticky">
+  <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_3443ace1-eb28-4552-982b-74db05ae64c3.png" alt="">
+  <div class="tx">
+    <div class="nm">Calma en Colores + 4 Bonos Exclusivos</div>
+    <div class="pr"><b>{{price}}</b><s>{{original_price}}</s></div>
+  </div>
+  <a href="/checkout">Quiero empezar mi Ritual ahora</a>
+</div>
+<script>
+(function(){
+  var st=document.getElementById('sticky'),offer=document.getElementById('offer-section');
+  if(!st||!offer||!('IntersectionObserver' in window)){if(st)st.classList.add('show');return;}
+  new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting||e.boundingClientRect.top<0){st.classList.add('show');}});},{threshold:.05}).observe(offer);
+})();
+</script>
+</body>
+</html>

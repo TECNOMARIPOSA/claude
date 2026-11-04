@@ -81,4 +81,5 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-04 · Landing «Calma en Colores» final con tokens de precio](../OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt) — versión final del usuario con precios dinámicos por moneda.
 - [2026-11-03 · Landing «Calma en Colores» (LATAM)](../OUTPUTS/2026-11-03-landing-calma-en-colores.txt) — HTML completo de la landing replicada de turitualdelcolor.com sobre la estructura de Meu AuMigu.

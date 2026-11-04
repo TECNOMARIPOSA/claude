@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04
+**Cambios:** output guardado `OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt`: versión final del usuario con tokens de precio (`price`, `original_price`, `savings`, `currency`) y CTAs a `/checkout`.
+
 ## 2026-11-03 (v2 landing)
 **Cambios:** `OUTPUTS/2026-11-03-landing-calma-en-colores.txt` rehecho desde la versión base: paleta verde olivo + naranja suave, nuevas imágenes (hero con ficha, «más de 150 ilustraciones», elefante mandala, portadas), Calma en flores, Calma kids, Grandes Obras como bono 1, oferta en dos columnas.
 
