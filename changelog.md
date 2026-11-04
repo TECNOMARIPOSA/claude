@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook final)
+**Cambios:** ebook completo en un solo PDF (205 páginas: portada, bienvenida, cómo usar, índice con enlaces, separadores, 65 ilustraciones y cierre). Output `OUTPUTS/2026-11-04-ebook-calma-en-colores-completo.md`. Portada generada en Higgsfield (1 crédito).
+
 ## 2026-11-04 (ebook, Temática 3)
 **Cambios:** Temática 3 completa (20 ilustraciones, n.º 46 a 65, 3 páginas cada una). El producto principal queda con las 65 ilustraciones. Output `OUTPUTS/2026-11-04-ebook-tematica-3-animales.md`. Imágenes en Higgsfield, calidad baja 1K (5 créditos).
 

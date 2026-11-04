@@ -81,6 +81,7 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-04 · Ebook «Calma en colores» · PDF completo (205 páginas)](../OUTPUTS/2026-11-04-ebook-calma-en-colores-completo.md) — portada, introducción, índice y las 65 ilustraciones en un solo PDF.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 3 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-3-animales.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 2 completa (25 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-2-flores-y-jardines.md) — 25 ilustraciones de 3 páginas, pendiente de revisión.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
