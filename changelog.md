@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook, Temática 3)
+**Cambios:** Temática 3 completa (20 ilustraciones, n.º 46 a 65, 3 páginas cada una). El producto principal queda con las 65 ilustraciones. Output `OUTPUTS/2026-11-04-ebook-tematica-3-animales.md`. Imágenes en Higgsfield, calidad baja 1K (5 créditos).
+
 ## 2026-11-04 (ebook, Temática 2)
 **Cambios:** Temática 2 completa (25 ilustraciones, n.º 21 a 45, 3 páginas cada una). Output `OUTPUTS/2026-11-04-ebook-tematica-2-flores-y-jardines.md`. Imágenes base en Higgsfield, calidad media 2K, una por ilustración (25 créditos).
 
