@@ -15,7 +15,7 @@ S = FW / W
 
 img = cv2.imread(src)
 img = cv2.resize(img, (W, H), interpolation=cv2.INTER_AREA)
-flat = cv2.pyrMeanShiftFiltering(img, 8, 16)
+flat = cv2.pyrMeanShiftFiltering(img, int(os.environ.get('SEG_SP', 8)), int(os.environ.get('SEG_SR', 16)))
 lab = cv2.cvtColor(flat, cv2.COLOR_BGR2LAB).astype(np.float32)
 
 rng = np.random.RandomState(0)

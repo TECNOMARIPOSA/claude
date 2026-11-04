@@ -100,6 +100,6 @@ p4 = '''<div class="page"><div class="art"><img src="%(a)s"></div>
 <div class="tip">Elige tus propios colores</div>
 <div class="foot">Calma en colores<small>%(num)s · %(title)s · Colorea libremente</small></div></div>''' % dict(a=free, num=NUM, title=TITLE)
 
-for i, body in enumerate([p1, p2, p3, p4], 1):
+for i, body in enumerate([p1, p2, p3], 1):
     open('%s/p%d.html' % (d, i), 'w').write('<!doctype html><html><head><meta charset="utf-8"><style>%s</style></head><body>%s</body></html>' % (css, body))
 print('ok')

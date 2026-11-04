@@ -8,6 +8,6 @@ fuentes: [OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md]
 
 Estado: **pendiente de confirmación** del usuario.
 
-Carpeta: `calma-en-colores-ebook/tematica-1-postales-del-mundo/02-torre-eiffel/` (páginas 1 a 4 en A4 a 300 ppp, PDF y `paleta.json`).
+Carpeta: `calma-en-colores-ebook/tematica-1-postales-del-mundo/02-torre-eiffel/` (3 páginas A4 a 300 ppp y `paleta.json`).
 
 Detalle: 32 colores y 522 secciones. Las herramientas y los textos de cada ilustración (`c01.json`, `c02.json`) están en `calma-en-colores-ebook/herramientas/`.

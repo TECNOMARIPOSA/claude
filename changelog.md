@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook, Temática 1)
+**Cambios:** Temática 1 completa (20 ilustraciones, 3 páginas cada una; se elimina la página 4), con el jardín japonés aportado por el usuario como n.º 03. Output `OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md`. Imágenes base generadas en Higgsfield con calidad media 2K, una por ilustración (17 créditos).
+
 ## 2026-11-04 (ebook 02)
 **Cambios:** ilustración 01 (Santorini) confirmada por el usuario. Nueva ilustración 02 (Torre Eiffel) con mayor nivel de detalle, en `OUTPUTS/calma-en-colores-ebook/`; output `OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md`. Pendiente de confirmación.
 

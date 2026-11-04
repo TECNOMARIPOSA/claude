@@ -13,7 +13,5 @@ Estado: **confirmada por el usuario** como diseño base del ebook. Ver también 
 | 1 · Presentación | `calma-en-colores-ebook/tematica-1-postales-del-mundo/01-santorini/pagina-1-presentacion.jpg` |
 | 2 · Referencia a color + paleta numerada (32 colores) | `.../pagina-2-referencia-color.jpg` |
 | 3 · Para colorear con numeración | `.../pagina-3-colorear-numerado.png` |
-| 4 · Para colorear libre | `.../pagina-4-colorear-libre.png` |
-| PDF de las 4 páginas (A4, 300 ppp) | `.../01-santorini-4-paginas.pdf` |
 
-Método: la ilustración base se genera en Higgsfield; la paleta y la numeración se calculan por código (32 colores, 188 secciones) para que cada número de la página 3 coincida con la paleta de la página 2. Las herramientas están en `calma-en-colores-ebook/herramientas/`.
+Método: la ilustración base se genera en Higgsfield; la paleta y la numeración se calculan por código (32 colores, 188 secciones) para que cada número de la página 3 coincida con la paleta de la página 2. La página 4 se eliminó por decisión del usuario. Las herramientas están en `calma-en-colores-ebook/herramientas/`.
