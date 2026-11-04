@@ -1,4 +1,4 @@
-import sys, json
+import sys, json, os
 import numpy as np, cv2
 from scipy import ndimage as ndi
 from sklearn.cluster import KMeans
@@ -9,7 +9,7 @@ K = int(sys.argv[3]) if len(sys.argv) > 3 else 28
 MIN_AREA = int(sys.argv[4]) if len(sys.argv) > 4 else 1500   # at working res
 MIN_R = float(sys.argv[5]) if len(sys.argv) > 5 else 11.0     # min inscribed radius at working res
 
-W, H = 1150, 1437            # working resolution (4:5)
+W = int(os.environ.get('SEG_W', 1150)); H = int(W * 1.25)   # working resolution (4:5)
 FW, FH = 2300, 2875          # final line-art resolution (A4 @300dpi, with margins)
 S = FW / W
 
@@ -37,8 +37,8 @@ def majority(L, sigma):
     return out
 
 
-L = majority(L, 3.0)
-L = majority(L, 2.0)
+L = majority(L, float(os.environ.get('SEG_S1', 3.0)))
+L = majority(L, float(os.environ.get('SEG_S2', 2.0)))
 
 
 def components(L):
@@ -130,7 +130,7 @@ Image.fromarray(q).save(outdir + '/quantized.png')
 # ---- line art at final resolution ----
 line = np.full((FH, FW), 255, np.uint8)
 C, n = components(Lr)
-thick = 4
+thick = int(os.environ.get('SEG_THICK', 4))
 numbers = []
 objs = ndi.find_objects(C)
 for cid in range(1, n + 1):
@@ -163,7 +163,7 @@ numimg = Image.fromarray(line).convert('L')
 d = ImageDraw.Draw(numimg)
 fp = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 for num, x, y, r in numbers:
-    size = int(max(24, min(48, r * 0.95)))
+    size = int(max(int(os.environ.get('SEG_MINFONT', 24)), min(48, r * 0.95)))
     f = ImageFont.truetype(fp, size)
     d.text((x, y), str(num), font=f, fill=40, anchor='mm')
 numimg.save(outdir + '/lineart_numbered.png')

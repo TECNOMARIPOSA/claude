@@ -12,9 +12,8 @@ color = b64(base)
 free = b64(d + '/lineart_free.png')
 numd = b64(d + '/lineart_numbered.png')
 
-NUM = '01'
-TITLE = 'Santorini, Grecia'
-SUB = 'Cúpulas azules frente al mar Egeo'
+cfg = json.load(open(sys.argv[3]))
+NUM, TITLE, SUB = cfg['num'], cfg['title'], cfg['sub']
 
 css = '''
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@300;400;500;600&display=swap');
@@ -77,19 +76,17 @@ h1{font-family:'Fraunces',serif;font-weight:500;font-size:40px;letter-spacing:-.
 sw = ''.join('<div><span style="background:%s"></span><b>%d</b><i>%s</i></div>' % (p['hex'], p['n'], p['hex'].upper()) for p in pal)
 rows_note = 'Cada número de la lámina corresponde a un color de la paleta'
 
+facts = ''.join('<li><strong>%s</strong> %s</li>' % (f[0], f[1]) for f in cfg['facts'])
 p1 = '''<div class="page"><div class="card">
 <div class="hd"><div class="orn"><i></i>%(num)s<i></i></div><h1>%(title)s</h1><div class="sub">%(sub)s</div>
-<p class="desc">Un atardecer dorado sobre el Egeo: una cúpula azul, casas blancas y buganvillas que caen por los acantilados de Oia. Un lugar para respirar despacio.</p></div>
+<p class="desc">%(desc)s</p></div>
 <div class="body"><div class="pic"><img src="%(color)s"></div>
-<div class="sec"><h2><b>?</b>¿Sabías que&hellip;?</h2><ul>
-<li><strong>Un volcán hundido.</strong> Santorini es lo que queda de un gran volcán: una erupción, hacia el 1600 a. C., hundió su centro y formó la caldera, un mar interior rodeado de acantilados.</li>
-<li><strong>Casas en la roca.</strong> Muchas viviendas están excavadas en la roca volcánica de los acantilados, lo que ayuda a mantenerlas frescas en verano y cálidas en invierno.</li>
-<li><strong>Azul y blanco.</strong> Las cúpulas azules y los muros blancos suelen asociarse con los colores de la bandera griega, y el blanco refleja el sol del Egeo.</li></ul></div></div>
-<div class="play"><div class="box music sec"><h2><b>&#9835;</b>Pon play</h2><p>Guitarra acústica mediterránea muy suave, con sonido de olas del Egeo de fondo.</p><em>(Ideal para acompañar este momento de calma.)</em></div>
-<div class="box how sec"><h2><b>&#10047;</b>Tu momento</h2><p>Prepara una bebida caliente, baja la luz y elige un color. En la página siguiente verás la paleta sugerida y los números para pintar.</p></div></div>
-<div class="quote"><q>Respira hondo: la calma también se pinta, un color a la vez.</q></div>
+<div class="sec"><h2><b>?</b>¿Sabías que&hellip;?</h2><ul>%(facts)s</ul></div></div>
+<div class="play"><div class="box music sec"><h2><b>&#9835;</b>Pon play</h2><p>%(music)s</p><em>(Ideal para acompañar este momento de calma.)</em></div>
+<div class="box how sec"><h2><b>&#10047;</b>Tu momento</h2><p>%(moment)s</p></div></div>
+<div class="quote"><q>%(quote)s</q></div>
 <div class="brand">Calma en colores<small>Pintura por números antiestrés</small></div>
-</div></div>''' % dict(num=NUM, title=TITLE, sub=SUB, color=color)
+</div></div>''' % dict(num=NUM, title=TITLE, sub=SUB, color=color, desc=cfg['desc'], facts=facts, music=cfg['music'], moment=cfg['moment'], quote=cfg['quote'])
 
 p2 = '''<div class="page"><div class="p2img"><img src="%(color)s"></div>
 <div class="pal"><h3>Paleta de colores sugerida</h3><div class="sw">%(sw)s</div></div>

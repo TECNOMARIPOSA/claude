@@ -6,7 +6,7 @@ fuentes: [WIKI/index.md]
 
 # Ebook «Calma en colores» — Temática 1 · Postales del mundo · Ilustración 01: Santorini, Grecia
 
-Estado: **pendiente de confirmación** del usuario antes de producir las otras 19 de la Temática 1.
+Estado: **confirmada por el usuario** como diseño base del ebook. Ver también la ilustración 02 en `2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md`.
 
 | Página | Archivo |
 |---|---|

@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook 02)
+**Cambios:** ilustración 01 (Santorini) confirmada por el usuario. Nueva ilustración 02 (Torre Eiffel) con mayor nivel de detalle, en `OUTPUTS/calma-en-colores-ebook/`; output `OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md`. Pendiente de confirmación.
+
 ## 2026-11-04 (ebook)
 **Cambios:** output `OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md` + carpeta `OUTPUTS/calma-en-colores-ebook/` (ilustración 01 de la Temática 1, 4 páginas A4 y herramientas de generación). Pendiente de confirmación del usuario.
 
