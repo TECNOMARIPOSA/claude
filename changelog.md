@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook)
+**Cambios:** output `OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md` + carpeta `OUTPUTS/calma-en-colores-ebook/` (ilustración 01 de la Temática 1, 4 páginas A4 y herramientas de generación). Pendiente de confirmación del usuario.
+
 ## 2026-11-04
 **Cambios:** output guardado `OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt`: versión final del usuario con tokens de precio (`price`, `original_price`, `savings`, `currency`) y CTAs a `/checkout`.
 
