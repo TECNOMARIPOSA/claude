@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (portada)
+**Cambios:** portada del ebook rehecha como tapa plana según el diseño aportado por el usuario; PDF completo regenerado. Paisaje generado en Higgsfield (1 crédito).
+
 ## 2026-11-04 (ebook final)
 **Cambios:** ebook completo en un solo PDF (205 páginas: portada, bienvenida, cómo usar, índice con enlaces, separadores, 65 ilustraciones y cierre). Output `OUTPUTS/2026-11-04-ebook-calma-en-colores-completo.md`. Portada generada en Higgsfield (1 crédito).
 
