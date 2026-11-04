@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-04 (ebook, Temática 2)
+**Cambios:** Temática 2 completa (25 ilustraciones, n.º 21 a 45, 3 páginas cada una). Output `OUTPUTS/2026-11-04-ebook-tematica-2-flores-y-jardines.md`. Imágenes base en Higgsfield, calidad media 2K, una por ilustración (25 créditos).
+
 ## 2026-11-04 (ebook, Temática 1)
 **Cambios:** Temática 1 completa (20 ilustraciones, 3 páginas cada una; se elimina la página 4), con el jardín japonés aportado por el usuario como n.º 03. Output `OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md`. Imágenes base generadas en Higgsfield con calidad media 2K, una por ilustración (17 créditos).
 

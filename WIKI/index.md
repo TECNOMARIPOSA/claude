@@ -81,6 +81,7 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-04 · Ebook «Calma en colores» · Temática 2 completa (25 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-2-flores-y-jardines.md) — 25 ilustraciones de 3 páginas, pendiente de revisión.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 02 Torre Eiffel](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md) — segunda ilustración (4 páginas), pendiente de confirmación.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 01 Santorini](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md) — primera ilustración (4 páginas), confirmada como diseño base.
