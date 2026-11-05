@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (bono 2)
+**Cambios:** bono 2 (Grandes Obras de Pintores Famosos) completo, PDF de 34 páginas. Output `OUTPUTS/2026-11-05-ebook-bono-2-grandes-obras.md`. Higgsfield: 5 créditos. Sin Picasso por derechos de autor.
+
 ## 2026-11-05
 **Cambios:** bono 1 (10 Mandalas Originales) completo, con PDF de 34 páginas; portadas planas de los 4 bonos. Output `OUTPUTS/2026-11-05-ebook-bono-1-10-mandalas-originales.md`. Higgsfield: 2,5 créditos de imágenes + 8 de mejora de portadas.
 
