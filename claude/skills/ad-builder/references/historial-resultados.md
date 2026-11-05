@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H07: estilo de la referencia con tablet + hoja; la tablet muestra la portada real del ebook. Ángulo `SIM` (ya existía en la tabla).
 - H06: estilo de una imagen de referencia del usuario (hoja a medio pintar con pincel, vela, titular con palabra manuscrita). Ángulo nuevo `CAL` añadido a la nomenclatura; copy sin promesa médica.
 - H05 v2: el usuario pidió acercar la hoja y usar una ilustración más realista. Regla: en este producto, hoja grande que se sale del cuadro y lámina realista (paisaje con animales) funcionan mejor que la lámina plana.
 - H05: formato de «contenido del producto» (hoja inclinada mitad numerada/mitad pintada + franja de beneficios + categorías), calcado en estructura de la referencia argentina. Usa la lámina más vistosa del ebook. Sin oferta dentro de la imagen.
@@ -71,6 +72,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-05 | REG-N3_IMG_H04_v2 | Regalo («no termina en un cajón, termina en tu pared») | N3 | Estático 4:5 | «Un regalo que no termina en un cajón: termina en tu pared.» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | DIR-N4_IMG_H05_v2 | Venta directa («qué incluye») | N4 | Estático 4:5 | «Más de 100 ilustraciones para pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | CAL-N2_IMG_H06_v1 | Calma («dale un respiro a tu mente») | N2 | Estático 4:5 | «Dale un respiro a tu mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | SIM-N3_IMG_H07_v1 | Simplicidad («sin experiencia ni materiales especiales») | N3 | Estático 4:5 | «¡Pinta tu propia obra de arte!» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
