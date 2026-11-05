@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05
+**Cambios:** bono 1 (10 Mandalas Originales) completo, con PDF de 34 páginas; portadas planas de los 4 bonos. Output `OUTPUTS/2026-11-05-ebook-bono-1-10-mandalas-originales.md`. Higgsfield: 2,5 créditos de imágenes + 8 de mejora de portadas.
+
 ## 2026-11-04 (portada)
 **Cambios:** portada del ebook rehecha como tapa plana según el diseño aportado por el usuario; PDF completo regenerado. Paisaje generado en Higgsfield (1 crédito).
 
