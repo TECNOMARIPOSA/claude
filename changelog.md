@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio 3 v2)
+**Cambios:** H05 rehecho como v2 (hoja más cerca, Machu Picchu realista); v1 eliminada.
+
 ## 2026-11-05 (anuncio Meta 3)
 **Cambios:** anuncio estático DIR-N4_IMG_H05_v1 (contenido del producto, hoja inclinada) con texto, título y descripción; fila en el historial. Higgsfield: 1 crédito.
 

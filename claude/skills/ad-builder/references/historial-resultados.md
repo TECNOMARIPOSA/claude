@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H05 v2: el usuario pidió acercar la hoja y usar una ilustración más realista. Regla: en este producto, hoja grande que se sale del cuadro y lámina realista (paisaje con animales) funcionan mejor que la lámina plana.
 - H05: formato de «contenido del producto» (hoja inclinada mitad numerada/mitad pintada + franja de beneficios + categorías), calcado en estructura de la referencia argentina. Usa la lámina más vistosa del ebook. Sin oferta dentro de la imagen.
 - Feedback del usuario sobre H03/H04 v1: la imagen debe parecerse más a los anuncios de referencia, con la ilustración como protagonista, y **sin 50% OFF ni bonos dentro de la imagen** (la oferta va en el texto). Regla para próximas piezas de este producto. v2 aplica esto: hoja grande mitad numerada/mitad pintada con lámina real del ebook.
 - H04 abre un ángulo nuevo (`REG`, agregado a la nomenclatura) con la estructura de los anuncios argentinos 2 y 4; escena de hogar con lámina real del ebook enmarcada. Se quitó «Día de la Madre» por ser fecha local.
@@ -67,7 +68,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-05 | PSL-N2_IMG_H02_v1 | Problema–solución («tiempo para ti») | N2 | Estático 4:5 | «Un té. Unos colores. Una ilustración.» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | PSL-N2_IMG_H03_v2 | Problema–solución («celular: un minuto → una hora») | N2 | Estático 4:5 | «Solo un minuto en el celular… y pasó una hora.» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | REG-N3_IMG_H04_v2 | Regalo («no termina en un cajón, termina en tu pared») | N3 | Estático 4:5 | «Un regalo que no termina en un cajón: termina en tu pared.» | — | — | — | — | — | — | ⏳ Sin correr |
-| 2026-11-05 | DIR-N4_IMG_H05_v1 | Venta directa («qué incluye») | N4 | Estático 4:5 | «Más de 100 ilustraciones para pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | DIR-N4_IMG_H05_v2 | Venta directa («qué incluye») | N4 | Estático 4:5 | «Más de 100 ilustraciones para pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

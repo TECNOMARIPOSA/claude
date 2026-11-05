@@ -1,7 +1,7 @@
-# Anuncio · DIR-N4_IMG_H05_v1 (qué incluye: «más de 100 ilustraciones»)
+# Anuncio · DIR-N4_IMG_H05_v2 (qué incluye: «más de 100 ilustraciones»)
 
-**Nombre del anuncio en Meta:** `1105 DIR-N4_IMG_H05_v1`
-**Archivo:** `261105_calma-en-colores_DIR-N4_IMG_H05_v1_45.png` (4:5, 2160×2700; copia 1080×1350 `_1080.png`)
+**Nombre del anuncio en Meta:** `1105 DIR-N4_IMG_H05_v2`
+**Archivo:** `261105_calma-en-colores_DIR-N4_IMG_H05_v2_45.png` (4:5, 2160×2700; copia 1080×1350 `_1080.png`)
 
 ## Texto principal
 Elige una ilustración, sigue los números y mira cómo aparece el color. 🎨
@@ -37,8 +37,9 @@ Paisajes, flores, animales y mandalas · 50% OFF solo hoy
 Comprar ahora
 
 ## Qué toma del anuncio de referencia y qué cambia
+- **v2 (a pedido del usuario):** la hoja está mucho más cerca (ocupa casi todo el ancho y se sale por la izquierda, como en la referencia) y la ilustración es más realista: Machu Picchu con llamas, tomada de la imagen base suavizada del bono «Flora y fauna de Latinoamérica» para la mitad pintada, con la lámina numerada real. Es algo más suave que la página final del ebook (que usa 32 colores planos).
 - **Toma:** la estructura de la imagen de referencia: titular grande, categorías (Paisajes · Flores · Animales · Mandalas), hoja grande **inclinada** con la mitad numerada y la mitad pintada, y la franja de detalles del contenido (descarga inmediata, imprimir, impresiones ilimitadas, momento de calma, ideal para regalar).
-- **Cambia:** marca «Calma en colores»; sin imágenes ni ilustraciones del anuncio original; paleta oliva + durazno sobre madera clara; tipografía Fraunces con cintas oliva/durazno (no pincelada turquesa); lámina muy definida y vistosa del ebook (Capadocia). Voseo → tuteo.
+- **Cambia:** marca «Calma en colores»; sin imágenes ni ilustraciones del anuncio original; paleta oliva + durazno sobre madera clara; tipografía Fraunces con cintas oliva/durazno (no pincelada turquesa); lámina muy definida y realista (Machu Picchu). Voseo → tuteo.
 - **Sin oferta en la imagen** (50% OFF y bonos solo en el texto), como pidió el usuario.
 
 ## Verificación de cifras
