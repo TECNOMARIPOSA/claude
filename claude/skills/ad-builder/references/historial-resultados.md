@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H07 v2: el usuario pidió textos más grandes, legibles en celular. Regla de producción para este producto: el texto más pequeño de una imagen 1080×1350 debe medir ≥ 26–27 px (≈ 9 px a 360 px de ancho), titular ≥ 80 px, y menos elementos de texto por pieza. Aplicar también a H03–H06 si se van a usar.
 - H07: estilo de la referencia con tablet + hoja; la tablet muestra la portada real del ebook. Ángulo `SIM` (ya existía en la tabla).
 - H06: estilo de una imagen de referencia del usuario (hoja a medio pintar con pincel, vela, titular con palabra manuscrita). Ángulo nuevo `CAL` añadido a la nomenclatura; copy sin promesa médica.
 - H05 v2: el usuario pidió acercar la hoja y usar una ilustración más realista. Regla: en este producto, hoja grande que se sale del cuadro y lámina realista (paisaje con animales) funcionan mejor que la lámina plana.
@@ -72,7 +73,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-05 | REG-N3_IMG_H04_v2 | Regalo («no termina en un cajón, termina en tu pared») | N3 | Estático 4:5 | «Un regalo que no termina en un cajón: termina en tu pared.» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | DIR-N4_IMG_H05_v2 | Venta directa («qué incluye») | N4 | Estático 4:5 | «Más de 100 ilustraciones para pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | CAL-N2_IMG_H06_v1 | Calma («dale un respiro a tu mente») | N2 | Estático 4:5 | «Dale un respiro a tu mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
-| 2026-11-05 | SIM-N3_IMG_H07_v1 | Simplicidad («sin experiencia ni materiales especiales») | N3 | Estático 4:5 | «¡Pinta tu propia obra de arte!» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | SIM-N3_IMG_H07_v2 | Simplicidad («sin experiencia ni materiales especiales») | N3 | Estático 4:5 | «¡Pinta tu propia obra de arte!» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

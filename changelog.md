@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio 5 v2)
+**Cambios:** H07 rehecho como v2 con textos más grandes para celular; v1 eliminada. Sin créditos.
+
 ## 2026-11-05 (anuncio Meta 5)
 **Cambios:** anuncio estático SIM-N3_IMG_H07_v1 (tablet con portada + hoja del Taj Mahal), texto, título y descripción; fila en el historial. Higgsfield: 1 crédito.
 
