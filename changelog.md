@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio 1, v2)
+**Cambios:** anuncio PSL-N2_IMG_H02_v1 calibrado con los 5 anuncios de Argentina, usando la foto de portada del usuario. Higgsfield: 2 créditos (mejora de resolución).
+
 ## 2026-11-05 (anuncio 1)
 **Cambios:** primer anuncio estático Meta para Calma en colores (LATAM), `CREATIVOS/entregas/2026-11-05/LATAM-calma-en-colores/`, con texto principal, título y descripción. Bloque nuevo en el historial del ad-builder. Higgsfield: 2 créditos.
 
