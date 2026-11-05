@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (bono 3)
+**Cambios:** bono 3 (Flora y Fauna de Latinoamérica) completo, PDF de 34 páginas. Output `OUTPUTS/2026-11-05-ebook-bono-3-flora-y-fauna.md`. Higgsfield: 5 créditos.
+
 ## 2026-11-05 (bono 2)
 **Cambios:** bono 2 (Grandes Obras de Pintores Famosos) completo, PDF de 34 páginas. Output `OUTPUTS/2026-11-05-ebook-bono-2-grandes-obras.md`. Higgsfield: 5 créditos. Sin Picasso por derechos de autor.
 

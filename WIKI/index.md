@@ -81,6 +81,7 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-05 · Bono 3 · Flora y Fauna de Latinoamérica](../OUTPUTS/2026-11-05-ebook-bono-3-flora-y-fauna.md) — PDF de 34 páginas; pendiente de confirmación.
 - [2026-11-05 · Bono 2 · Grandes Obras de Pintores Famosos](../OUTPUTS/2026-11-05-ebook-bono-2-grandes-obras.md) — PDF de 34 páginas; pendiente de confirmación.
 - [2026-11-05 · Bono 1 · 10 Mandalas Originales](../OUTPUTS/2026-11-05-ebook-bono-1-10-mandalas-originales.md) — PDF de 34 páginas y portadas planas de los 4 bonos; pendiente de confirmación.
 - [2026-11-04 · Ebook «Calma en colores» · PDF completo (205 páginas)](../OUTPUTS/2026-11-04-ebook-calma-en-colores-completo.md) — portada, introducción, índice y las 65 ilustraciones en un solo PDF.
