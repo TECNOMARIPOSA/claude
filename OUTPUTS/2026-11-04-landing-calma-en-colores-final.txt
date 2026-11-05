@@ -390,7 +390,7 @@ section,header{position:relative;}
       <h2 class="h2">Lo que vas a sentir <em>desde el primer día</em> 🌿</h2>
       <p class="lede"> Así se ve por dentro: fichas, láminas a color y plantillas para pintar.</p>
     </div>
-    <div class="sol-img"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080616_bf3d692a-85db-45a8-8e85-8d697837047c.png" alt="Más de 100 ilustraciones: paisajes, animales y flores para pintar por números"></div>
+    <div class="sol-img"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Ld4biXXpdkeqEbC07eLiUhJA2g/hf_20261105_012115_c41d8c1d-6bb2-4593-a8f6-06b99a073c72.png" alt="Más de 100 ilustraciones: paisajes, animales y flores para pintar por números"></div>
     <div class="sol-chips"><span>🖌 Pinta con colores, marcadores, pinturas o con el material que mas te guste</span></div>
     <div class="sol-grid">
       <article class="card"><div class="num">🧘</div><h3>Baja el estrés y la ansiedad</h3><p>Mientras pintas, tu mente deja de dar vueltas. Es tu momento de calma, lejos del celular.</p></article>
