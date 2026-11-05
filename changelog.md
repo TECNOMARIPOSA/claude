@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio Meta 3)
+**Cambios:** anuncio estático DIR-N4_IMG_H05_v1 (contenido del producto, hoja inclinada) con texto, título y descripción; fila en el historial. Higgsfield: 1 crédito.
+
 ## 2026-11-05 (anuncios v2)
 **Cambios:** anuncios H03 y H04 rehechos como v2 (ilustración como protagonista, sin oferta en la imagen); v1 eliminadas. Higgsfield: 2 créditos.
 
