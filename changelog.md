@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (landing)
+**Cambios:** imagen «Mira por dentro» regenerada con el texto «Más de 100 ilustraciones» (`OUTPUTS/landing-imagenes/mira-por-dentro-mas-de-100.png`); URL actualizada en `OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt`. Higgsfield: 0,5 créditos.
+
 ## 2026-11-05 (bono 4)
 **Cambios:** bono 4 (Calma Kids) completo, PDF de 34 páginas. Los 4 bonos quedan terminados. Output `OUTPUTS/2026-11-05-ebook-bono-4-calma-kids.md`. Higgsfield: 5 créditos.
 
