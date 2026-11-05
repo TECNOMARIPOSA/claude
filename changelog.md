@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncios 6–8)
+**Cambios:** tres anuncios de venta directa DIR-N5_IMG_H08/H09/H10 (deja el celular / despeja la mente / relájate) con texto, título y descripción; filas en el historial. Higgsfield: 3 créditos.
+
 ## 2026-11-05 (anuncio 5 v2)
 **Cambios:** H07 rehecho como v2 con textos más grandes para celular; v1 eliminada. Sin créditos.
 
