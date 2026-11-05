@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (bono 4)
+**Cambios:** bono 4 (Calma Kids) completo, PDF de 34 páginas. Los 4 bonos quedan terminados. Output `OUTPUTS/2026-11-05-ebook-bono-4-calma-kids.md`. Higgsfield: 5 créditos.
+
 ## 2026-11-05 (bono 3)
 **Cambios:** bono 3 (Flora y Fauna de Latinoamérica) completo, PDF de 34 páginas. Output `OUTPUTS/2026-11-05-ebook-bono-3-flora-y-fauna.md`. Higgsfield: 5 créditos.
 
