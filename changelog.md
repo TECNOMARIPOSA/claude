@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio 1)
+**Cambios:** primer anuncio estático Meta para Calma en colores (LATAM), `CREATIVOS/entregas/2026-11-05/LATAM-calma-en-colores/`, con texto principal, título y descripción. Bloque nuevo en el historial del ad-builder. Higgsfield: 2 créditos.
+
 ## 2026-11-05 (landing)
 **Cambios:** imagen «Mira por dentro» regenerada con el texto «Más de 100 ilustraciones» (`OUTPUTS/landing-imagenes/mira-por-dentro-mas-de-100.png`); URL actualizada en `OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt`. Higgsfield: 0,5 créditos.
 

@@ -49,3 +49,17 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 ## Índice de bloques
 
 *(vacío — se agrega un renglón por cada producto al crear su bloque)*
+
+
+## LATAM · Calma en colores
+
+- **Dashboard:** — · **Idioma / mercado:** español neutro, Latinoamérica
+- **Ticket front:** 15 USD (precio normal 30 USD) · AOV real: — · CPA medio: — · CPA break-even: —
+- **Compliance:** bienestar/estrés: sin promesa médica ni «cura»; prueba social solo con citas reales
+
+| Fecha | ID | Ángulo | NC | Formato | Hook (resumen) | Spend | Ventas | CPA | ROAS | CTR | Hook rate | Veredicto |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-05 | PSL-N2_IMG_H01_v1 | Problema–solución | N2 | Estático 4:5 | «¿Terminas el día con la cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+
+**Aprendido:**
+- Primera pieza hecha sin poder leer los 5 anuncios de referencia de Argentina (la Biblioteca de Meta devolvió 403). Pendiente calibrar con su copy real.
