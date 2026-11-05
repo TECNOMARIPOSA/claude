@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncios v2)
+**Cambios:** anuncios H03 y H04 rehechos como v2 (ilustración como protagonista, sin oferta en la imagen); v1 eliminadas. Higgsfield: 2 créditos.
+
 ## 2026-11-05 (anuncio Meta 2)
 **Cambios:** anuncio estático REG-N3_IMG_H04_v1 (ángulo regalo) en `CREATIVOS/entregas/2026-11-05/LATAM-calma-en-colores/`; código `REG` añadido a `nomenclatura.md`; fila en el historial. Higgsfield: 1 crédito.
 
