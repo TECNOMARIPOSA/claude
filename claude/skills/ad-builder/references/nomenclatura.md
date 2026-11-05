@@ -50,6 +50,7 @@ Salen de `WIKI/angulos-publicitarios.md` y de los nichos que corre la operación
 | `VIL` | Villano oculto | ⚠️ Revisar compliance: el villano no puede ser el comprador |
 | `DIR` | Venta directa / oferta | Precio, garantía, bonus. El 3er concepto típico de la CBO |
 | `REG` | Regalo / momento compartido | «Un regalo que no termine guardado en un cajón» |
+| `CAL` | Calma / bienestar emocional | «Dale un respiro a tu mente pintando» (sin promesa médica) |
 
 Un ángulo nuevo que no entre en la tabla **se agrega acá con su código** antes de producir, no
 después.

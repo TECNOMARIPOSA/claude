@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio Meta 4)
+**Cambios:** anuncio estático CAL-N2_IMG_H06_v1 (estilo de la imagen de referencia del usuario) con texto, título y descripción; código `CAL` añadido; fila en el historial. Higgsfield: 1 crédito.
+
 ## 2026-11-05 (anuncio 3 v2)
 **Cambios:** H05 rehecho como v2 (hoja más cerca, Machu Picchu realista); v1 eliminada.
 
