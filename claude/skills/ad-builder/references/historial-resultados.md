@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H03 toma el gancho del anuncio argentino 5 (celular «solo un minuto»), con diseño propio de marca (verde oliva + durazno, Fraunces) y una página real del ebook sobre la hoja. Si H03 y H02 comparten ángulo (PSL-N2), el ángulo es el mismo y cambia el hook: no cuentan como ángulos distintos.
 - (prosa — vale más que la tabla)
 
 **Sin atribuir:** anuncios que corrieron sin nomenclatura y no se pueden asignar a ningún ángulo.
@@ -61,6 +62,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-11-05 | PSL-N2_IMG_H01_v1 | Problema–solución | N2 | Estático 4:5 | «¿Terminas el día con la cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr (reemplazada por H02) |
 | 2026-11-05 | PSL-N2_IMG_H02_v1 | Problema–solución («tiempo para ti») | N2 | Estático 4:5 | «Un té. Unos colores. Una ilustración.» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | PSL-N2_IMG_H03_v1 | Problema–solución («celular: un minuto → una hora») | N2 | Estático 4:5 | «Solo un minuto en el celular… y pasó una hora.» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
