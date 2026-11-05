@@ -81,4 +81,15 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
-*(vacío: acá se enlazan tus entregables de `OUTPUTS/`)*
+- [2026-11-05 · Bono 4 · Calma Kids](../OUTPUTS/2026-11-05-ebook-bono-4-calma-kids.md) — PDF de 34 páginas; pendiente de revisión.
+- [2026-11-05 · Bono 3 · Flora y Fauna de Latinoamérica](../OUTPUTS/2026-11-05-ebook-bono-3-flora-y-fauna.md) — PDF de 34 páginas; pendiente de confirmación.
+- [2026-11-05 · Bono 2 · Grandes Obras de Pintores Famosos](../OUTPUTS/2026-11-05-ebook-bono-2-grandes-obras.md) — PDF de 34 páginas; pendiente de confirmación.
+- [2026-11-05 · Bono 1 · 10 Mandalas Originales](../OUTPUTS/2026-11-05-ebook-bono-1-10-mandalas-originales.md) — PDF de 34 páginas y portadas planas de los 4 bonos; pendiente de confirmación.
+- [2026-11-04 · Ebook «Calma en colores» · PDF completo (205 páginas)](../OUTPUTS/2026-11-04-ebook-calma-en-colores-completo.md) — portada, introducción, índice y las 65 ilustraciones en un solo PDF.
+- [2026-11-04 · Ebook «Calma en colores» · Temática 3 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-3-animales.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
+- [2026-11-04 · Ebook «Calma en colores» · Temática 2 completa (25 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-2-flores-y-jardines.md) — 25 ilustraciones de 3 páginas, pendiente de revisión.
+- [2026-11-04 · Ebook «Calma en colores» · Temática 1 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
+- [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 02 Torre Eiffel](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md) — segunda ilustración (4 páginas), pendiente de confirmación.
+- [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 01 Santorini](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md) — primera ilustración (4 páginas), confirmada como diseño base.
+- [2026-11-04 · Landing «Calma en Colores» final con tokens de precio](../OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt) — versión final del usuario con precios dinámicos por moneda.
+- [2026-11-03 · Landing «Calma en Colores» (LATAM)](../OUTPUTS/2026-11-03-landing-calma-en-colores.txt) — HTML completo de la landing replicada de turitualdelcolor.com sobre la estructura de Meu AuMigu.
