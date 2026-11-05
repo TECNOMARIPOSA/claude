@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-05 (anuncio Meta 2)
+**Cambios:** anuncio estático REG-N3_IMG_H04_v1 (ángulo regalo) en `CREATIVOS/entregas/2026-11-05/LATAM-calma-en-colores/`; código `REG` añadido a `nomenclatura.md`; fila en el historial. Higgsfield: 1 crédito.
+
 ## 2026-11-05 (anuncio Meta)
 **Cambios:** anuncio estático PSL-N2_IMG_H03_v1 para Calma en colores (LATAM) en `CREATIVOS/entregas/2026-11-05/LATAM-calma-en-colores/`, con texto principal, título y descripción; fila añadida al historial de `ad-builder`. Higgsfield: 1 crédito.
 
