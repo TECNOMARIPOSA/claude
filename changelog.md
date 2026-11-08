@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (H09 atribuido)
+**Cambios:** resultados de H09 (27 USD, 83 clics, 70 visitas, 6 pagos iniciados, 1 venta) registrados en el historial con diagnóstico de embudo.
+
 ## 2026-11-08 (resultados de campaña)
 **Cambios:** resultados de 3 días (30 USD, 84 visitas, 1 venta) registrados en el historial de `ad-builder` como «sin atribuir», con las cifras inconsistentes marcadas.
 

@@ -78,7 +78,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-05 | CAL-N2_IMG_H06_v1 | Calma («dale un respiro a tu mente») | N2 | Estático 4:5 | «Dale un respiro a tu mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | SIM-N3_IMG_H07_v2 | Simplicidad («sin experiencia ni materiales especiales») | N3 | Estático 4:5 | «¡Pinta tu propia obra de arte!» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | DIR-N5_IMG_H08_v1 | Venta directa («deja el celular») | N5 | Estático 4:5 | «Deja el celular y pinta un rato» | — | — | — | — | — | — | ⏳ Sin correr |
-| 2026-11-05 | DIR-N5_IMG_H09_v1 | Venta directa («despeja la mente») | N5 | Estático 4:5 | «Despeja la mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | DIR-N5_IMG_H09_v1 | Venta directa («despeja la mente») | N5 | Estático 4:5 | «Despeja la mente pintando» | 27 | 1 | 27,00 | 0,56x | — (83 clics; CPC 0,31) | — | ⏳ En testeo · **vendió 1** (3 días; 70 visitas, 6 pagos iniciados) |
 | 2026-11-05 | DIR-N5_IMG_H10_v1 | Venta directa («relájate») | N5 | Estático 4:5 | «Relájate con un ritual de colores» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H11_v1 | Venta directa (variación de H09: «pintando») | N5 | Estático 1:1 | «Despeja la mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H12_v1 | Venta directa (variación de H09: «sin pantallas») | N5 | Estático 1:1 | «Despeja la mente sin pantallas» | — | — | — | — | — | — | ⏳ Sin correr |
@@ -96,3 +96,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 Inversión 30 USD · clics en el enlace 82 · visitas a la landing 84 · carga de landing 84% · ventas 1 · facturación 15 USD · CPC reportado 0,30 (30÷82 da 0,37) · CPV 0,357 · conversión reportada 1,45% (1÷84 da 1,19%) · ROAS reportado 0,61x (15÷30 da 0,50x). **Cifras que no cuadran entre sí: confirmar contra UTMify antes de decidir.**
 CPA real = 30 USD vs. break-even ≈ 13 y CPA medio ≈ 7,5 → **no rentable todavía, pero muestra de 1 venta / 84 visitas: ⏳ en testeo, no ❌.** Anuncios sin ID atribuible → «sin atribuir» hasta tener el nombre de cada anuncio.
 Hipótesis a revisar primero (no conclusiones): (1) la carga de la landing (84% implica que ~16% de los clics no llega a ver la página; imágenes PNG pesadas de 2K en hosting externo); (2) conversión de landing ~1,2–1,5% frente al objetivo de la metodología; (3) que el tráfico llegue con la oferta que el anuncio promete.
+
+**Lectura por anuncio — H09 «Despeja la mente pintando» (4:5), 3 días, datos del usuario:** gasto 27 USD · 83 clics · 70 visitas a la página · 6 pagos iniciados · 1 venta (15 USD) · CPC 0,31 · conversión 1,43% (1÷70 ✓) · ROAS 15÷27 = 0,56x · CPA 27 USD.
+Embudo: 83 clics → 70 visitas (84%) → 6 pagos iniciados (8,6% de las visitas) → 1 compra (**16,7% de los inicios; la referencia de `WIKI/diagnostico-de-checkout.md` es 25–30%**). Costo por pago iniciado ≈ 4,50 USD.
+Conclusión provisoria: el anuncio sí trae tráfico que llega al pago (6 inicios con 27 USD); **la fuga está entre «pago iniciado» y «compra»**, no en el clic. Muestra: 6 inicios; no es concluyente. Esta lectura sustituye a la lectura agregada anterior (30 USD / 84 visitas), cuyas cifras no cuadraban con esta.
