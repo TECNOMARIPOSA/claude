@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (carrusel reordenado)
+**Cambios:** carrusel «Mira por dentro»: el León se reemplaza por Flamencos (pág. 187 del ebook, ilustración 60); orden final: 1 Flamencos, 2 Jardín de Peonías, 3 Torre Eiffel, 4 Santorini.
+
 ## 2026-11-08 (landing: carrusel «Mira por dentro»)
 **Cambios:** 4 imágenes del carrusel (aperturas de libro con páginas reales: Santorini, Peonías, León, Torre Eiffel) en `OUTPUTS/landing-imagenes/carrusel-mira-por-dentro/`. Pendiente de confirmación del usuario antes de entregar el HTML. Sin créditos.
 
