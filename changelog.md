@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (hooks nuevos)
+**Cambios:** 3 variaciones 1:1 con hooks nuevos (DIR-N5_IMG_H15 a H17), con textos. Sin créditos de Higgsfield: escenas reutilizadas.
+
 ## 2026-11-08 (variaciones del anuncio ganador)
 **Cambios:** 4 variaciones 1:1 del anuncio H09 (DIR-N5_IMG_H11 a H14) en `CREATIVOS/entregas/2026-11-08/LATAM-calma-en-colores/`, con textos; filas en el historial. Higgsfield: sin créditos (saldo 0, plan free): se reutilizaron escenas.
 

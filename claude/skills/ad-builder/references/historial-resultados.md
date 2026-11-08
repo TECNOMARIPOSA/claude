@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H15–H17: tres hooks nuevos sobre la estructura de H09 (autocuidado, sin saber dibujar, cambia el scroll por color). Siguen siendo DIR-N5: si alguno gana, es hook, no ángulo.
 - H09 («Despeja la mente pintando», 4:5) **generó una venta** (dato del usuario; sin números de UTMify todavía). H11–H14 son 4 variaciones en 1:1 (formato que sirve en todas las ubicaciones de Meta) con el mismo ángulo, estructura y botón, cambiando 2.ª línea del titular, escena, lámina y gancho. Una venta no valida el ángulo: falta spend y CPA.
 - H08–H10: tres hooks de venta directa (deja el celular / despeja la mente / relájate), tres escenas y tres láminas distintas, con la regla de textos grandes para celular. Las tres comparten ángulo DIR-N5: si una gana, cuenta como hook, no como ángulo nuevo.
 - H07 v2: el usuario pidió textos más grandes, legibles en celular. Regla de producción para este producto: el texto más pequeño de una imagen 1080×1350 debe medir ≥ 26–27 px (≈ 9 px a 360 px de ancho), titular ≥ 80 px, y menos elementos de texto por pieza. Aplicar también a H03–H06 si se van a usar.
@@ -83,6 +84,9 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-08 | DIR-N5_IMG_H12_v1 | Venta directa (variación de H09: «sin pantallas») | N5 | Estático 1:1 | «Despeja la mente sin pantallas» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H13_v1 | Venta directa (variación de H09: «en 30 minutos») | N5 | Estático 1:1 | «Despeja la mente en 30 minutos» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H14_v1 | Venta directa (variación de H09: «con una pausa») | N5 | Estático 1:1 | «Despeja la mente con una pausa» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H15_v1 | Venta directa (hook nuevo: autocuidado) | N5 | Estático 1:1 | «Regálate 30 minutos solo para ti» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H16_v1 | Venta directa (hook nuevo: sin saber dibujar) | N5 | Estático 1:1 | «Pinta sin saber dibujar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H17_v1 | Venta directa (hook nuevo: cambia el scroll) | N5 | Estático 1:1 | «Cambia el scroll por color» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
