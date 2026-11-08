@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-08
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-08-landing-calma-en-colores-reducida.txt — landing acortada (de 15.319 px a 8.503 px a 430 px; referencia 9.056 px), voseo rioplatense, 10 bloques, tokens de precio intactos.
+
 ## 2026-11-08 (H09 atribuido)
 **Cambios:** resultados de H09 (27 USD, 83 clics, 70 visitas, 6 pagos iniciados, 1 venta) registrados en el historial con diagnóstico de embudo.
 

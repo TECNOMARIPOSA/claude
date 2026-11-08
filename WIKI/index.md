@@ -91,5 +91,6 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 completa (20 ilustraciones)](../OUTPUTS/2026-11-04-ebook-tematica-1-postales-del-mundo.md) — 20 ilustraciones de 3 páginas, pendiente de revisión.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 02 Torre Eiffel](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-02-torre-eiffel.md) — segunda ilustración (4 páginas), pendiente de confirmación.
 - [2026-11-04 · Ebook «Calma en colores» · Temática 1 · Ilustración 01 Santorini](../OUTPUTS/2026-11-04-ebook-tematica-1-ilustracion-01-santorini.md) — primera ilustración (4 páginas), confirmada como diseño base.
+- [2026-11-08 · Landing «Calma en Colores» reducida (voseo)](../OUTPUTS/2026-11-08-landing-calma-en-colores-reducida.txt) — versión corta a la medida de la referencia: 10 bloques, ~8.500 px en móvil.
 - [2026-11-04 · Landing «Calma en Colores» final con tokens de precio](../OUTPUTS/2026-11-04-landing-calma-en-colores-final.txt) — versión final del usuario con precios dinámicos por moneda.
 - [2026-11-03 · Landing «Calma en Colores» (LATAM)](../OUTPUTS/2026-11-03-landing-calma-en-colores.txt) — HTML completo de la landing replicada de turitualdelcolor.com sobre la estructura de Meu AuMigu.
