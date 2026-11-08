@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (HTML del carrusel)
+**Cambios:** HTML/CSS/JS del carrusel «Mira por dentro» en `OUTPUTS/landing-imagenes/carrusel-mira-por-dentro/carrusel-mira-por-dentro.txt`, con el texto bajo el carrusel indicado por el usuario. Probado en escritorio (1100 px) y móvil (390 px).
+
 ## 2026-11-08 (carrusel reordenado)
 **Cambios:** carrusel «Mira por dentro»: el León se reemplaza por Flamencos (pág. 187 del ebook, ilustración 60); orden final: 1 Flamencos, 2 Jardín de Peonías, 3 Torre Eiffel, 4 Santorini.
 
