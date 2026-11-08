@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (landing con carrusel)
+**Cambios:** `OUTPUTS/2026-11-08-landing-calma-en-colores-final-con-carrusel.txt`: HTML completo del usuario con el carrusel «Mira por dentro» integrado, texto bajo el carrusel en español neutro (sin voseo) y «más de 150» corregido a «más de 100» en la lista de la oferta. Pendiente: reemplazar TU-HOSTING por la URL de las imágenes.
+
 ## 2026-11-08 (HTML del carrusel)
 **Cambios:** HTML/CSS/JS del carrusel «Mira por dentro» en `OUTPUTS/landing-imagenes/carrusel-mira-por-dentro/carrusel-mira-por-dentro.txt`, con el texto bajo el carrusel indicado por el usuario. Probado en escritorio (1100 px) y móvil (390 px).
 
