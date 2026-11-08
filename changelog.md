@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (resultados de campaña)
+**Cambios:** resultados de 3 días (30 USD, 84 visitas, 1 venta) registrados en el historial de `ad-builder` como «sin atribuir», con las cifras inconsistentes marcadas.
+
 ## 2026-11-08 (landing con carrusel)
 **Cambios:** `OUTPUTS/2026-11-08-landing-calma-en-colores-final-con-carrusel.txt`: HTML completo del usuario con el carrusel «Mira por dentro» integrado, texto bajo el carrusel en español neutro (sin voseo) y «más de 150» corregido a «más de 100» en la lista de la oferta. Pendiente: reemplazar TU-HOSTING por la URL de las imágenes.
 

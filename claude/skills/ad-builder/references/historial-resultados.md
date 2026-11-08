@@ -91,3 +91,8 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
 - Primera pieza (H01) hecha sin poder leer los 5 anuncios de referencia de Argentina (la Biblioteca de Meta devolvió 403). Pendiente calibrar con su copy real.
+
+**Lectura de campaña — Calma en colores LATAM (3 días, datos pasados por el usuario, sin desglose por anuncio):**
+Inversión 30 USD · clics en el enlace 82 · visitas a la landing 84 · carga de landing 84% · ventas 1 · facturación 15 USD · CPC reportado 0,30 (30÷82 da 0,37) · CPV 0,357 · conversión reportada 1,45% (1÷84 da 1,19%) · ROAS reportado 0,61x (15÷30 da 0,50x). **Cifras que no cuadran entre sí: confirmar contra UTMify antes de decidir.**
+CPA real = 30 USD vs. break-even ≈ 13 y CPA medio ≈ 7,5 → **no rentable todavía, pero muestra de 1 venta / 84 visitas: ⏳ en testeo, no ❌.** Anuncios sin ID atribuible → «sin atribuir» hasta tener el nombre de cada anuncio.
+Hipótesis a revisar primero (no conclusiones): (1) la carga de la landing (84% implica que ~16% de los clics no llega a ver la página; imágenes PNG pesadas de 2K en hosting externo); (2) conversión de landing ~1,2–1,5% frente al objetivo de la metodología; (3) que el tráfico llegue con la oferta que el anuncio promete.
