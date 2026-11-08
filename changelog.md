@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (landing: carrusel «Mira por dentro»)
+**Cambios:** 4 imágenes del carrusel (aperturas de libro con páginas reales: Santorini, Peonías, León, Torre Eiffel) en `OUTPUTS/landing-imagenes/carrusel-mira-por-dentro/`. Pendiente de confirmación del usuario antes de entregar el HTML. Sin créditos.
+
 ## 2026-11-08 (landing: carrusel)
 **Cambios:** carrusel de 4 imágenes «por dentro del ebook» para la sección «Mira por dentro» en `OUTPUTS/landing-imagenes/mira-por-dentro/` (HTML con imágenes incrustadas y con enlaces). Sin créditos.
 
