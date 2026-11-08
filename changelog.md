@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (landing: carrusel)
+**Cambios:** carrusel de 4 imágenes «por dentro del ebook» para la sección «Mira por dentro» en `OUTPUTS/landing-imagenes/mira-por-dentro/` (HTML con imágenes incrustadas y con enlaces). Sin créditos.
+
 ## 2026-11-08 (hooks nuevos)
 **Cambios:** 3 variaciones 1:1 con hooks nuevos (DIR-N5_IMG_H15 a H17), con textos. Sin créditos de Higgsfield: escenas reutilizadas.
 
