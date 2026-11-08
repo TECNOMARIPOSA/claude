@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H09 («Despeja la mente pintando», 4:5) **generó una venta** (dato del usuario; sin números de UTMify todavía). H11–H14 son 4 variaciones en 1:1 (formato que sirve en todas las ubicaciones de Meta) con el mismo ángulo, estructura y botón, cambiando 2.ª línea del titular, escena, lámina y gancho. Una venta no valida el ángulo: falta spend y CPA.
 - H08–H10: tres hooks de venta directa (deja el celular / despeja la mente / relájate), tres escenas y tres láminas distintas, con la regla de textos grandes para celular. Las tres comparten ángulo DIR-N5: si una gana, cuenta como hook, no como ángulo nuevo.
 - H07 v2: el usuario pidió textos más grandes, legibles en celular. Regla de producción para este producto: el texto más pequeño de una imagen 1080×1350 debe medir ≥ 26–27 px (≈ 9 px a 360 px de ancho), titular ≥ 80 px, y menos elementos de texto por pieza. Aplicar también a H03–H06 si se van a usar.
 - H07: estilo de la referencia con tablet + hoja; la tablet muestra la portada real del ebook. Ángulo `SIM` (ya existía en la tabla).
@@ -78,6 +79,10 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-05 | DIR-N5_IMG_H08_v1 | Venta directa («deja el celular») | N5 | Estático 4:5 | «Deja el celular y pinta un rato» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | DIR-N5_IMG_H09_v1 | Venta directa («despeja la mente») | N5 | Estático 4:5 | «Despeja la mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-05 | DIR-N5_IMG_H10_v1 | Venta directa («relájate») | N5 | Estático 4:5 | «Relájate con un ritual de colores» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H11_v1 | Venta directa (variación de H09: «pintando») | N5 | Estático 1:1 | «Despeja la mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H12_v1 | Venta directa (variación de H09: «sin pantallas») | N5 | Estático 1:1 | «Despeja la mente sin pantallas» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H13_v1 | Venta directa (variación de H09: «en 30 minutos») | N5 | Estático 1:1 | «Despeja la mente en 30 minutos» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H14_v1 | Venta directa (variación de H09: «con una pausa») | N5 | Estático 1:1 | «Despeja la mente con una pausa» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

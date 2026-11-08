@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-08 (variaciones del anuncio ganador)
+**Cambios:** 4 variaciones 1:1 del anuncio H09 (DIR-N5_IMG_H11 a H14) en `CREATIVOS/entregas/2026-11-08/LATAM-calma-en-colores/`, con textos; filas en el historial. Higgsfield: sin créditos (saldo 0, plan free): se reutilizaron escenas.
+
 ## 2026-11-05 (anuncios 6–8)
 **Cambios:** tres anuncios de venta directa DIR-N5_IMG_H08/H09/H10 (deja el celular / despeja la mente / relájate) con texto, título y descripción; filas en el historial. Higgsfield: 3 créditos.
 
