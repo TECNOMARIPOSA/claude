@@ -321,6 +321,7 @@ html{scroll-behavior:smooth;}
 .sol-grid .card{padding:16px!important;}
 .sol-grid .card p{font-size:13.5px!important;}
 .bridge{margin-top:28px!important;}
+.mah-media img{height:auto!important;aspect-ratio:1600/1090!important;}
 .hero-cta{text-align:center;margin:18px 0 6px;}
 </style>
 </head>
@@ -351,7 +352,7 @@ html{scroll-behavior:smooth;}
     <h1 class="h1">Cambiá el celular por 30 minutos de calma, <em>pintando por números.</em></h1>
     <p class="mah-sub">No es solo un libro para colorear. <b>Es un ratito tuyo, con un té y sin pensar en nada más.</b> Elegí un color, seguí los números y dejá que tu mente por fin descanse &mdash; lejos del celular.</p>
     <div class="mah-media">
-      <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_3443ace1-eb28-4552-982b-74db05ae64c3.png" alt="Calma en Colores: pintura por números antiestrés" fetchpriority="high">
+      <img src="https://TU-HOSTING/hero-despeja-la-mente.jpg" alt="Lámina de las Cataratas del Iguazú: mitad numerada para pintar y mitad pintada a color" width="1600" height="1090" fetchpriority="high">
       <div class="badge"><div class="n">3 + 4</div><div class="l">Colecciones + bonos</div></div>
     </div>
     <div class="hero-cta"><a href="#oferta" class="cta">🎨 Quiero mi Calma en Colores <span class="arrow">↓</span></a></div>
