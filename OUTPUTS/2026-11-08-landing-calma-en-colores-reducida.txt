@@ -348,8 +348,8 @@ html{scroll-behavior:smooth;}
 <header class="mah">
   <div class="mah-inner">
     <div class="pill"><span class="dot"></span> Pintura por números antiestrés</div>
-    <h1 class="h1">Calmá tu mente en 20 minutos al día, <em>pintando por números.</em></h1>
-    <p class="mah-sub">No es solo un libro para colorear. <b>Es un ratito tuyo, todos los días.</b> Elegí un color, seguí los números y dejá que tu mente por fin descanse &mdash; lejos del celular.</p>
+    <h1 class="h1">Cambiá el celular por 30 minutos de calma, <em>pintando por números.</em></h1>
+    <p class="mah-sub">No es solo un libro para colorear. <b>Es un ratito tuyo, con un té y sin pensar en nada más.</b> Elegí un color, seguí los números y dejá que tu mente por fin descanse &mdash; lejos del celular.</p>
     <div class="mah-media">
       <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_3443ace1-eb28-4552-982b-74db05ae64c3.png" alt="Calma en Colores: pintura por números antiestrés" fetchpriority="high">
       <div class="badge"><div class="n">3 + 4</div><div class="l">Colecciones + bonos</div></div>
