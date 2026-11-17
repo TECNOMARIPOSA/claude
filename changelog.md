@@ -2,6 +2,10 @@
 
 ## 2026-11-17
 **Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-17-landing-calma-en-colores-reconstruida.txt — landing de Calma en Colores reconstruida sobre la estructura de la página que vende en Argentina (12 bloques, ~9.070 px a 430 px vs 9.056 px de la referencia), español neutro, precios/garantía/medios de pago/FAQ sin cambios.
+
+## 2026-11-17
+**Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-17-landing-calma-en-colores-modelo-argentina.txt — landing reconstruida sobre la estructura de la página que vende en Argentina (11 bloques, 8.840 px a 430 px vs 9.056 de la referencia), español neutro, oferta modelada (precio ancla con tokens, bonos, desglose), producto alineado a lo que realmente se entrega (65 láminas + 4 bonos de 10). Imagen nueva: OUTPUTS/landing-imagenes/pack-ebook-y-bonos.jpg.
 
 ## 2026-11-08
