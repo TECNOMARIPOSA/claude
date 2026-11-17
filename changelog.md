@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-17
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-17-landing-calma-en-colores-modelo-argentina.txt — landing reconstruida sobre la estructura de la página que vende en Argentina (11 bloques, 8.840 px a 430 px vs 9.056 de la referencia), español neutro, oferta modelada (precio ancla con tokens, bonos, desglose), producto alineado a lo que realmente se entrega (65 láminas + 4 bonos de 10). Imagen nueva: OUTPUTS/landing-imagenes/pack-ebook-y-bonos.jpg.
+
 ## 2026-11-08
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-08-landing-calma-en-colores-reducida.txt — landing acortada (de 15.319 px a 8.503 px a 430 px; referencia 9.056 px), voseo rioplatense, 10 bloques, tokens de precio intactos.
