@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H18–H24 (17/11): siete anuncios con titular que repite el de la landing reconstruida (H18 y H19 son los anuncios «Despeja la mente» con texto nuevo). Entregados en 1:1, 4:5 y 9:16. Siguen siendo DIR-N5.
 - H15–H17: tres hooks nuevos sobre la estructura de H09 (autocuidado, sin saber dibujar, cambia el scroll por color). Siguen siendo DIR-N5: si alguno gana, es hook, no ángulo.
 - H09 («Despeja la mente pintando», 4:5) **generó una venta** (dato del usuario; sin números de UTMify todavía). H11–H14 son 4 variaciones en 1:1 (formato que sirve en todas las ubicaciones de Meta) con el mismo ángulo, estructura y botón, cambiando 2.ª línea del titular, escena, lámina y gancho. Una venta no valida el ángulo: falta spend y CPA.
 - H08–H10: tres hooks de venta directa (deja el celular / despeja la mente / relájate), tres escenas y tres láminas distintas, con la regla de textos grandes para celular. Las tres comparten ángulo DIR-N5: si una gana, cuenta como hook, no como ángulo nuevo.
@@ -87,6 +88,13 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-08 | DIR-N5_IMG_H15_v1 | Venta directa (hook nuevo: autocuidado) | N5 | Estático 1:1 | «Regálate 30 minutos solo para ti» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H16_v1 | Venta directa (hook nuevo: sin saber dibujar) | N5 | Estático 1:1 | «Pinta sin saber dibujar» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-08 | DIR-N5_IMG_H17_v1 | Venta directa (hook nuevo: cambia el scroll) | N5 | Estático 1:1 | «Cambia el scroll por color» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H18_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cambia el celular por 30 minutos de calma (hero de la landing)» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H19_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «30 minutos de calma sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H20_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H21_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Meditar no es lo tuyo? Pinta por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H22_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cero decisiones, solo sigue los números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H23_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cambia el scroll por 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H24_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Un descanso para tu mente pintando por números» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-17 (anuncios H18–H24)
+**Cambios:** CREATIVOS/entregas/2026-11-17/LATAM-calma-en-colores/ — 7 anuncios (2 existentes con texto alineado a la landing + 5 variaciones nuevas) en 1:1, 4:5 y 9:16, más TEXTOS-H18-H24.md; historial de resultados actualizado.
+
 ## 2026-11-17
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-17-landing-calma-en-colores-reconstruida.txt — landing de Calma en Colores reconstruida sobre la estructura de la página que vende en Argentina (12 bloques, ~9.070 px a 430 px vs 9.056 px de la referencia), español neutro, precios/garantía/medios de pago/FAQ sin cambios.
