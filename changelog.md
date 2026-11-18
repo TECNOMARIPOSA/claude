@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-18 (variantes H20a–H20e)
+**Cambios:** CREATIVOS/entregas/2026-11-18/LATAM-calma-en-colores/ — 5 variantes de H20 en 1:1, 4:5 y 9:16 + TEXTOS-H20a-H20e.md; historial actualizado.
+
 ## 2026-11-18 (H20 vendió)
 **Cambios:** historial de resultados: H20 trajo la venta (día: 8,19 USD, 23 visitas, 2 pagos iniciados, 1 compra).
 

@@ -27,6 +27,7 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
 - H20 (día de venta, ~18/11): gasto del día 8,19 USD, 33 clics, 23 visitas (70% de los clics), 2 pagos iniciados (8,7% de las visitas), 1 compra; la venta vino de H20. Las métricas son de la campaña del día, no solo de H20. Gasto < 2× ticket: no concluir.
 - H18–H24 (17/11): siete anuncios con titular que repite el de la landing reconstruida (H18 y H19 son los anuncios «Despeja la mente» con texto nuevo). Entregados en 1:1, 4:5 y 9:16. Siguen siendo DIR-N5.
 - H15–H17: tres hooks nuevos sobre la estructura de H09 (autocuidado, sin saber dibujar, cambia el scroll por color). Siguen siendo DIR-N5: si alguno gana, es hook, no ángulo.
@@ -96,6 +97,11 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-17 | DIR-N5_IMG_H22_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cero decisiones, solo sigue los números» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-17 | DIR-N5_IMG_H23_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cambia el scroll por 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-17 | DIR-N5_IMG_H24_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Un descanso para tu mente pintando por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20a_v1 | Venta directa (variante de H20: Lámina Santorini, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20b_v1 | Venta directa (variante de H20: Lámina lavanda, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20c_v1 | Venta directa (variante de H20: Lámina Torre Eiffel, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20d_v1 | Venta directa (variante de H20: H20 con segunda línea «pinta por números») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20e_v1 | Venta directa (variante de H20: H20 con franja «Sin meditar · sin saber dibujar») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
