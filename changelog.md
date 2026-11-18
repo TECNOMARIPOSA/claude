@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-18 (H20 vendió)
+**Cambios:** historial de resultados: H20 trajo la venta (día: 8,19 USD, 23 visitas, 2 pagos iniciados, 1 compra).
+
 ## 2026-11-17 (anuncios H18–H24)
 **Cambios:** CREATIVOS/entregas/2026-11-17/LATAM-calma-en-colores/ — 7 anuncios (2 existentes con texto alineado a la landing + 5 variaciones nuevas) en 1:1, 4:5 y 9:16, más TEXTOS-H18-H24.md; historial de resultados actualizado.
 
