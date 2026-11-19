@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-19 (H20 día 2)
+**Cambios:** historial: cierre del día 2 de H20 y acumulado de 2 días (19,69 USD, 2 compras, CPA 9,85).
+
 ## 2026-11-18 (variantes H20a–H20e)
 **Cambios:** CREATIVOS/entregas/2026-11-18/LATAM-calma-en-colores/ — 5 variantes de H20 en 1:1, 4:5 y 9:16 + TEXTOS-H20a-H20e.md; historial actualizado.
 
