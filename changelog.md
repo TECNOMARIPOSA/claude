@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-19 (acumulado 3 días)
+**Cambios:** historial: acumulado de 3 días (30 USD, 71 visitas, 5 pagos iniciados, 2 compras, CPA 15).
+
 ## 2026-11-19 (H20 día 2)
 **Cambios:** historial: cierre del día 2 de H20 y acumulado de 2 días (19,69 USD, 2 compras, CPA 9,85).
 

@@ -28,6 +28,7 @@ Plantilla del bloque:
 
 **Aprendido:**
 - H20, día 2 (cierre): 11,5 USD, 29 clics (CTR 3,06%), 29 visitas (100% de los clics), 2 pagos iniciados (6,9%), 1 compra; CPA del día 11,5. Acumulado 2 días: 19,69 USD, 62 clics, 52 visitas, 4 pagos iniciados (7,7%), 2 compras, CPA 9,85. Aún < 2× ticket: sin veredicto.
+- Acumulado 3 días (campaña): 30 USD, CPM 14,72, CPC 0,41, CTR 3,36%, 71 visitas, 5 pagos iniciados (7,0%), 2 compras, CPA 15,0 (ROAS ≈ 1,0 antes de comisiones). Día 3 (por diferencia): ~10,3 USD, 19 visitas, 1 pago iniciado, 0 compras. Visita → pago iniciado: 8,7% / 6,9% / ~5,3% por día.
 - H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
 - H20 (día de venta, ~18/11): gasto del día 8,19 USD, 33 clics, 23 visitas (70% de los clics), 2 pagos iniciados (8,7% de las visitas), 1 compra; la venta vino de H20. Las métricas son de la campaña del día, no solo de H20. Gasto < 2× ticket: no concluir.
 - H18–H24 (17/11): siete anuncios con titular que repite el de la landing reconstruida (H18 y H19 son los anuncios «Despeja la mente» con texto nuevo). Entregados en 1:1, 4:5 y 9:16. Siguen siendo DIR-N5.
