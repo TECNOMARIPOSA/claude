@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-20 (video H30 v2 + imágenes para PicassoIA)
+**Cambios:** CREATIVOS/entregas/2026-11-20/ — H30 v2 (mano pintando la lámina), imágenes inicial y final y prompt para PicassoIA; historial actualizado.
+
 ## 2026-11-20 (video H30)
 **Cambios:** CREATIVOS/entregas/2026-11-20/ — video H30 (9:16, 31 s, subtitulado) y texto adaptados a LATAM a partir del anuncio de Argentina; historial actualizado.
 
