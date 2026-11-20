@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-20 (anuncios H19/H20 → 10 nuevos)
+**Cambios:** CREATIVOS/entregas/2026-11-20/LATAM-calma-en-colores/ — 5 variaciones (H19a–c, H20f–g) y 5 conceptos nuevos (H25–H29) en 1:1, 4:5 y 9:16 + textos; historial actualizado.
+
 ## 2026-11-19 (acumulado 3 días)
 **Cambios:** historial: acumulado de 3 días (30 USD, 71 visitas, 5 pagos iniciados, 2 compras, CPA 15).
 

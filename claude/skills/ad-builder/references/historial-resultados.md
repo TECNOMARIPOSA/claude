@@ -28,6 +28,7 @@ Plantilla del bloque:
 
 **Aprendido:**
 - H20, día 2 (cierre): 11,5 USD, 29 clics (CTR 3,06%), 29 visitas (100% de los clics), 2 pagos iniciados (6,9%), 1 compra; CPA del día 11,5. Acumulado 2 días: 19,69 USD, 62 clics, 52 visitas, 4 pagos iniciados (7,7%), 2 compras, CPA 9,85. Aún < 2× ticket: sin veredicto.
+- H19 y H20 fueron los anuncios que vendieron (confirmado 20/11). 20/11: 5 variaciones (H19a–c, H20f–g) + 5 conceptos nuevos (H25–H29: lista de dolores, comparación, 3 pasos, por dentro, progresión).
 - Acumulado 3 días (campaña): 30 USD, CPM 14,72, CPC 0,41, CTR 3,36%, 71 visitas, 5 pagos iniciados (7,0%), 2 compras, CPA 15,0 (ROAS ≈ 1,0 antes de comisiones). Día 3 (por diferencia): ~10,3 USD, 19 visitas, 1 pago iniciado, 0 compras. Visita → pago iniciado: 8,7% / 6,9% / ~5,3% por día.
 - H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
 - H20 (día de venta, ~18/11): gasto del día 8,19 USD, 33 clics, 23 visitas (70% de los clics), 2 pagos iniciados (8,7% de las visitas), 1 compra; la venta vino de H20. Las métricas son de la campaña del día, no solo de H20. Gasto < 2× ticket: no concluir.
@@ -104,6 +105,16 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-18 | DIR-N5_IMG_H20c_v1 | Venta directa (variante de H20: Lámina Torre Eiffel, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-18 | DIR-N5_IMG_H20d_v1 | Venta directa (variante de H20: H20 con segunda línea «pinta por números») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-18 | DIR-N5_IMG_H20e_v1 | Venta directa (variante de H20: H20 con franja «Sin meditar · sin saber dibujar») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19a_v1 | Venta directa (variante: «¿Cabeza a mil?» + «sin tener que meditar») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19b_v1 | Venta directa (variante: frases invertidas) | N5 | Estático 1:1, 4:5 y 9:16 | «Sin tener que meditar / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19c_v1 | Venta directa (variante: lámina Machu Picchu) | N5 | Estático 1:1, 4:5 y 9:16 | «30 minutos de calma / sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H20f_v1 | Venta directa (variante: lámina Ha Long) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H20g_v1 | Venta directa (variante: botón «Empieza hoy tus 30 minutos») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N2_IMG_H25_v1 | Problema–solución (concepto nuevo: lista «¿Te pasa que…?») | N2 | Estático 1:1, 4:5 y 9:16 | «¿Te pasa que…?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N3_IMG_H26_v1 | Problema–solución (concepto nuevo: meditar vs. pintar por números) | N3 | Estático 1:1, 4:5 y 9:16 | «Meditar vs. pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | SIM-N3_IMG_H27_v1 | Simplicidad (concepto nuevo: 3 pasos) | N3 | Estático 1:1, 4:5 y 9:16 | «Tu calma en 3 pasos» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | CUR-N3_IMG_H28_v1 | Curiosidad (concepto nuevo: por dentro del libro) | N3 | Estático 1:1, 4:5 y 9:16 | «Así se ve por dentro» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | TRA-N3_IMG_H29_v1 | Transformación (concepto nuevo: de números a obra) | N3 | Estático 1:1, 4:5 y 9:16 | «De números a obra de arte» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
