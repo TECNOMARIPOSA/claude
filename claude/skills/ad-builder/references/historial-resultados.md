@@ -115,6 +115,7 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-20 | SIM-N3_IMG_H27_v1 | Simplicidad (concepto nuevo: 3 pasos) | N3 | Estático 1:1, 4:5 y 9:16 | «Tu calma en 3 pasos» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-20 | CUR-N3_IMG_H28_v1 | Curiosidad (concepto nuevo: por dentro del libro) | N3 | Estático 1:1, 4:5 y 9:16 | «Así se ve por dentro» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-20 | TRA-N3_IMG_H29_v1 | Transformación (concepto nuevo: de números a obra) | N3 | Estático 1:1, 4:5 y 9:16 | «De números a obra de arte» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N3_VOZ_H30_v1 | Problema–solución (video: meditar no funcionó → efecto manos ocupadas; versión LATAM del anuncio que corre en Argentina) | N3 | Video 9:16, 31 s, subtitulado, sin voz | «Guarda el celular un rato» | — | — | — | — | — | — | ⏳ Sin correr |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
