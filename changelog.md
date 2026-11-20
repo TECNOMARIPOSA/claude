@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-20 (prompt e imágenes PicassoIA v2)
+**Cambios:** CREATIVOS/entregas/2026-11-20/ — nuevo prompt de 10 s (mano en movimiento + acercamiento de cámara) e imágenes inicial y final más definidas para PicassoIA.
+
 ## 2026-11-20 (video H30 v2 + imágenes para PicassoIA)
 **Cambios:** CREATIVOS/entregas/2026-11-20/ — H30 v2 (mano pintando la lámina), imágenes inicial y final y prompt para PicassoIA; historial actualizado.
 
