@@ -29,6 +29,7 @@ Plantilla del bloque:
 **Aprendido:**
 - H20, día 2 (cierre): 11,5 USD, 29 clics (CTR 3,06%), 29 visitas (100% de los clics), 2 pagos iniciados (6,9%), 1 compra; CPA del día 11,5. Acumulado 2 días: 19,69 USD, 62 clics, 52 visitas, 4 pagos iniciados (7,7%), 2 compras, CPA 9,85. Aún < 2× ticket: sin veredicto.
 - 20/11: nueva campaña con objetivo mensajes (WhatsApp) para México, Colombia y Chile; H31–H40 (10 anuncios) con link de pago; 2 con precio en el chat, 4 con oferta en el texto, 4 con precio en la imagen. Métrica clave: costo por conversación y compras por conversación.
+- 20/11: el precio de venta pasó a US$ 9. Anuncios con precio rehechos por país (H37–H40 v2: MX $169 MXN, CO $35.900 COP, CL $8.490 CLP; conversión aproximada, por confirmar contra el link de pago). Pendiente: actualizar los textos que aún mencionan US$ 14.99 y 50% OFF si ese descuento ya no aplica.
 - H19 y H20 fueron los anuncios que vendieron (confirmado 20/11). 20/11: 5 variaciones (H19a–c, H20f–g) + 5 conceptos nuevos (H25–H29: lista de dolores, comparación, 3 pasos, por dentro, progresión).
 - Acumulado 3 días (campaña): 30 USD, CPM 14,72, CPC 0,41, CTR 3,36%, 71 visitas, 5 pagos iniciados (7,0%), 2 compras, CPA 15,0 (ROAS ≈ 1,0 antes de comisiones). Día 3 (por diferencia): ~10,3 USD, 19 visitas, 1 pago iniciado, 0 compras. Visita → pago iniciado: 8,7% / 6,9% / ~5,3% por día.
 - H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
@@ -128,6 +129,18 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-20 | DIR-N5_IMG_H38_v1 | Mensajes WhatsApp · precio en la imagen: 50% OFF | N5 | Estático 1:1, 4:5 y 9:16 | «50% OFF solo hoy · US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
 | 2026-11-20 | DIR-N5_IMG_H39_v1 | Mensajes WhatsApp · precio en la imagen: +100 ilustraciones | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones por solo US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
 | 2026-11-20 | DIR-N5_IMG_H40_v1 | Mensajes WhatsApp · precio en la imagen: todo incluido | N5 | Estático 1:1, 4:5 y 9:16 | «Todo esto por US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_MX | Mensajes WhatsApp · precio en la imagen (producto con precio) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_MX | Mensajes WhatsApp · precio en la imagen (precio especial) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_MX | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_MX | Mensajes WhatsApp · precio en la imagen (todo incluido) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_CO | Mensajes WhatsApp · precio en la imagen (producto con precio) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_CO | Mensajes WhatsApp · precio en la imagen (precio especial) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_CO | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_CO | Mensajes WhatsApp · precio en la imagen (todo incluido) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_CL | Mensajes WhatsApp · precio en la imagen (producto con precio) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_CL | Mensajes WhatsApp · precio en la imagen (precio especial) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_CL | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_CL | Mensajes WhatsApp · precio en la imagen (todo incluido) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

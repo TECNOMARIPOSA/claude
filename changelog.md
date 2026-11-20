@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-20 (precio US$ 9: anuncios con precio por país)
+**Cambios:** CREATIVOS/entregas/2026-11-20/LATAM-calma-en-colores-MSJ-PRECIO-POR-PAIS/ — H37–H40 v2 para México, Colombia y Chile (36 imágenes) + textos; historial actualizado. Precios locales aproximados por confirmar.
+
 ## 2026-11-20 (campaña de mensajes WhatsApp)
 **Cambios:** CREATIVOS/entregas/2026-11-20/LATAM-calma-en-colores-MSJ/ — 10 anuncios (H31–H40) en 1:1, 4:5 y 9:16, textos, bienvenida y respuestas rápidas, guion de venta por chat y configuración de la campaña; historial actualizado.
 
