@@ -28,6 +28,7 @@ Plantilla del bloque:
 
 **Aprendido:**
 - H20, día 2 (cierre): 11,5 USD, 29 clics (CTR 3,06%), 29 visitas (100% de los clics), 2 pagos iniciados (6,9%), 1 compra; CPA del día 11,5. Acumulado 2 días: 19,69 USD, 62 clics, 52 visitas, 4 pagos iniciados (7,7%), 2 compras, CPA 9,85. Aún < 2× ticket: sin veredicto.
+- 20/11: nueva campaña con objetivo mensajes (WhatsApp) para México, Colombia y Chile; H31–H40 (10 anuncios) con link de pago; 2 con precio en el chat, 4 con oferta en el texto, 4 con precio en la imagen. Métrica clave: costo por conversación y compras por conversación.
 - H19 y H20 fueron los anuncios que vendieron (confirmado 20/11). 20/11: 5 variaciones (H19a–c, H20f–g) + 5 conceptos nuevos (H25–H29: lista de dolores, comparación, 3 pasos, por dentro, progresión).
 - Acumulado 3 días (campaña): 30 USD, CPM 14,72, CPC 0,41, CTR 3,36%, 71 visitas, 5 pagos iniciados (7,0%), 2 compras, CPA 15,0 (ROAS ≈ 1,0 antes de comisiones). Día 3 (por diferencia): ~10,3 USD, 19 visitas, 1 pago iniciado, 0 compras. Visita → pago iniciado: 8,7% / 6,9% / ~5,3% por día.
 - H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
@@ -117,6 +118,16 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 | 2026-11-20 | TRA-N3_IMG_H29_v1 | Transformación (concepto nuevo: de números a obra) | N3 | Estático 1:1, 4:5 y 9:16 | «De números a obra de arte» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-20 | PSL-N3_VOZ_H30_v1 | Problema–solución (video: meditar no funcionó → efecto manos ocupadas; versión LATAM del anuncio que corre en Argentina) | N3 | Video 9:16, 31 s, subtitulado, sin voz | «Guarda el celular un rato» | — | — | — | — | — | — | ⏳ Sin correr |
 | 2026-11-20 | PSL-N3_VOZ_H30_v2 | Problema–solución (mismo guion que H30 v1; imagen: mano pintando la lámina sobre foto de mesa) | N3 | Video 9:16, 31 s, subtitulado, sin voz | «Guarda el celular un rato» | — | — | — | — | — | — | ⏳ Sin correr · v1 se mantiene (no se sobrescribe) |
+| 2026-11-20 | PSL-N2_IMG_H31_v1 | Mensajes WhatsApp · opción 1 (precio en el chat): cabeza a mil | N2 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | PSL-N2_IMG_H32_v1 | Mensajes WhatsApp · opción 1: sin tener que meditar | N2 | Estático 1:1, 4:5 y 9:16 | «Sin tener que meditar / pinta por números» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | CAL-N2_IMG_H33_v1 | Mensajes WhatsApp · oferta en el texto: cambia el scroll | N2 | Estático 1:1, 4:5 y 9:16 | «Cambia el scroll / por 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | SIM-N3_IMG_H34_v1 | Mensajes WhatsApp · oferta en el texto: 3 pasos | N3 | Estático 1:1, 4:5 y 9:16 | «Pídelo por WhatsApp en 3 pasos» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | PSL-N2_IMG_H35_v1 | Mensajes WhatsApp · oferta en el texto: «¿Te pasa que…?» | N2 | Estático 1:1, 4:5 y 9:16 | «¿Te pasa que…?» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | CUR-N3_IMG_H36_v1 | Mensajes WhatsApp · oferta en el texto: por dentro | N3 | Estático 1:1, 4:5 y 9:16 | «Así se ve por dentro» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H37_v1 | Mensajes WhatsApp · precio en la imagen: producto | N5 | Estático 1:1, 4:5 y 9:16 | «Calma en Colores · US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H38_v1 | Mensajes WhatsApp · precio en la imagen: 50% OFF | N5 | Estático 1:1, 4:5 y 9:16 | «50% OFF solo hoy · US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H39_v1 | Mensajes WhatsApp · precio en la imagen: +100 ilustraciones | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones por solo US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H40_v1 | Mensajes WhatsApp · precio en la imagen: todo incluido | N5 | Estático 1:1, 4:5 y 9:16 | «Todo esto por US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
 
 **Aprendido:**
 - H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.

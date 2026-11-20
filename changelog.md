@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-20 (campaña de mensajes WhatsApp)
+**Cambios:** CREATIVOS/entregas/2026-11-20/LATAM-calma-en-colores-MSJ/ — 10 anuncios (H31–H40) en 1:1, 4:5 y 9:16, textos, bienvenida y respuestas rápidas, guion de venta por chat y configuración de la campaña; historial actualizado.
+
 ## 2026-11-20 (prompt e imágenes PicassoIA v2)
 **Cambios:** CREATIVOS/entregas/2026-11-20/ — nuevo prompt de 10 s (mano en movimiento + acercamiento de cámara) e imágenes inicial y final más definidas para PicassoIA.
 
