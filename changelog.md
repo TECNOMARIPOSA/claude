@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-21 (resultados tandas 1 y 2)
+**Cambios:** historial: resultados de la tanda 1 (39,67 USD, 2 compras: H19 y H20) y de la tanda 2 (3,1 USD, 1 compra: H29).
+
 ## 2026-11-20 (precio US$ 9: anuncios con precio por país)
 **Cambios:** CREATIVOS/entregas/2026-11-20/LATAM-calma-en-colores-MSJ-PRECIO-POR-PAIS/ — H37–H40 v2 para México, Colombia y Chile (36 imágenes) + textos; historial actualizado. Precios locales aproximados por confirmar.
 
