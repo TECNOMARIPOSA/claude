@@ -1,0 +1,665 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calma en Colores — El Ritual Antiestrés de Pintura por Números</title>
+<meta name="description" content="Pintura por números para bajar el estrés y desconectar del celular. 3 colecciones + 4 bonos de regalo. Acceso inmediato por mail. Garantía de 120 días.">
+<!-- META PIXEL: pega aquí tu código base del Pixel (PageView) -->
+<!-- PRECIOS: price, original_price, savings y currency se escriben como tokens entre llaves dobles; la plataforma los reemplaza por el precio formateado en la moneda del comprador. No escribir símbolos de moneda al lado. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--olive:#7d7f52;--olive-deep:#5c5e3a;--olive-soft:#a3a57e;--olive-wash:#eceedd;--cream:#f7f3e6;--cream-lt:#fffdf6;
+  --terra:#eba46b;--terra-deep:#c06f35;--gold:#f3c590;--peach:#fdeedd;--on-terra:#2e2f24;--green:#5f7f4e;--green-deep:#4a6640;
+  --ink:#2e2f24;--ink-soft:#6b6c5b;--line:#e3dfcd;--white:#fff;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Inter',sans-serif;color:var(--ink);background:var(--cream-lt);-webkit-font-smoothing:antialiased;line-height:1.5;padding-bottom:84px;}
+img{max-width:100%;display:block;}
+section,header{position:relative;}
+.wrap{max-width:1040px;margin:0 auto;padding:0 22px;}
+.eyebrow{display:inline-block;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--olive);font-weight:700;margin-bottom:14px;}
+.h2{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(28px,4.6vw,46px);line-height:1.13;letter-spacing:-.012em;color:var(--ink);}
+.h2 em,.h1 em{font-style:italic;color:var(--terra-deep);}
+.head{text-align:center;max-width:700px;margin:0 auto 44px;}
+.lede{font-size:16px;line-height:1.7;color:var(--ink-soft);margin-top:14px;}
+.pad{padding:64px 0;}
+.cta{display:inline-flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;background:var(--terra);color:var(--on-terra);
+  padding:19px 38px;border-radius:50px;font-size:16px;font-weight:700;letter-spacing:.02em;width:100%;max-width:440px;
+  box-shadow:0 16px 36px -12px rgba(235,164,107,.6);transition:transform .3s,background .3s;animation:pulse 2.6s ease-in-out infinite;}
+.cta:hover{transform:translateY(-2px);background:#f0b27f;}
+.cta .arrow{transition:transform .3s;}.cta:hover .arrow{transform:translateX(4px);}
+@keyframes pulse{0%,100%{box-shadow:0 16px 36px -12px rgba(235,164,107,.6);}50%{box-shadow:0 16px 44px -6px rgba(235,164,107,.85);}}
+@media(min-width:576px){.cta{width:auto;}}
+
+
+/* 01 BARRA */
+.mab{background:var(--olive-deep);color:var(--cream-lt);padding:11px 0;overflow:hidden;}
+.mab-track{display:flex;width:max-content;animation:scroll 38s linear infinite;}
+.mab-group{display:flex;align-items:center;gap:26px;padding-right:26px;flex-shrink:0;}
+.mab-item{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap;}
+.mab-sub{font-size:13px;font-family:'Fraunces',serif;font-style:italic;color:#e6e2d2;white-space:nowrap;}
+.mab-dot{width:6px;height:6px;border-radius:50%;background:var(--gold);flex-shrink:0;}
+@keyframes scroll{to{transform:translateX(-50%);}}
+
+
+/* 02 HERO */
+.mah{text-align:center;padding:22px 22px 36px;background:radial-gradient(ellipse at 50% -10%,rgba(125,127,82,.14),transparent 55%),var(--cream-lt);overflow:hidden;}
+.mah-inner{max-width:760px;margin:0 auto;}
+.pill{display:inline-flex;align-items:center;gap:10px;padding:8px 18px;margin-bottom:16px;background:var(--white);border:1px solid var(--line);border-radius:50px;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--terra);}
+.pill .dot{width:6px;height:6px;border-radius:50%;background:var(--gold);}
+.h1{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(30px,5.4vw,52px);line-height:1.1;letter-spacing:-.018em;margin:0 auto 14px;max-width:19ch;}
+.mah-sub{font-size:16px;line-height:1.65;color:var(--ink-soft);max-width:52ch;margin:0 auto 18px;}
+.mah-sub b{color:var(--ink);}
+.trust{display:inline-flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 12px;margin-bottom:8px;padding:8px 16px;background:var(--olive-wash);border:1px solid var(--line);border-radius:50px;font-size:12.5px;color:var(--ink-soft);}
+.trust .st{color:var(--gold);letter-spacing:1.5px;}.trust b{color:var(--ink);}
+.access{font-size:12.5px;color:var(--olive-deep);font-weight:600;margin-bottom:22px;}
+.mah-media{position:relative;max-width:500px;margin:0 auto 34px;padding:12px;background:var(--white);border:1px solid var(--line);border-radius:22px;box-shadow:0 26px 56px -28px rgba(92,94,58,.45);}
+.mah-media img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:13px;}
+.badge{position:absolute;bottom:-14px;right:-10px;background:var(--olive-deep);color:var(--cream-lt);padding:12px 18px;border-radius:14px;transform:rotate(-3deg);box-shadow:0 12px 26px -10px rgba(92,94,58,.6);text-align:left;}
+.badge .n{font-family:'Fraunces',serif;font-size:21px;font-weight:600;line-height:1;}
+.badge .l{font-size:9px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin-top:3px;opacity:.9;}
+.meta{margin-top:14px;font-size:12.5px;color:var(--ink-soft);}
+.facts{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-top:16px;}
+.fact{font-size:12px;font-weight:600;color:var(--olive-deep);background:var(--olive-wash);border:1px solid var(--line);padding:7px 14px;border-radius:50px;}
+
+
+/* 03 BARRA TRANSICION */
+.mat{background:var(--olive-deep);color:var(--cream-lt);padding:14px 16px;text-align:center;}
+.mat span{display:inline-flex;align-items:center;gap:14px;font-size:12px;letter-spacing:.24em;text-transform:uppercase;font-weight:700;}
+.mat span::before,.mat span::after{content:'';width:24px;height:1px;background:var(--gold);}
+
+
+/* 04 DOLOR */
+.pain-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:30px;}
+.pain{text-align:center;}
+.icon{display:inline-flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:var(--olive-wash);border:1px solid var(--line);color:var(--olive-deep);margin-bottom:18px;font-size:28px;transition:.3s;}
+.pain:hover .icon{background:var(--olive-deep);transform:translateY(-3px);}
+.pain h3,.card h3{font-family:'Fraunces',serif;font-size:19px;font-weight:500;line-height:1.25;margin-bottom:10px;}
+.pain p{font-size:14px;color:var(--ink-soft);line-height:1.6;max-width:28ch;margin:0 auto;}
+.bridge{display:flex;align-items:center;justify-content:center;gap:18px;margin-top:50px;}
+.bridge p{font-family:'Fraunces',serif;font-style:italic;font-size:clamp(17px,2.4vw,22px);color:var(--olive-deep);text-align:center;max-width:50ch;}
+.bridge b{color:var(--terra-deep);}
+.bridge .ln{flex:0 0 48px;height:1px;background:var(--olive-soft);}
+
+
+/* 05 SOLUCION */
+.sol{background:linear-gradient(180deg,var(--olive-wash),var(--peach));}
+.sol-img{max-width:560px;margin:0 auto 36px;border-radius:20px;overflow:hidden;border:1px solid var(--line);box-shadow:0 26px 56px -28px rgba(92,94,58,.45);}
+.sol-img img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.sol-chips{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:0 auto 40px;}
+.sol-chips span{background:var(--white);border:1px solid var(--line);border-radius:50px;padding:10px 18px;font-size:14px;font-weight:600;color:var(--olive-deep);}
+.sol-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;max-width:980px;margin:0 auto;}
+.card{background:var(--cream-lt);border:1px solid var(--line);border-radius:18px;padding:32px 30px;transition:.5s;}
+.card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -22px rgba(92,94,58,.4);}
+.card .num{font-size:34px;margin-bottom:14px;}
+.card h3{font-size:21px;}
+.card p{font-size:14.5px;color:var(--ink-soft);line-height:1.65;}
+
+
+/* 06 TABS */
+.tabs{display:flex;justify-content:center;gap:8px;margin-bottom:38px;flex-wrap:wrap;}
+.tab{background:var(--white);border:1px solid var(--line);color:var(--ink-soft);padding:13px 22px;border-radius:50px;cursor:pointer;font-family:'Inter',sans-serif;font-size:14px;font-weight:600;transition:.3s;}
+.tab:hover{color:var(--olive-deep);border-color:var(--olive);}
+.tab.on{background:var(--olive-deep);color:var(--cream-lt);border-color:var(--olive-deep);}
+.panel{display:none;}.panel.on{display:block;animation:fade .5s ease;}
+@keyframes fade{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:none;}}
+.panel-c{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center;}
+.panel h3{font-family:'Fraunces',serif;font-size:clamp(24px,3.2vw,34px);font-weight:500;line-height:1.2;margin-bottom:16px;}
+.panel > .panel-c > div > p{font-size:16px;color:var(--ink-soft);line-height:1.7;margin-bottom:20px;}
+.list{list-style:none;}
+.list li{padding:12px 0 12px 26px;border-bottom:1px solid var(--line);position:relative;font-size:14.5px;font-weight:500;}
+.list li:last-child{border:none;}
+.list li::before{content:'';position:absolute;left:0;top:21px;width:14px;height:1px;background:var(--terra);}
+.slot{max-width:400px;margin:0 auto;border-radius:18px;overflow:hidden;border:1px solid var(--line);box-shadow:0 22px 50px -26px rgba(92,94,58,.5);}
+.slot img{width:100%;aspect-ratio:4/5;object-fit:cover;}
+
+
+/* 07 PASOS */
+.steps-img{max-width:760px;margin:0 auto 54px;border-radius:20px;overflow:hidden;border:1px solid var(--line);}
+.steps-img img{width:100%;aspect-ratio:16/9;object-fit:cover;}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin-bottom:44px;position:relative;}
+.steps::before{content:'';position:absolute;top:30px;left:16%;right:16%;height:2px;opacity:.55;background-image:radial-gradient(circle,var(--olive) 1.5px,transparent 1.5px);background-size:12px 2px;background-repeat:repeat-x;}
+.step{background:var(--cream);border:1px solid var(--line);border-radius:18px;padding:14px 26px 28px;text-align:center;position:relative;z-index:1;transition:.5s;}
+.step:hover{transform:translateY(-4px);box-shadow:0 22px 44px -22px rgba(92,94,58,.4);}
+.step .n{width:44px;height:44px;margin:-36px auto 14px;background:var(--terra);color:var(--on-terra);border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Fraunces',serif;font-size:21px;font-weight:600;border:3px solid var(--cream-lt);box-shadow:0 6px 14px rgba(235,164,107,.4);}
+.step .ic{font-size:30px;margin-bottom:10px;}
+.step h3{font-family:'Fraunces',serif;font-size:21px;font-weight:500;margin-bottom:10px;}
+.step p{font-size:14px;color:var(--ink-soft);line-height:1.6;max-width:32ch;margin:0 auto;}
+.center{text-align:center;}
+
+
+/* 08 CARRUSEL */
+.car{overflow:hidden;padding:64px 0;}
+.track{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding:10px 22px 30px;scrollbar-width:none;scroll-behavior:smooth;}
+.track::-webkit-scrollbar{display:none;}
+.ccard{flex:0 0 280px;background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;scroll-snap-align:start;transition:.4s;}
+.ccard:hover{transform:translateY(-6px);box-shadow:0 26px 52px -26px rgba(92,94,58,.45);}
+.ccard .im{position:relative;border-bottom:1px solid var(--line);}
+.ccard img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.tag{position:absolute;bottom:12px;left:50%;transform:translateX(-50%);background:var(--olive-deep);color:var(--cream-lt);padding:7px 14px;border-radius:50px;font-size:10px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap;}
+.tag.alt{background:var(--terra);color:var(--on-terra);}
+.ccard .b{padding:18px 20px 22px;}
+.ccard h3{font-family:'Fraunces',serif;font-size:18px;font-weight:600;margin-bottom:6px;}
+.ccard p{font-size:13px;color:var(--ink-soft);line-height:1.55;}
+.ctrl{display:flex;justify-content:center;gap:14px;margin-bottom:20px;}
+.arrow-btn{width:48px;height:48px;border-radius:50%;background:var(--white);border:1px solid var(--line);color:var(--olive-deep);font-size:18px;cursor:pointer;transition:.3s;}
+.arrow-btn:hover{background:var(--olive-deep);color:var(--cream-lt);}
+.foot-i{text-align:center;padding:0 22px;font-family:'Fraunces',serif;font-style:italic;font-size:15px;color:var(--olive-deep);max-width:60ch;margin:0 auto;}
+
+
+/* 09 BONOS */
+.bon{background:linear-gradient(180deg,var(--peach),var(--olive-wash));}
+.bon-pill{display:inline-flex;background:var(--gold);color:#3a2f14;font-size:11.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:9px 18px;border-radius:50px;margin-bottom:18px;}
+.bon-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;max-width:860px;margin:0 auto;}
+.bcard{background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;transition:.4s;}
+.bcard:hover{transform:translateY(-5px);box-shadow:0 26px 52px -26px rgba(92,94,58,.45);}
+.bcard .im{position:relative;border-bottom:1px solid var(--line);}
+.bcard img{width:100%;aspect-ratio:1/1;object-fit:cover;}
+.btag{position:absolute;top:14px;left:14px;background:var(--terra);color:var(--on-terra);padding:7px 14px;border-radius:50px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+.btag.star{background:var(--gold);color:#3a2f14;}
+.bcard .b{padding:22px 22px 24px;display:flex;flex-direction:column;flex-grow:1;}
+.bcard h3{font-family:'Fraunces',serif;font-size:20px;font-weight:600;margin-bottom:8px;}
+.bcard p{font-size:14px;color:var(--ink-soft);line-height:1.6;flex-grow:1;margin-bottom:14px;}
+.free{align-self:flex-start;background:rgba(95,127,78,.12);border:1px solid rgba(95,127,78,.4);color:var(--green);font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:6px 14px;border-radius:50px;}
+.bon-close{text-align:center;max-width:620px;margin:46px auto 0;font-family:'Fraunces',serif;font-size:clamp(18px,2.6vw,24px);line-height:1.5;color:var(--ink-soft);}
+.bon-close b{color:var(--terra-deep);font-weight:600;}
+
+
+/* 10 OFERTA */
+.mof{background:radial-gradient(ellipse at 20% 0%,rgba(243,197,144,.16),transparent 55%),radial-gradient(ellipse at 80% 100%,rgba(125,127,82,.14),transparent 55%),var(--cream);padding:60px 20px 56px;}
+.mof-top{max-width:480px;margin:0 auto 34px;text-align:center;}
+.mof-pill{display:inline-block;padding:10px 24px;border-radius:12px;font-weight:800;letter-spacing:.08em;font-size:17px;background:var(--gold);color:#3a2f14;box-shadow:0 3px 0 #cf9455;}
+.mof-script{font-family:'Fraunces',serif;font-style:italic;font-size:26px;color:var(--terra-deep);margin-top:8px;}
+.mof-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;max-width:1040px;margin:0 auto;align-items:center;}
+.mof-visual{position:relative;}
+.mof-visual img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:24px;border:1px solid var(--line);box-shadow:0 30px 60px -28px rgba(92,94,58,.55);}
+.mof-vcap{position:absolute;left:50%;bottom:-18px;transform:translateX(-50%);background:var(--olive-deep);color:var(--cream-lt);padding:12px 20px;border-radius:50px;font-size:13px;white-space:nowrap;box-shadow:0 12px 26px -10px rgba(92,94,58,.6);}
+.mof-vcap b{color:var(--gold);}
+.mof-grid .mof-card{margin:0;max-width:none;}
+@media(max-width:860px){.mof-grid{grid-template-columns:1fr;gap:44px;max-width:480px;}.mof-vcap{font-size:12px;padding:10px 14px;}}
+.mof-timer{margin-top:22px;border:2px dashed var(--terra);border-radius:16px;padding:16px 20px;background:var(--white);display:inline-block;}
+.mof-timer-lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;margin-bottom:12px;}
+.clock{display:flex;align-items:center;justify-content:center;gap:6px;}
+.unit{background:var(--cream-lt);border:1px solid var(--line);border-radius:10px;padding:10px 16px 8px;min-width:76px;display:flex;flex-direction:column;align-items:center;}
+.unit .n{font-family:'Fraunces',serif;font-size:30px;font-weight:600;line-height:1;}
+.unit .l{font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-top:6px;font-weight:700;}
+.sep{font-family:'Fraunces',serif;font-size:24px;color:var(--terra);font-weight:600;margin-top:-8px;}
+.mof-card{max-width:480px;margin:0 auto;background:var(--cream-lt);border:3px solid var(--terra);border-radius:24px;padding:42px 26px 28px;text-align:center;position:relative;box-shadow:0 24px 60px -24px rgba(235,164,107,.5);}
+.mof-launch{position:absolute;top:-16px;left:50%;transform:translateX(-50%);background:var(--gold);color:#3a2f14;padding:8px 22px;border-radius:50px;font-weight:800;font-size:11px;letter-spacing:.12em;white-space:nowrap;box-shadow:0 3px 0 #cf9455;}
+.mof-name{font-family:'Fraunces',serif;font-size:clamp(24px,5.4vw,31px);font-weight:700;color:var(--terra-deep);line-height:1.1;text-transform:uppercase;margin:6px 0 6px;}
+.mof-bundle{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;margin-bottom:22px;}
+.price-row{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;}
+.was{font-family:'Fraunces',serif;font-size:21px;color:var(--ink-soft);text-decoration:line-through;text-decoration-color:var(--terra);text-decoration-thickness:2px;}
+.off{background:var(--terra);color:var(--on-terra);padding:6px 12px;border-radius:6px;font-weight:800;font-size:12px;letter-spacing:.08em;}
+.now{font-family:'Fraunces',serif;font-size:clamp(46px,12vw,66px);font-weight:700;line-height:1.05;letter-spacing:-.02em;margin:6px 0 2px;}
+.save{display:inline-block;background:rgba(95,127,78,.18);color:var(--green-deep);padding:6px 14px;border-radius:6px;font-weight:800;font-size:12px;letter-spacing:.08em;margin:4px 0 8px;}
+.mof-meta{font-size:12.5px;color:var(--ink-soft);margin-bottom:22px;}
+.mof-list{list-style:none;padding:16px;background:var(--olive-wash);border-radius:16px;text-align:left;margin-bottom:18px;}
+.mof-list li{display:flex;gap:9px;padding:8px 0;font-size:13.5px;font-weight:500;line-height:1.5;}
+.mof-list .ck{color:var(--green);font-weight:800;}
+.mof-bonus{border:2px dashed var(--gold);background:rgba(243,197,144,.1);border-radius:16px;padding:14px 16px;display:flex;align-items:center;gap:14px;margin-bottom:18px;text-align:left;}
+.mof-bonus .ic{width:46px;height:46px;background:var(--white);border:1px solid var(--line);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+.mof-bonus .t{font-weight:800;font-size:12px;letter-spacing:.05em;line-height:1.35;margin-bottom:6px;}
+.mof-bonus .g{background:var(--green);color:var(--cream-lt);padding:4px 9px;border-radius:4px;font-weight:800;font-size:10px;letter-spacing:.06em;}
+.viewers{display:flex;align-items:center;justify-content:center;gap:8px;font-size:13px;color:var(--ink-soft);margin-bottom:16px;}
+.viewers i{width:9px;height:9px;border-radius:50%;background:#e24a3b;animation:blink 1.4s infinite;}
+@keyframes blink{50%{opacity:.25;}}
+.mof-btn{display:flex;flex-direction:column;align-items:center;gap:4px;text-decoration:none;background:var(--green);color:var(--cream-lt);padding:19px 20px;border-radius:16px;box-shadow:0 4px 0 var(--green-deep),0 12px 26px -6px rgba(95,127,78,.5);transition:.3s;}
+.mof-btn:hover{background:var(--green-deep);transform:translateY(-2px);}
+.mof-btn .main{font-weight:800;font-size:16px;}.mof-btn .sub{font-size:11.5px;opacity:.92;font-weight:500;}
+.after{max-width:480px;margin:34px auto 0;}
+.after h3{font-family:'Fraunces',serif;font-size:20px;font-weight:500;text-align:center;margin-bottom:14px;}
+.qb{list-style:none;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:6px 18px;margin-bottom:22px;}
+.qb li{padding:12px 0;border-bottom:1px solid var(--line);font-size:14px;color:var(--ink-soft);}
+.qb li:last-child{border:none;}.qb b{color:var(--ink);}
+.pay{text-align:center;margin-bottom:20px;}
+.pay .lbl{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;margin-bottom:10px;}
+.pay .logos{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-bottom:8px;}
+.pay .logos span{background:var(--white);border:1px solid var(--line);border-radius:8px;padding:7px 14px;font-size:12px;font-weight:700;color:var(--ink);}
+.pay p{font-size:13px;color:var(--ink-soft);}
+.seller{display:flex;align-items:center;gap:14px;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin-bottom:20px;}
+.seller .ic{width:48px;height:48px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.seller .t{flex:1;}.seller b{display:block;font-size:14px;}.seller span{font-size:12px;color:var(--ink-soft);}
+.seller .k{text-align:center;font-family:'Fraunces',serif;font-size:20px;font-weight:700;line-height:1.1;}.seller .k small{display:block;font-family:'Inter',sans-serif;font-size:10px;font-weight:600;color:var(--ink-soft);}
+.tl{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.tl div{background:var(--olive-wash);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center;font-size:12.5px;font-weight:600;color:var(--olive-deep);}
+
+
+/* 11 RESEÑAS */
+.rev{background:var(--cream);padding:64px 0 56px;overflow:hidden;}
+.rev .head{padding:0 22px;}
+.rating{display:inline-flex;flex-wrap:wrap;justify-content:center;gap:6px 8px;font-size:14px;color:var(--ink-soft);}
+.rating .st{color:var(--gold);letter-spacing:1.5px;}.rating b{color:var(--ink);}
+.rcard{flex:0 0 330px;background:var(--white);border:1px solid var(--line);border-radius:18px;overflow:hidden;scroll-snap-align:center;display:flex;flex-direction:column;box-shadow:0 20px 44px -24px rgba(92,94,58,.42);}
+.rcard img[src=""],.rcard img:not([src]){display:none;}
+.rcard .ph{width:100%;aspect-ratio:1/1;object-fit:cover;border-bottom:1px solid var(--line);}
+.rcard .b{padding:20px;display:flex;flex-direction:column;flex-grow:1;}
+.rcard .s{color:var(--gold);letter-spacing:1.5px;font-size:14px;}
+.rcard .v{font-size:11px;color:var(--green);font-weight:700;margin:4px 0 10px;}
+.rcard p{font-size:14px;line-height:1.6;color:var(--ink);flex-grow:1;margin-bottom:14px;}
+.rcard .who{font-size:13px;color:var(--ink-soft);font-weight:600;}
+
+
+/* 12 GARANTIA */
+.gu{background:var(--olive-wash);text-align:center;padding:64px 22px;}
+.seal{display:inline-flex;align-items:center;justify-content:center;width:112px;height:112px;background:var(--white);border:2px solid var(--olive);border-radius:50%;margin-bottom:24px;color:var(--olive-deep);text-align:center;line-height:1;}
+.seal b{font-family:'Fraunces',serif;font-size:38px;display:block;}.seal small{font-size:10px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;}
+.gu p.t{font-size:16px;line-height:1.75;color:var(--ink-soft);max-width:58ch;margin:0 auto;}.gu p.t b{color:var(--ink);}
+
+
+/* 13 FAQ */
+.faq-w{max-width:780px;margin:0 auto;padding:0 22px;}
+.fq{background:var(--white);border:1px solid var(--line);border-radius:14px;margin-bottom:12px;overflow:hidden;transition:.3s;}
+.fq[open]{border-color:var(--olive);box-shadow:0 16px 36px -22px rgba(92,94,58,.45);}
+.fq summary{list-style:none;padding:19px 22px;cursor:pointer;font-family:'Fraunces',serif;font-size:clamp(16px,2.2vw,18.5px);font-weight:600;display:flex;justify-content:space-between;align-items:center;gap:16px;}
+.fq summary::-webkit-details-marker{display:none;}
+.fq .pl{width:30px;height:30px;border-radius:50%;border:1px solid var(--olive);color:var(--olive-deep);display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:.4s;font-size:17px;}
+.fq[open] .pl{transform:rotate(45deg);background:var(--olive-deep);color:var(--cream-lt);}
+.fq .a{padding:0 22px 22px;color:var(--ink-soft);line-height:1.7;font-size:14.5px;}
+
+
+/* 14 FINAL */
+.fin{background:var(--cream);text-align:center;padding:60px 22px 0;}
+.fin .wrap{max-width:680px;}
+.fin .h2{max-width:18ch;margin:0 auto 20px;}
+.fin p.t{font-size:16px;line-height:1.75;color:var(--ink-soft);max-width:52ch;margin:0 auto 30px;}
+.fin p.t b{color:var(--ink);}
+.secure{margin-top:18px;font-size:12.5px;color:var(--ink-soft);font-weight:500;}
+.trust4{display:flex;justify-content:center;gap:8px 18px;flex-wrap:wrap;margin-top:14px;font-size:12.5px;color:var(--olive-deep);font-weight:600;}
+.foot{margin:56px -22px 0;padding:40px 22px 34px;background:var(--olive-deep);color:#d8d5c4;}
+.foot .br{font-family:'Fraunces',serif;font-size:22px;font-weight:600;color:var(--cream-lt);margin-bottom:6px;}
+.foot .tg{font-family:'Fraunces',serif;font-style:italic;font-size:14px;color:#c8c5b2;margin-bottom:18px;}
+.foot .c{font-size:12px;color:#a8a696;}
+
+
+/* STICKY */
+.sticky{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--white);border-top:1px solid var(--line);box-shadow:0 -10px 30px -12px rgba(46,47,36,.25);padding:10px 14px;display:flex;align-items:center;gap:12px;transform:translateY(110%);transition:transform .4s ease;}
+.sticky.show{transform:none;}
+.sticky img{width:48px;height:48px;border-radius:10px;object-fit:cover;flex-shrink:0;}
+.sticky .tx{flex:1;min-width:0;}
+.sticky .nm{font-size:12px;font-weight:700;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.sticky .pr{font-size:13px;margin-top:2px;}.sticky .pr b{font-family:'Fraunces',serif;font-size:18px;color:var(--terra-deep);}.sticky .pr s{color:var(--ink-soft);margin-left:6px;}
+.sticky a{background:var(--terra);color:var(--on-terra);text-decoration:none;font-weight:700;font-size:13px;padding:13px 18px;border-radius:50px;white-space:nowrap;}
+@media(max-width:420px){.sticky img{display:none;}}
+
+
+/* RESPONSIVE */
+@media(max-width:900px){.pain-grid{grid-template-columns:repeat(2,1fr);gap:34px 22px;}}
+@media(max-width:860px){.panel-c{grid-template-columns:1fr;gap:28px;}.slot{max-width:340px;}
+  .steps{grid-template-columns:1fr;gap:48px;max-width:420px;margin:0 auto 44px;}.steps::before{display:none;}
+  .sol-grid,.bon-grid{grid-template-columns:1fr;max-width:420px;}}
+@media(max-width:560px){.pad{padding:48px 0;}.pain-grid{grid-template-columns:1fr;gap:20px;max-width:440px;margin:0 auto;}
+  .pain{text-align:left;display:grid;grid-template-columns:52px 1fr;column-gap:16px;align-items:start;}
+  .pain .icon{grid-row:1/3;width:48px;height:48px;font-size:22px;margin:0;}.pain h3{margin-bottom:4px;font-size:17px;}.pain p{max-width:none;margin:0;}
+  .bridge .ln{display:none;}.card{padding:22px 22px;}.rcard{flex-basis:290px;}.unit{min-width:64px;padding:8px 10px 6px;}.unit .n{font-size:26px;}}
+
+.mpd{max-width:880px;width:100%;margin:0 auto 40px;}
+.mpd-vp{position:relative;}
+.mpd-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;gap:0;-webkit-overflow-scrolling:touch;scrollbar-width:none;border-radius:20px;border:1px solid var(--line);box-shadow:0 26px 56px -28px rgba(92,94,58,.45);background:var(--white);}
+.mpd-track::-webkit-scrollbar{display:none;}
+.mpd-slide{flex:0 0 100%;width:100%;min-width:0;scroll-snap-align:center;margin:0;}
+.mpd-slide img{display:block;width:100%;height:auto;aspect-ratio:1.44/1;object-fit:cover;}
+.mpd-arrow{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;border-radius:50%;border:1px solid var(--line);background:rgba(255,253,246,.94);color:var(--olive-deep);font-size:22px;line-height:1;cursor:pointer;box-shadow:0 10px 22px -10px rgba(60,40,10,.55);display:flex;align-items:center;justify-content:center;transition:background .25s,color .25s;}
+.mpd-arrow:hover{background:var(--olive-deep);color:var(--cream-lt);}
+.mpd-prev{left:-14px;}.mpd-next{right:-14px;}
+.mpd-dots{display:flex;justify-content:center;gap:10px;margin-top:18px;}
+.mpd-dot{width:12px;height:12px;border-radius:50%;border:0;padding:0;background:#d9d6bd;cursor:pointer;transition:background .25s,transform .25s;}
+.mpd-dot.on{background:var(--terra);transform:scale(1.25);}
+.mpd-cap{max-width:640px;margin:20px auto 0;text-align:center;font-size:17px;line-height:1.65;color:var(--ink-soft);font-weight:500;}
+@media(max-width:600px){.mpd-arrow{width:42px;height:42px;font-size:19px}.mpd-prev{left:6px}.mpd-next{right:6px}.mpd-cap{font-size:16px}.mpd-slide img{aspect-ratio:1.44/1}}
+/* ===== RECONSTRUCCIÓN SOBRE LA ESTRUCTURA DE LA PÁGINA MODELO ===== */
+body{padding-bottom:84px;}
+.hbar{display:flex;align-items:center;justify-content:space-between;padding:12px 22px;background:var(--cream-lt);border-bottom:1px solid var(--line);}
+.hbar .br{display:flex;align-items:center;gap:10px;font-family:'Fraunces',serif;font-weight:600;font-size:18px;color:var(--olive-deep);}
+.hbar .br i{width:28px;height:28px;border-radius:50%;background:var(--terra);color:var(--on-terra);display:flex;align-items:center;justify-content:center;font-style:normal;font-size:14px;font-weight:700;}
+.hbar a{font-size:13px;font-weight:600;color:var(--terra-deep);text-decoration:none;}
+.mah{padding:34px 22px 30px;text-align:left;}
+.mah-inner{max-width:560px;}
+.pill{margin-bottom:18px;}
+.h1{max-width:none;margin:0 0 14px;font-size:clamp(30px,8vw,46px);}
+.mah-sub{margin:0 0 14px;max-width:none;}
+.ver{display:inline-block;color:var(--terra-deep);font-weight:700;font-size:14px;text-decoration:none;margin-bottom:22px;}
+.hero-art{position:relative;margin:8px 0 0;padding:30px 14px 26px;}
+.hero-art::before{content:'';position:absolute;inset:0;background:linear-gradient(145deg,#f6e3b4,#f3c590);opacity:.55;border-radius:46% 54% 48% 52% / 40% 44% 56% 60%;transform:rotate(-2.5deg);}
+.hero-art .pair{position:relative;display:flex;justify-content:center;align-items:center;}
+.sheet{position:relative;margin:0;background:var(--white);padding:7px 7px 0;border-radius:12px;box-shadow:0 22px 40px -18px rgba(46,47,36,.55);width:54%;}
+.sheet img{width:100%;height:auto!important;aspect-ratio:4/5;object-fit:cover;border-radius:7px;display:block;}
+.sheet figcaption{text-align:center;font-family:'Fraunces',serif;font-style:italic;font-size:14px;color:var(--olive-deep);padding:8px 0 9px;}
+.sheet.a{transform:rotate(-4deg) translateY(10px);margin-right:-12%;z-index:1;}
+.sheet.b{transform:rotate(3.5deg) translateY(-6px);z-index:2;}
+/* dolores numerados */
+.pn{display:flex;flex-direction:column;gap:12px;max-width:560px;margin:0 auto;}
+.pn div{border-radius:16px;padding:16px 18px;font-size:15px;line-height:1.55;}
+.pn div b{display:block;font-family:'Fraunces',serif;font-weight:400;font-size:22px;opacity:.45;margin-bottom:4px;}
+.pn div:nth-child(1),.pn div:nth-child(5){background:#fbe9dc;}
+.pn div:nth-child(2),.pn div:nth-child(4){background:var(--olive-wash);}
+.pn div:nth-child(3){background:#faf0d3;}
+.quote{max-width:560px;margin:26px auto 0;padding-left:16px;border-left:3px solid var(--terra);font-family:'Fraunces',serif;font-size:18px;line-height:1.5;color:var(--ink);}
+/* mecanismo */
+.mech{max-width:560px;margin:0 auto;}
+.mech .h2{font-size:clamp(24px,6vw,34px);margin-bottom:16px;}
+.mech>p{font-size:15.5px;line-height:1.7;color:var(--ink-soft);margin-bottom:22px;}
+.mb{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:20px;margin-bottom:12px;}
+.mb .ic{width:40px;height:40px;border-radius:12px;background:var(--olive-wash);display:flex;align-items:center;justify-content:center;font-size:19px;margin-bottom:10px;}
+.mb h3{font-family:'Fraunces',serif;font-size:19px;font-weight:600;margin-bottom:6px;}
+.mb p{font-size:14.5px;line-height:1.6;color:var(--ink-soft);}
+/* láminas */
+.lam{padding:46px 0 34px;}
+.lam .h2{font-size:clamp(24px,6vw,34px);}
+.lam .head{margin-bottom:26px;}
+.lam .mpd{max-width:560px;margin:0 auto;padding:0 22px;}
+/* colección */
+.chips{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:22px;}
+.chips span{font-size:12.5px;font-weight:600;color:var(--olive-deep);background:var(--olive-wash);border-radius:50px;padding:7px 14px;}
+.coll{max-width:520px;margin:0 auto;background:var(--white);border:1px solid var(--line);border-radius:22px;padding:14px 14px 22px;box-shadow:0 24px 56px -30px rgba(92,94,58,.45);}
+.coll .img img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:14px;}
+.coll h3{font-family:'Fraunces',serif;font-size:24px;font-weight:600;margin:18px 8px 6px;color:var(--terra-deep);}
+.coll>p{margin:0 8px 12px;font-size:14.5px;color:var(--ink-soft);}
+.coll ul{list-style:none;margin:0 8px;}
+.coll li{display:flex;gap:10px;padding:8px 0;font-size:14px;border-top:1px solid var(--line);}
+.coll li .ck{color:var(--green);font-weight:800;}
+/* oferta */
+.mof{padding:46px 20px 40px;}
+.mof-top{margin-bottom:26px;}
+.mof-grid{display:block;max-width:480px;}
+.mof-card .mof-list{margin-bottom:16px;}
+.pay{font-size:12.5px;color:var(--ink-soft);margin:14px 0 6px;line-height:1.5;}
+.ok{font-size:13px;color:var(--green-deep);font-weight:600;line-height:1.7;}
+/* desglose */
+.stack{max-width:480px;margin:0 auto;background:var(--white);border:1px solid var(--line);border-radius:18px;padding:22px;}
+.stack h4{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:12px;}
+.stack .r{display:flex;justify-content:space-between;gap:12px;padding:8px 0;font-size:14.5px;border-bottom:1px solid var(--line);}
+.stack .r span:last-child{color:var(--green);font-weight:700;white-space:nowrap;}
+.stack .tot{display:flex;justify-content:space-between;align-items:baseline;padding-top:14px;font-family:'Fraunces',serif;font-weight:600;font-size:17px;}
+.stack .tot s{color:var(--ink-soft);font-weight:400;}
+.stack .tot.hoy{color:var(--terra-deep);font-size:24px;padding-top:6px;}
+.center{text-align:center;}
+.sp{height:22px;}
+.sec-t{font-family:'Fraunces',serif;font-weight:500;font-size:clamp(24px,6vw,34px);line-height:1.15;text-align:center;margin:0 auto 22px;max-width:20ch;}
+.car{padding:44px 0 26px;}
+.rev{padding:46px 0 40px;}
+.gu{padding:36px 22px;}
+.gu .seal{margin-bottom:10px;}
+.pad{padding:46px 0;}
+.fin{background:var(--terra);padding:46px 22px 0;}
+.fin .h2{color:var(--on-terra);}
+.fin .h2 em{color:var(--white);}
+.fin .cta{background:var(--white);color:var(--terra-deep);box-shadow:0 12px 28px -12px rgba(0,0,0,.25);animation:none;}
+.fin .small{font-size:13px;color:#4a3a22;margin-top:16px;}
+.fin .foot{background:var(--olive-deep);margin:40px -22px 0;padding:28px 22px;}
+
+.hero-img{margin:8px 0 0;}
+.hero-img img{width:100%;height:auto!important;display:block;}
+</style>
+</head>
+<body>
+
+<!-- ============ 00 — BARRA DE MARCA ============ -->
+<div class="hbar"><div class="br"><i>C</i>Calma en Colores</div><a href="#oferta">Comprar</a></div>
+
+<!-- ============ 01 — CABECERA + PROMESA ============ -->
+<header class="mah">
+  <div class="mah-inner">
+    <div class="pill"><span class="dot"></span> Pintura por números antiestrés</div>
+    <h1 class="h1">Cambia el celular por 30 minutos de calma, <em>sin tener que meditar.</em></h1>
+    <p class="mah-sub">Descarga e imprime tu colección de <b>pintura por números</b>: la forma más simple y accesible de darle un descanso a tu mente cuando no logras desconectar.</p>
+    <a href="#oferta" class="ver">Ver la oferta ↓</a>
+    <!-- IMAGEN PRINCIPAL: una misma ilustración sin color y a color -->
+    <div class="hero-img"><img src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794893569512_hero-lamina-sin-color-y-color.webp" alt="La misma lámina de las Cataratas del Iguazú: a la izquierda numerada para pintar y a la derecha ya pintada a color" width="1158" height="978" fetchpriority="high"></div>
+  </div>
+</header>
+
+<!-- ============ 02 — EL PROBLEMA: «¿TE PASA QUE...?» ============ -->
+<section class="pad">
+  <div class="wrap">
+    <div class="head" style="margin-bottom:26px"><h2 class="h2" style="text-align:left">¿Te pasa que&hellip;?</h2></div>
+    <div class="pn">
+      <div><b>01</b>Repites la misma conversación una y otra vez en tu cabeza.</div>
+      <div><b>02</b>Te adelantas a problemas que todavía ni pasaron.</div>
+      <div><b>03</b>Intentaste meditar y el silencio te generó más ruido mental, no menos.</div>
+      <div><b>04</b>Terminas el día con el cuerpo cansado, pero la cabeza a mil.</div>
+      <div><b>05</b>Dejas el celular con más cansancio que antes de empezar.</div>
+    </div>
+    <p class="quote">No te falta relajarte. Te falta algo concreto que corte esos pensamientos que dan vueltas. Sin técnicas raras, sin tener que meditar y sin saber dibujar.</p>
+  </div>
+</section>
+
+<!-- ============ 03 — EL MECANISMO: «EFECTO MANOS OCUPADAS» ============ -->
+<section class="pad" style="padding-top:10px">
+  <div class="wrap mech">
+    <h2 class="h2">El efecto «manos ocupadas»: por qué pintar por números te ayuda a desconectar</h2>
+    <p>Meditar te pide pelear en silencio con tus propios pensamientos. Pintar por números hace lo contrario: te da algo simple y guiado en lo que enfocarte, y tu mente deja de dar vueltas mientras tus manos trabajan.</p>
+    <div class="mb"><div class="ic">🧩</div><h3>1. Cero decisiones</h3><p>Sin hoja en blanco, sin reglas y sin margen de error. Eliges un color, sigues el número y listo: no tienes que crear nada, solo dejarte llevar.</p></div>
+    <div class="mb"><div class="ic">🎯</div><h3>2. Un solo foco</h3><p>Al conectar la vista con el movimiento de tu mano, tu atención se queda en una sola tarea. Es una forma natural de entrar en un ritmo tranquilo, sin esfuerzo.</p></div>
+    <div class="mb"><div class="ic">✨</div><h3>3. Pequeños logros</h3><p>Cada zona que completas es un logro chiquito. Cambias las horas frente al celular por una obra terminada que es tuya.</p></div>
+  </div>
+</section>
+
+<!-- ============ 04 — LÁMINAS (CARRUSEL «MIRA POR DENTRO») ============ -->
+<section class="lam" style="background:var(--olive-wash)">
+  <div class="head"><h2 class="h2">Algunas de las láminas que vas a pintar</h2></div>
+  <div class="mpd" id="mpd" aria-roledescription="carrusel" aria-label="Así se ve Calma en colores por dentro">
+    <div class="mpd-vp">
+      <div class="mpd-track" id="mpdTrack">
+        <figure class="mpd-slide"><img src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794108518613_mira-por-dentro-1-flamencos.webp" alt="Por dentro: página con datos, ilustración a color y paleta de los flamencos, y la lámina numerada para colorear" width="2000" height="1388"></figure>
+        <figure class="mpd-slide"><img loading="lazy" src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794892408801_mira-por-dentro-5-mona-lisa.webp" alt="Por dentro: página con datos, ilustración a color y paleta de La Mona Lisa, y la lámina numerada para colorear" width="2000" height="1388"></figure>
+        <figure class="mpd-slide"><img loading="lazy" src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794108514022_mira-por-dentro-2-peonias.webp" alt="Por dentro: página con datos, ilustración a color y paleta de el jardín de peonías, y la lámina numerada para colorear" width="2000" height="1388"></figure>
+        <figure class="mpd-slide"><img loading="lazy" src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794108516902_mira-por-dentro-4-torre-eiffel.webp" alt="Por dentro: página con datos, ilustración a color y paleta de la Torre Eiffel, y la lámina numerada para colorear" width="2000" height="1388"></figure>
+        <figure class="mpd-slide"><img loading="lazy" src="https://sb.impultienda.ar/storage/v1/object/public/store-resources/dd16b5ff-f367-4b02-bdc1-09a1656c0ae3/1794108511739_mira-por-dentro-1-santorini.webp" alt="Por dentro: página con datos, ilustración a color y paleta de Santorini, y la lámina numerada para colorear" width="2000" height="1388"></figure>
+      </div>
+      <button type="button" class="mpd-arrow mpd-prev" id="mpdPrev" aria-label="Imagen anterior">&#8592;</button>
+      <button type="button" class="mpd-arrow mpd-next" id="mpdNext" aria-label="Imagen siguiente">&#8594;</button>
+    </div>
+    <div class="mpd-dots" id="mpdDots" role="tablist" aria-label="Elegir imagen">
+      <button type="button" class="mpd-dot on" aria-label="Ver imagen 1"></button>
+      <button type="button" class="mpd-dot" aria-label="Ver imagen 2"></button>
+      <button type="button" class="mpd-dot" aria-label="Ver imagen 3"></button>
+      <button type="button" class="mpd-dot" aria-label="Ver imagen 4"></button>
+      <button type="button" class="mpd-dot" aria-label="Ver imagen 5"></button>
+    </div>
+    <p class="mpd-cap">Imprímelas en A4, A3 o el tamaño que prefieras. Pinta con lápices, marcadores o acuarelas — lo que ya tengas en casa.</p>
+  </div>
+</section>
+
+<!-- ============ 05 — TODO LO QUE TE LLEVAS HOY (COLECCIÓN COMPLETA) ============ -->
+<section class="pad">
+  <div class="wrap">
+    <h2 class="sec-t">Todo lo que te llevas hoy</h2>
+    <div class="chips"><span>📩 Descarga inmediata</span><span>🖨 100% digital</span><span>🔒 Pago 100% seguro</span></div>
+    <div class="coll">
+      <!-- IMAGEN DEL PACK COMPLETO. Si más adelante creas una imagen nueva con «Más de 100 ilustraciones», reemplaza este src. -->
+      <div class="img"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080844_bddf1eeb-cffb-4ed0-aeda-60063908564b.png" alt="Calma en Colores: 3 colecciones completas más 4 bonos"></div>
+      <h3>Colección completa</h3>
+      <p>Más de 100 ilustraciones para pintar por números, listas para imprimir y empezar hoy.</p>
+      <ul>
+        <li><span class="ck">✓</span><span>3 colecciones: Postales del Mundo, Lugares de Latinoamérica y Calma en flores</span></li>
+        <li><span class="ck">✓</span><span>Fichas con curiosidades de cada lugar, paleta numerada y plantilla para pintar</span></li>
+        <li><span class="ck">✓</span><span>Imprime en A4, A3 o el tamaño que quieras, por partes si prefieres</span></li>
+        <li><span class="ck">✓</span><span>Pinta con lápices, marcadores o acuarelas</span></li>
+        <li><span class="ck">✓</span><span>Acceso inmediato · Pago único · Acceso ilimitado, sin suscripciones</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 06 — OFERTA ============ -->
+<section class="mof" id="oferta">
+  <div class="mof-top">
+    <span class="mof-pill">✦ SÚPER OFERTA ✦</span>
+    <div class="mof-script">Precio especial por tiempo limitado</div>
+    <div class="mof-timer">
+      <div class="mof-timer-lbl">⏳ Tu descuento termina en</div>
+      <div class="clock">
+        <div class="unit"><span class="n" id="tMin">10</span><span class="l">Minutos</span></div>
+        <span class="sep">:</span>
+        <div class="unit"><span class="n" id="tSec">00</span><span class="l">Segundos</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="mof-grid">
+    <div class="mof-card">
+      <div class="mof-launch">★ OFERTA ESPECIAL ★</div>
+      <h3 class="mof-name">Calma en Colores</h3>
+      <p class="mof-bundle">El ritual antiestrés de pintura por números</p>
+
+      <div class="price-row"><span class="was">Precio normal: {{original_price}}</span><span class="off">50% OFF</span></div>
+      <div class="now">{{price}}</div>
+      <div class="cur-note" style="font-size:12px;color:var(--ink-soft);margin-bottom:4px">Precio en {{currency}}</div>
+      <div class="save">AHORRAS {{savings}}</div>
+      <p class="mof-meta">Acceso inmediato · Pago único · Sin suscripciones</p>
+
+      <div class="viewers"><i></i><span><b>7 personas</b> están viendo esto ahora</span></div>
+
+      <a href="/checkout" class="mof-btn">
+        <span class="main">🎨 ¡Sí, quiero mi Calma en Colores!</span>
+        <span class="sub">Acceso inmediato · Descarga al instante</span>
+      </a>
+
+      <p class="pay">💳 Paga con tarjeta de crédito, débito o Mercado Pago<br>Visa · Mastercard · Mercado Pago</p>
+      <p class="ok">✓ Garantía de 120 días<br>✓ Acceso inmediato después del pago</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 07 — BONOS DE REGALO ============ -->
+<section class="car" style="padding-top:44px">
+  <h2 class="sec-t">Y además, de regalo comprando ahora…</h2>
+  <div class="track" id="carTrack">
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080647_a78edc01-3eaa-419f-b13b-2d42c25bff4f.png" alt="Grandes Obras de pintores famosos"><span class="tag alt">Bono #1 · Gratis</span></div><div class="b"><h3>Grandes Obras de pintores famosos</h3><p>Obras maestras de la pintura para pintar por números.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080646_1c9a1f0d-dfc9-4dd8-90ab-a4c19f0312d3.png" alt="Flora y Fauna de Latinoamérica"><span class="tag alt">Bono #2 · Gratis</span></div><div class="b"><h3>Flora y Fauna de Latinoamérica</h3><p>Jaguares, ballenas, cóndores y flores nativas.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080710_709e751f-501d-4909-8135-e29a77ad1cae.png" alt="10 Mandalas Originales"><span class="tag alt">Bono #3 · Gratis</span></div><div class="b"><h3>10 Mandalas Originales</h3><p>Para colorear, respirar y encontrar armonía.</p></div></article>
+    <article class="ccard"><div class="im"><img loading="lazy" src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080711_77fc62d5-af62-4504-a3d6-4a4e00891954.png" alt="Calma kids"><span class="tag alt">Bono #4 · Gratis</span></div><div class="b"><h3>Calma kids</h3><p>20 aventuras para niños de 4 a 10 años.</p></div></article>
+  </div>
+  <div class="ctrl"><button class="arrow-btn" id="carPrev" aria-label="Anterior">←</button><button class="arrow-btn" id="carNext" aria-label="Siguiente">→</button></div>
+</section>
+
+<!-- ============ 08 — DESGLOSE DE LA OFERTA ============ -->
+<section style="padding:6px 22px 46px">
+  <div class="stack">
+    <h4>Desglose de la oferta</h4>
+    <div class="r"><span>Colección completa (3 colecciones)</span><span>Incluida</span></div>
+    <div class="r"><span>Grandes Obras de pintores famosos</span><span>Gratis</span></div>
+    <div class="r"><span>Flora y Fauna de Latinoamérica</span><span>Gratis</span></div>
+    <div class="r"><span>10 Mandalas Originales</span><span>Gratis</span></div>
+    <div class="r"><span>Calma kids</span><span>Gratis</span></div>
+    <div class="tot"><span>Precio normal</span><s>{{original_price}}</s></div>
+    <div class="tot hoy"><span>Hoy</span><span>{{price}}</span></div>
+  </div>
+  <div class="center" style="margin-top:22px"><a href="/checkout" class="cta">Quiero TODO ahora <span class="arrow">→</span></a></div>
+</section>
+
+<!-- ============ 09 — PRUEBA SOCIAL: «ELLOS YA LO TIENEN…» ============ -->
+<section class="rev">
+  <div class="head">
+    <h2 class="h2">Ellos ya lo tienen&hellip;</h2>
+    <div class="rating" style="margin-top:12px"><span class="st">★★★★★</span> <b>4.7/5</b> · 1564 reseñas verificadas</div>
+  </div>
+  <!-- FOTOS: pega en cada src="" la foto REAL de la obra de la clienta (solo con su permiso). Si queda vacío, la foto se oculta sola. -->
+  <div class="track" id="revTrack">
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Valentina P."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 5 días</div><p>Trabajo todo el día y cuando llegaba a casa seguía mirando el celular sin descansar de verdad. Empecé a dedicarme 20 minutos cada tarde para pintar con un café y música de fondo. Me sorprendió lo relajante que es.</p><div class="who">Valentina P.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Mariana R."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 1 semana</div><p>Pensé que era un simple libro para colorear, pero terminó siendo mi ritual de todos los domingos. Me encanta que cada ilustración tenga datos curiosos. ¡Empecé por Santorini, obvio!</p><div class="who">Mariana R.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Martín G."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 2 semanas</div><p>Nunca fui de pintar, pero me llamó la atención la propuesta. Me gustó descubrir historias de cada lugar mientras hacía algo totalmente distinto a mirar mi celular. Hoy es una de las formas que encontré para desconectarme después de un día difícil.</p><div class="who">Martín G.</div></div></article>
+    <article class="rcard"><img class="ph" src="" alt="Obra pintada por Sofía M."><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 3 semanas</div><p>Lo compré para mí y terminó siendo un plan hermoso con mi hija. Nos sentamos juntas a pintar mientras hablamos de cada lugar o animal. Es un momento que las dos esperamos durante la semana.</p><div class="who">Sofía M.</div></div></article>
+    <article class="rcard"><div class="b"><div class="s">★★★★★</div><div class="v">✓ Compra verificada · Hace 2 semanas</div><p>Mi cabeza no paraba nunca. Empecé a pintar unos minutos antes de dormir y siento que es el único momento del día en el que realmente puedo bajar mi ruido mental.</p><div class="who">Meli R.</div></div></article>
+  </div>
+  <div class="ctrl"><button class="arrow-btn" id="revPrev" aria-label="Anterior">←</button><button class="arrow-btn" id="revNext" aria-label="Siguiente">→</button></div>
+</section>
+
+<!-- ============ 10 — GARANTÍA (texto original) ============ -->
+<section class="gu">
+  <div class="seal"><div><b>120</b><small>días</small></div></div>
+  <p class="t">Tu compra está protegida por nuestra <b>garantía de satisfacción de 120 días</b>. Descarga, imprime, pinta y vive tu Ritual. Si no cumple tus expectativas, te devolvemos tu dinero.</p>
+</section>
+
+<!-- ============ 11 — PREGUNTAS FRECUENTES (originales, sin cambios) ============ -->
+<section class="pad">
+  <div class="faq-w">
+    <div class="head" style="margin-bottom:26px"><h2 class="h2">Lo que quizás te estás preguntando</h2></div>
+    <details class="fq"><summary>💳 ¿Puedo pagar con Mercado Pago? <span class="pl">+</span></summary><div class="a">Sí. Puedes pagar con Mercado Pago y también con tarjeta de crédito o débito.</div></details>
+    <details class="fq"><summary>📩 ¿Cómo recibo los libros después de comprar? <span class="pl">+</span></summary><div class="a">El acceso se envía automáticamente al correo electrónico que ingresas al momento de la compra. La entrega es inmediata.</div></details>
+    <details class="fq"><summary>🔒 ¿El pago es seguro? <span class="pl">+</span></summary><div class="a">Sí. El pago se procesa con sistemas de seguridad y encriptación SSL para proteger tus datos.</div></details>
+    <details class="fq"><summary>🎨 ¿Necesito experiencia previa para empezar? <span class="pl">+</span></summary><div class="a">No. Los libros están diseñados para principiantes: solo eliges un color y te dejas llevar por los números.</div></details>
+    <details class="fq"><summary>🖌 ¿Puedo pintar con acuarelas? <span class="pl">+</span></summary><div class="a">Puedes pintar con lo que quieras: marcadores, lápices, lápices acuarelables o pintura. Si usas acuarela u otra pintura con agua, te recomendamos imprimir en un papel grueso apto para pintura.</div></details>
+    <details class="fq"><summary>🖨 ¿Puedo imprimir en cualquier papel? <span class="pl">+</span></summary><div class="a">Sí. Puedes imprimir en cualquier papel A4 o A3; solo ten en cuenta el gramaje según el material con el que vayas a pintar. Si imprimes en una copistería, cuéntales con qué vas a pintar y sabrán recomendarte el mejor papel.</div></details>
+    <details class="fq"><summary>🖼 ¿Puedo hacer un cuadro con mi obra? <span class="pl">+</span></summary><div class="a">¡Claro! Puedes enmarcar todo lo que quieras. En ese caso, te conviene usar un papel de mejor calidad.</div></details>
+    <details class="fq"><summary>♾ ¿Cuánto tiempo tendré acceso al contenido? <span class="pl">+</span></summary><div class="a">El acceso es ilimitado. Podrás volver a imprimir tus libros y plantillas todas las veces que quieras.</div></details>
+    <details class="fq"><summary>📚 ¿Puedo imprimir los libros por partes? <span class="pl">+</span></summary><div class="a">Sí. Puedes imprimir solo lo que vayas a usar: por ejemplo, primero una colección, tomarte tu tiempo para pintarla y, cuando la termines, imprimir las siguientes.</div></details>
+    <details class="fq"><summary>🛡 ¿Qué pasa si el libro no cumple mis expectativas? <span class="pl">+</span></summary><div class="a">Tu compra está protegida por nuestra garantía de satisfacción de 120 días, para que puedas probar el contenido sin riesgo.</div></details>
+  </div>
+</section>
+
+<!-- ============ 12 — LLAMADO FINAL + PIE ============ -->
+<section class="fin">
+  <div class="wrap">
+    <h2 class="h2">Tu mente no va a frenar sola. <em>Dale la pausa que viene pidiendo.</em></h2>
+    <a href="/checkout" class="cta">🎨 Quiero mi Calma en Colores <span class="arrow">→</span></a>
+    <p class="small">3 colecciones · 4 bonos de regalo · acceso ilimitado</p>
+    <div class="foot">
+      <div class="br">Calma en Colores</div>
+      <div class="tg">Elige un color. Sigue los números. Respira.</div>
+      <div class="c">© 2026 Calma en Colores · Todos los derechos reservados</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ BARRA FIJA INFERIOR ============ -->
+<div class="sticky" id="sticky">
+  <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3LXBsNXR13rzylkOaRA8j9OuXDU/hf_20261103_080617_3443ace1-eb28-4552-982b-74db05ae64c3.png" alt="">
+  <div class="tx">
+    <div class="nm">Calma en Colores + 4 Bonos</div>
+    <div class="pr"><b>{{price}}</b><s>{{original_price}}</s></div>
+  </div>
+  <a href="/checkout">Quiero mi Calma en Colores</a>
+</div>
+
+<script>
+(function(){
+  function slider(trackId,prevId,nextId,sel,fb){
+    var t=document.getElementById(trackId);if(!t)return;
+    t.querySelectorAll('img.ph').forEach(function(i){if(!i.getAttribute('src'))i.style.display='none';});
+    function step(){var c=t.querySelector(sel);return c?c.offsetWidth+22:fb;}
+    document.getElementById(nextId).addEventListener('click',function(){t.scrollBy({left:step(),behavior:'smooth'});});
+    document.getElementById(prevId).addEventListener('click',function(){t.scrollBy({left:-step(),behavior:'smooth'});});
+  }
+  slider('carTrack','carPrev','carNext','.ccard',300);
+  slider('revTrack','revPrev','revNext','.rcard',340);
+
+  var KEY='cec_timer_v1',TOTAL=10*60*1000,m=document.getElementById('tMin'),s=document.getElementById('tSec'),end;
+  try{end=parseInt(localStorage.getItem(KEY),10);}catch(e){}
+  if(!end||end<Date.now()){end=Date.now()+TOTAL;try{localStorage.setItem(KEY,end);}catch(e){}}
+  function tick(){
+    var left=Math.max(0,end-Date.now());
+    m.textContent=('0'+Math.floor(left/60000)).slice(-2);
+    s.textContent=('0'+Math.floor(left/1000)%60).slice(-2);
+    if(left<=0){end=Date.now()+TOTAL;try{localStorage.setItem(KEY,end);}catch(e){}}
+  }
+  tick();setInterval(tick,1000);
+
+  var st=document.getElementById('sticky'),offer=document.getElementById('oferta');
+  if(st&&offer){
+    if(!('IntersectionObserver' in window)){st.classList.add('show');}
+    else new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting||e.boundingClientRect.top<0){st.classList.add('show');}});},{threshold:.05}).observe(offer);
+  }
+
+  var t=document.getElementById('mpdTrack');if(!t)return;
+  var dots=document.querySelectorAll('#mpdDots .mpd-dot'),n=dots.length,cur=0;
+  function w(){return t.clientWidth;}
+  function go(i){cur=Math.max(0,Math.min(n-1,i));t.scrollTo({left:cur*w(),behavior:'smooth'});}
+  document.getElementById('mpdNext').addEventListener('click',function(){go(cur>=n-1?0:cur+1);});
+  document.getElementById('mpdPrev').addEventListener('click',function(){go(cur<=0?n-1:cur-1);});
+  dots.forEach(function(d,i){d.addEventListener('click',function(){go(i);});});
+  var tk=false;
+  t.addEventListener('scroll',function(){
+    if(tk)return;tk=true;
+    requestAnimationFrame(function(){cur=Math.round(t.scrollLeft/w());dots.forEach(function(d,i){d.classList.toggle('on',i===cur);});tk=false;});
+  },{passive:true});
+  document.getElementById('mpd').addEventListener('keydown',function(e){
+    if(e.key==='ArrowRight'){go(cur+1);}else if(e.key==='ArrowLeft'){go(cur-1);}
+  });
+})();
+</script>
+</body>
+</html>

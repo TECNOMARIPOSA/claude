@@ -1,0 +1,33 @@
+<!-- ===== MIRA POR DENTRO: CARRUSEL (reemplaza <div class="sol-img">…</div>) ===== -->
+<style>
+.mpd{max-width:560px;margin:0 auto 36px;position:relative;font-family:'Inter',sans-serif}
+.mpd-vp{border-radius:20px;overflow:hidden;border:1px solid #e3dfcd;box-shadow:0 26px 56px -28px rgba(92,94,58,.45);background:#fffdf6}
+.mpd-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.mpd-track::-webkit-scrollbar{display:none}
+.mpd-slide{flex:0 0 100%;scroll-snap-align:center}
+.mpd-slide img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover}
+.mpd-arrow{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;border-radius:50%;border:1px solid #e3dfcd;background:rgba(255,253,246,.95);color:#5c5e3a;font-size:22px;cursor:pointer;box-shadow:0 8px 20px -10px rgba(60,50,20,.6);z-index:2;display:flex;align-items:center;justify-content:center}
+.mpd-arrow:hover{background:#5c5e3a;color:#fffdf6}
+.mpd-prev{left:-14px}.mpd-next{right:-14px}
+.mpd-dots{display:flex;justify-content:center;gap:10px;margin-top:16px}
+.mpd-dot{width:12px;height:12px;border-radius:50%;border:2px solid #eba46b;background:transparent;padding:0;cursor:pointer}
+.mpd-dot.on{background:#eba46b}
+.mpd-cap{text-align:center;margin-top:10px;font-size:14px;font-weight:600;color:#6b6c5b}
+@media(max-width:600px){.mpd-arrow{display:none}}
+</style>
+<div class="mpd"><div class="mpd-vp"><div class="mpd-track"><div class="mpd-slide"><img src="https://TU-HOSTING.com/mira-por-dentro-1-portada-postales-santorini.jpg" alt="Calma en colores por dentro: ilustración 01 Santorini, con descripción, paleta numerada y lámina para colorear"></div><div class="mpd-slide"><img src="https://TU-HOSTING.com/mira-por-dentro-2-flores-peonias.jpg" alt="Calma en colores por dentro: ilustración 27 Jardín de peonías, con paleta numerada y lámina para colorear" loading="lazy"></div><div class="mpd-slide"><img src="https://TU-HOSTING.com/mira-por-dentro-3-animales-leon.jpg" alt="Calma en colores por dentro: ilustración 46 León africano, con paleta numerada y lámina para colorear" loading="lazy"></div><div class="mpd-slide"><img src="https://TU-HOSTING.com/mira-por-dentro-4-bono-mandala-leon.jpg" alt="Calma en colores por dentro: bono 10 mandalas originales, mandala de león con paleta numerada" loading="lazy"></div></div></div><button type="button" class="mpd-arrow mpd-prev" aria-label="Anterior">←</button><button type="button" class="mpd-arrow mpd-next" aria-label="Siguiente">→</button><div class="mpd-dots"><button type="button" class="mpd-dot on" aria-label="Ver imagen 1"></button><button type="button" class="mpd-dot" aria-label="Ver imagen 2"></button><button type="button" class="mpd-dot" aria-label="Ver imagen 3"></button><button type="button" class="mpd-dot" aria-label="Ver imagen 4"></button></div><div class="mpd-cap">Desliza para ver cómo es Calma en colores por dentro</div></div>
+<script>
+(function(){
+  var root=document.currentScript.previousElementSibling;if(!root)return;
+  var tr=root.querySelector('.mpd-track'),dots=root.querySelectorAll('.mpd-dot'),n=dots.length;
+  function idx(){return Math.round(tr.scrollLeft/tr.clientWidth);}
+  function go(i){i=Math.max(0,Math.min(n-1,i));tr.scrollTo({left:i*tr.clientWidth,behavior:'smooth'});}
+  function mark(){var i=idx();dots.forEach(function(d,k){d.classList.toggle('on',k===i);});}
+  tr.addEventListener('scroll',function(){window.requestAnimationFrame(mark);},{passive:true});
+  root.querySelector('.mpd-prev').addEventListener('click',function(){go(idx()-1);});
+  root.querySelector('.mpd-next').addEventListener('click',function(){go(idx()+1);});
+  dots.forEach(function(d,k){d.addEventListener('click',function(){go(k);});});
+  window.addEventListener('resize',function(){tr.scrollTo({left:idx()*tr.clientWidth});});
+})();
+</script>
+<!-- ===== FIN CARRUSEL ===== -->
