@@ -27,11 +27,12 @@ Un conjunto de anuncios por país, con los mismos 10 anuncios cargados (sin dupl
 - Con 10 anuncios por conjunto, Meta reparte poco a cada uno. Para empezar con presupuesto corto, **lanza primero 5 anuncios** (por ejemplo H31, H33, H35, H37 y H39: uno de cada grupo) y suma el resto después.
 - **Presupuesto:** empieza con unos 5–10 USD por día por conjunto. Tu método de testeo usa 5–10 USD por anuncio en pruebas y no juzga antes de 2–3 veces el costo por venta.
 
-## Cuenta de rentabilidad (con ticket de 14.99 USD)
-La matemática es la de tu wiki, cambiando «visita» por «conversación»:
-- Si 1 de cada 10 conversaciones termina en compra, **el costo por conversación de equilibrio es ≈ 1.50 USD** (14.99 × 10%). Para ganar dinero, apunta a **≤ 0.75 USD**.
-- Si 1 de cada 5 compra (20%), el equilibrio sube a ≈ 3 USD.
-- Referencia de tu wiki: 0.30 USD por conversación × 100 USD = ~333 conversaciones; con 10% de cierre, ~33 ventas.
+## Cuenta de rentabilidad (chat de WhatsApp: ticket de 9 USD)
+La matemática es la de tu wiki, cambiando «visita» por «conversación». (La landing sigue en 14,99 USD; el chat vende a 9 USD.)
+- Si 1 de cada 10 conversaciones termina en compra, **el costo por conversación de equilibrio es ≈ 0,90 USD** (9 × 10%). Para ganar dinero, apunta a **≤ 0,45 USD**.
+- Si 1 de cada 5 compra (20%), el equilibrio sube a ≈ 1,80 USD.
+- Referencia de tu wiki: 0,30 USD por conversación × 100 USD = ~333 conversaciones; con 10% de cierre, ~33 ventas (≈ 300 USD con ticket de 9).
+- Con un ticket más bajo, el producto adicional pesa todavía más.
 - Las comisiones del medio de pago se descuentan de ese margen: cárgalas en tus números reales.
 
 ## Qué mirar cada día
