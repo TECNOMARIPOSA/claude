@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-22 (prompt de video estilo Argentina para PicassoIA)
+**Cambios:** CREATIVOS/entregas/2026-11-22/ — prompt por clips e imágenes del cuadro de Calma en Colores.
+
 ## 2026-11-21 (resultados tandas 1 y 2)
 **Cambios:** historial: resultados de la tanda 1 (39,67 USD, 2 compras: H19 y H20) y de la tanda 2 (3,1 USD, 1 compra: H29).
 
