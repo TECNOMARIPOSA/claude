@@ -2,7 +2,7 @@
 
 ## 2026-11-24
 **Procesado:** ninguno de RAW/ (producción de entregable)
-**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio.txt — landing «Brillo Propio» (guía 3 en 1 con método de bordado hindú + 4 bonos, 14.900 ARS, garantía de 7 días; v2 sin diseños para imprimir, con los tipos de accesorios nombrados), modelada sobre la landing de Colombia y la de bijouterie de Argentina; enlazada en WIKI/index.md.
+**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio.txt — landing «Brillo Propio» (guía 3 en 1 con método de bordado hindú + 4 bonos, 14.900 ARS, garantía de 7 días; v3 con las 3 partes originales (materiales y puntadas, 8 tipos de accesorios, más de 60 diseños para imprimir), método de bordado hindú y tipos de accesorios nombrados), modelada sobre la landing de Colombia y la de bijouterie de Argentina; enlazada en WIKI/index.md.
 
 ## 2026-11-22 (prompt de video estilo Argentina para PicassoIA)
 **Cambios:** CREATIVOS/entregas/2026-11-22/ — prompt por clips e imágenes del cuadro de Calma en Colores.
