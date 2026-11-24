@@ -2,7 +2,7 @@
 
 ## 2026-11-24 (versión B de la landing)
 **Procesado:** ninguno de RAW/ (producción de entregable)
-**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio-joyeria.txt — versión B «Joyería bordada»: core con aros, collares, pulseras, pines y llaveros; 5 bonos (cabello; carteras y apliques; errores; kit de venta; primeros clientes en Mercado Libre y redes); hero más corto. La versión A queda intacta para el test; enlazada en WIKI/index.md.
+**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio-joyeria.txt — versión B «Joyería bordada»: core con aros, collares, pulseras, pines y llaveros; 5 bonos (cabello; carteras y apliques; errores; kit de venta; primeros clientes en Mercado Libre y redes); hero más corto. La versión A queda intacta para el test; enlazada en WIKI/index.md. Ajuste: foto bajo el título y tics bajo la foto, sin botón en el hero, botones de compra solo desde los bonos.
 
 ## 2026-11-24
 **Procesado:** ninguno de RAW/ (producción de entregable)

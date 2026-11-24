@@ -56,6 +56,9 @@ h3{font-size:20px;}
 .hero li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700;}
 .trust{margin-top:14px;font-size:13px;color:var(--soft);}
 .hero-media{display:grid;gap:12px;}
+.hero-stack{max-width:680px;margin:0 auto;text-align:center;}
+.hero-stack .hero-img{max-width:480px;margin:26px auto 22px;}
+.hero-stack ul{display:inline-block;text-align:left;margin:0 0 8px;}
 @media(min-width:860px){.hero-grid{grid-template-columns:1.05fr .95fr;gap:44px;}}
 /* dolores */
 .pains{background:var(--white);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
@@ -161,22 +164,17 @@ footer a{color:#e6cfb8;margin:0 8px;}
 
 <!-- ============ 1. HERO ============ -->
 <header class="hero">
-  <div class="wrap hero-grid">
-    <div>
-      <h1>Aprendé <em>joyería bordada</em> con el método de bordado hindú, aunque nunca hayas bordado antes</h1>
-      <p class="sub">Joyería y accesorios con pedrería y mostacillas: aros, collares, pulseras, pines y llaveros, paso a paso y desde tu casa, para sumar un ingreso extra.</p>
-      <ul>
+  <div class="wrap hero-stack">
+    <h1>Aprendé <em>joyería bordada</em> con el método de bordado hindú, aunque nunca hayas bordado antes</h1>
+    <p class="sub">Joyería y accesorios con pedrería y mostacillas: aros, collares, pulseras, pines y llaveros, paso a paso y desde tu casa, para sumar un ingreso extra.</p>
+    <!-- IMAGEN HERO: joyería bordada terminada (aros, collar, pulsera) sobre fondo neutro, 4:5 -->
+    <figure class="ph r-4x5 hero-img" data-label="FOTO HERO · joyería bordada terminada (4:5)"><img src="" alt="Joyería bordada con pedrería y mostacillas" loading="eager"></figure>
+    <ul>
         <li>Empezás desde cero, sin experiencia</li>
         <li>5 tipos de joyería y accesorios y más de 60 diseños para imprimir</li>
         <li>Lista de materiales incluida</li>
       </ul>
-      <a class="btn cta" href="/checkout">Quiero mi guía Brillo Propio<small>Pago único de {{price}} · Acceso inmediato</small></a>
-      <p class="trust">🔒 Pago seguro · 📩 Entrega por correo · ✅ Garantía de 7 días</p>
-    </div>
-    <div class="hero-media">
-      <!-- IMAGEN HERO: joyería bordada terminada (aros, collar, pulsera) sobre fondo neutro, 4:5 -->
-      <figure class="ph r-4x5" data-label="FOTO HERO · joyería bordada terminada (4:5)"><img src="" alt="Joyería bordada con pedrería y mostacillas" loading="eager"></figure>
-    </div>
+    <p class="trust">🔒 Pago seguro · 📩 Entrega por correo · ✅ Garantía de 7 días</p>
   </div>
 </header>
 
@@ -268,8 +266,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
         </div>
       </article>
     </div>
-    <p class="center" style="margin-top:30px;"><a class="btn cta" href="/checkout">Quiero la guía completa<small>Pago único de {{price}}</small></a></p>
-  </div>
+      </div>
 </section>
 <!-- CONFIRMAR ANTES DE PUBLICAR: que cada diseño tenga fotos del proceso. Si las hay, se puede sumar "con fotos del proceso" en la Parte 2. -->
 
@@ -507,7 +504,12 @@ footer a{color:#e6cfb8;margin:0 8px;}
 
   /* barra fija al hacer scroll */
   var st=document.getElementById('stk');
-  function chk(){st.classList.toggle('show',window.scrollY>560);}
+  var bon=document.querySelector('.bonuses');
+  function chk(){
+    var fin=bon?bon.getBoundingClientRect().bottom+window.scrollY:99999;
+    st.classList.toggle('show',window.scrollY+window.innerHeight>fin);
+  }
+  window.addEventListener('resize',chk);
   window.addEventListener('scroll',chk,{passive:true});chk();
 
   /* seguimiento: AddToCart al tocar cualquier botón de compra (si el Pixel está instalado) */
