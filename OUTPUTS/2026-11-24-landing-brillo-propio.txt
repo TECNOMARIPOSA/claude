@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brillo Propio — Accesorios bordados con pedrería e hilos</title>
+<meta name="description" content="Guía digital paso a paso para crear 8 tipos de accesorios bordados con pedrería e hilos, con más de 60 diseños para imprimir y 4 bonos. Acceso inmediato por correo. Garantía de 7 días.">
+<!-- META PIXEL: pegá acá tu código base del Pixel (PageView) -->
+<!-- PRECIO: {{price}} lo reemplaza la plataforma por el valor formateado. Configurá el producto en Impultienda a 14.900 ARS. No escribir símbolos de moneda al lado del token. No hay precio tachado ni ahorro: no hay precio de referencia confirmado. -->
+<!-- CHECKOUT: todos los botones (.cta) apuntan a /checkout, igual que las landings anteriores de este proyecto. Cambiá el href si usás otro link. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--champ:#fbf5ec;--champ-lt:#fffaf3;--wash:#f4e9dc;--plum:#5b2142;--plum-deep:#3f1530;--plum-soft:#7b3a5e;--gold:#c9993f;--gold-lt:#f5e2ad;--gold-deep:#8d6718;--rose:#f7e3e8;--green:#3f6b4f;--green-bg:#e7f1ea;--ink:#2b2224;--soft:#6f6266;--line:#e8dccf;--white:#fff;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Inter',system-ui,sans-serif;color:var(--ink);background:var(--champ-lt);-webkit-font-smoothing:antialiased;line-height:1.6;padding-bottom:80px;}
+img,video{max-width:100%;display:block;}
+a{color:inherit;}
+.wrap{max-width:1040px;margin:0 auto;padding:0 18px;}
+section{padding:54px 0;}
+h1,h2,h3{font-family:'Fraunces',Georgia,serif;font-weight:600;line-height:1.15;color:var(--plum-deep);}
+h1{font-size:clamp(28px,6.4vw,46px);}
+h2{font-size:clamp(24px,5vw,34px);text-align:center;margin-bottom:12px;}
+h3{font-size:20px;}
+.eyebrow{display:block;text-align:center;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);margin-bottom:10px;}
+.lead{max-width:640px;margin:0 auto 30px;text-align:center;color:var(--soft);font-size:17px;}
+.todo{background:#fff3b8;color:#6b4e00;padding:0 4px;border-radius:3px;font-weight:600;}
+/* barra superior */
+.topbar{background:var(--plum-deep);color:var(--gold-lt);text-align:center;font-size:13px;padding:9px 12px;font-weight:500;}
+.urg{background:var(--gold-lt);color:var(--plum-deep);text-align:center;font-size:14px;padding:8px 12px;font-weight:600;display:none;}
+.urg.on{display:block;}
+/* botones */
+.btn{display:inline-block;text-align:center;text-decoration:none;background:linear-gradient(180deg,#e0b252,var(--gold));color:var(--plum-deep);font-weight:700;font-size:18px;padding:17px 30px;border-radius:999px;box-shadow:0 8px 20px rgba(141,103,24,.28);transition:transform .15s;}
+.btn:hover{transform:translateY(-2px);}
+.btn small{display:block;font-weight:500;font-size:13px;opacity:.85;}
+.btn-block{display:block;width:100%;}
+.center{text-align:center;}
+/* placeholders de imagen */
+.ph{position:relative;background:repeating-linear-gradient(45deg,#f3e7d8,#f3e7d8 10px,#f8efe3 10px,#f8efe3 20px);border:2px dashed #d3bfa5;border-radius:16px;overflow:hidden;display:flex;align-items:center;justify-content:center;text-align:center;}
+.ph::before{content:attr(data-label);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:14px;font-size:13px;font-weight:600;color:#8a7357;}
+.ph img,.ph video{position:relative;width:100%;height:100%;object-fit:cover;opacity:0;}
+.ph.filled{border:0;background:none;}
+.ph.filled::before{display:none;}
+.ph.filled img,.ph.filled video{opacity:1;}
+.r-1x1{aspect-ratio:1/1;}.r-4x5{aspect-ratio:4/5;}.r-16x9{aspect-ratio:16/9;}.r-3x4{aspect-ratio:3/4;}.r-9x16{aspect-ratio:9/16;}
+/* hero */
+.hero{background:radial-gradient(1200px 500px at 50% -10%,var(--wash),transparent);padding:34px 0 46px;}
+.hero-grid{display:grid;gap:28px;align-items:center;}
+.hero .tag{display:inline-block;background:var(--rose);color:var(--plum);font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;padding:6px 14px;border-radius:999px;margin-bottom:14px;}
+.hero h1 em{color:var(--plum-soft);font-style:italic;}
+.hero p.sub{font-size:18px;color:var(--soft);margin:16px 0 22px;}
+.hero ul{list-style:none;margin:0 0 24px;}
+.hero li{padding-left:28px;position:relative;margin-bottom:8px;font-weight:500;}
+.hero li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700;}
+.trust{margin-top:14px;font-size:13px;color:var(--soft);}
+.hero-media{display:grid;gap:12px;}
+@media(min-width:860px){.hero-grid{grid-template-columns:1.05fr .95fr;gap:44px;}}
+/* dolores */
+.pains{background:var(--white);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
+.grid2{display:grid;gap:14px;}
+@media(min-width:700px){.grid2{grid-template-columns:1fr 1fr;}.grid3{grid-template-columns:repeat(3,1fr)!important;}.grid4{grid-template-columns:repeat(2,1fr)!important;}}
+.card{background:var(--champ-lt);border:1px solid var(--line);border-radius:18px;padding:22px;}
+.card .ico{font-size:24px;display:block;margin-bottom:8px;}
+.card p{color:var(--soft);font-size:15px;}
+.pains .closer{text-align:center;margin-top:26px;font-weight:600;color:var(--plum);font-size:18px;}
+/* logros */
+.goals{display:grid;gap:12px;max-width:760px;margin:0 auto 34px;list-style:none;}
+.goals li{background:var(--white);border:1px solid var(--line);border-radius:14px;padding:15px 16px 15px 52px;position:relative;font-weight:500;}
+.goals li::before{content:"✦";position:absolute;left:18px;top:13px;color:var(--gold);font-size:20px;}
+.grid3{display:grid;gap:14px;}
+/* qué incluye */
+.includes{background:var(--wash);}
+.inc{display:grid;gap:22px;}
+.inc .part{background:var(--white);border-radius:22px;border:1px solid var(--line);overflow:hidden;box-shadow:0 10px 26px rgba(63,21,48,.07);}
+.inc .part .body{padding:20px;}
+.badge{display:inline-block;background:var(--plum);color:var(--gold-lt);font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:5px 12px;border-radius:999px;margin-bottom:10px;}
+.badge.bonus{background:var(--gold);color:var(--plum-deep);}
+.part h3{margin-bottom:8px;}
+.part p{color:var(--soft);font-size:15px;margin-bottom:10px;}
+.part ul{list-style:none;}
+.part li{padding-left:24px;position:relative;font-size:15px;margin-bottom:5px;}
+.part li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700;}
+.incl-tag{display:inline-block;margin-top:10px;font-size:13px;font-weight:700;color:var(--green);background:var(--green-bg);padding:4px 12px;border-radius:999px;}
+@media(min-width:860px){.inc{grid-template-columns:repeat(3,1fr);}}
+/* galería */
+.gallery{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+@media(min-width:760px){.gallery{grid-template-columns:repeat(3,1fr);}}
+/* pasos */
+.steps{counter-reset:s;display:grid;gap:14px;}
+.steps .card{position:relative;padding-left:70px;}
+.steps .card::before{counter-increment:s;content:counter(s);position:absolute;left:18px;top:18px;width:38px;height:38px;border-radius:50%;background:var(--plum);color:var(--gold-lt);font-weight:700;display:flex;align-items:center;justify-content:center;font-family:'Fraunces',serif;font-size:18px;}
+@media(min-width:760px){.steps{grid-template-columns:repeat(3,1fr);}}
+/* bonos */
+.bonuses{background:var(--rose);}
+.bon-grid{display:grid;gap:18px;}
+@media(min-width:760px){.bon-grid{grid-template-columns:1fr 1fr;}}
+/* oferta */
+.offer-card{max-width:560px;margin:0 auto;background:var(--white);border:2px solid var(--gold);border-radius:26px;padding:28px 22px;box-shadow:0 18px 40px rgba(141,103,24,.2);text-align:center;}
+.offer-card h2{margin-bottom:6px;}
+.price{font-family:'Fraunces',serif;font-weight:700;color:var(--plum);font-size:56px;line-height:1;margin:12px 0 4px;}
+.price small{font-size:20px;font-weight:600;}
+.once{color:var(--soft);font-size:14px;margin-bottom:18px;}
+.checklist{list-style:none;text-align:left;margin:0 0 22px;}
+.checklist li{padding:9px 0 9px 30px;position:relative;border-bottom:1px dashed var(--line);font-size:15px;}
+.checklist li::before{content:"✓";position:absolute;left:4px;color:var(--green);font-weight:700;}
+.checklist li.bono::before{content:"★";color:var(--gold);}
+.pay{margin-top:16px;font-size:13px;color:var(--soft);}
+.pay strong{display:block;color:var(--ink);margin-bottom:4px;}
+.mini-guar{margin-top:16px;background:var(--green-bg);color:var(--green);border-radius:12px;padding:10px 12px;font-size:14px;font-weight:600;}
+.timer-wrap{display:none;margin:0 0 18px;}
+.timer-wrap.on{display:block;}
+.timer{display:flex;justify-content:center;gap:10px;margin-top:6px;}
+.timer div{background:var(--plum-deep);color:var(--gold-lt);border-radius:10px;padding:8px 10px;min-width:58px;font-family:'Fraunces',serif;font-size:24px;font-weight:700;}
+.timer span{display:block;font-family:'Inter',sans-serif;font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;opacity:.8;}
+/* prueba social */
+.proofs{display:grid;gap:16px;max-width:900px;margin:0 auto;}
+@media(min-width:760px){.proofs{grid-template-columns:repeat(3,1fr);}}
+.proof .cap{font-size:13px;color:var(--soft);text-align:center;margin-top:8px;}
+/* resumen */
+.summary{max-width:620px;margin:0 auto;background:var(--white);border:1px solid var(--line);border-radius:20px;padding:22px;}
+.summary table{width:100%;border-collapse:collapse;font-size:15px;}
+.summary td{padding:10px 0;border-bottom:1px solid var(--line);}
+.summary td:last-child{text-align:right;color:var(--green);font-weight:600;}
+.summary tr.total td{border-bottom:0;font-family:'Fraunces',serif;font-size:22px;font-weight:700;color:var(--plum);padding-top:16px;}
+.summary tr.total td:last-child{color:var(--plum);}
+/* garantía */
+.guar{background:var(--green-bg);}
+.guar-box{max-width:720px;margin:0 auto;background:var(--white);border-radius:22px;padding:26px 22px;display:grid;gap:14px;text-align:center;border:1px solid #cfe2d5;}
+.seal{width:84px;height:84px;margin:0 auto;border-radius:50%;background:var(--green);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:'Fraunces',serif;font-weight:700;}
+.seal b{font-size:32px;line-height:1;}.seal span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-family:'Inter',sans-serif;}
+/* faq */
+.faq{max-width:760px;margin:0 auto;}
+.faq details{background:var(--white);border:1px solid var(--line);border-radius:14px;margin-bottom:10px;padding:0 18px;}
+.faq summary{cursor:pointer;list-style:none;padding:16px 28px 16px 0;font-weight:600;position:relative;}
+.faq summary::-webkit-details-marker{display:none;}
+.faq summary::after{content:"+";position:absolute;right:0;top:12px;font-size:24px;color:var(--gold-deep);}
+.faq details[open] summary::after{content:"–";}
+.faq details p{padding:0 0 16px;color:var(--soft);font-size:15px;}
+/* cierre */
+.final{background:linear-gradient(180deg,var(--plum),var(--plum-deep));color:#fff;text-align:center;}
+.final h2{color:#fff;}
+.final p{max-width:560px;margin:0 auto 24px;color:#ecd9e3;}
+.final .price{color:var(--gold-lt);}
+footer{background:#241018;color:#bfa9b4;font-size:12px;padding:30px 0;text-align:center;line-height:1.7;}
+footer a{color:#e6cfb8;margin:0 8px;}
+/* barra fija */
+.stk{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--white);border-top:1px solid var(--line);padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:12px;transform:translateY(110%);transition:transform .25s;box-shadow:0 -6px 20px rgba(0,0,0,.08);}
+.stk.show{transform:translateY(0);}
+.stk .p{font-family:'Fraunces',serif;font-weight:700;color:var(--plum);font-size:22px;line-height:1.1;}
+.stk .p small{display:block;font-family:'Inter',sans-serif;font-weight:500;font-size:11px;color:var(--soft);}
+.stk .btn{padding:13px 22px;font-size:16px;}
+</style>
+</head>
+<body>
+
+<div class="topbar">Entrega inmediata por correo · Pago seguro · Garantía de 7 días</div>
+<!-- URGENCIA HONESTA: solo se muestra si definís DEADLINE en el script de abajo (fecha real de cierre de la promo) -->
+<div class="urg" id="urg">Precio de lanzamiento disponible hasta <span id="urg-date"></span></div>
+
+<!-- ============ 1. HERO ============ -->
+<header class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="tag">Guía digital de bordado con pedrería</span>
+      <h1>Aprendé a crear <em>accesorios bordados</em> con pedrería e hilos y convertí tu pasatiempo en un ingreso extra</h1>
+      <p class="sub">Una guía paso a paso para hacer 8 tipos de accesorios desde tu casa, aunque nunca hayas bordado una sola pieza. Más de 60 diseños extra para imprimir y 4 bonos de regalo.</p>
+      <ul>
+        <li>Empezás desde cero, con las puntadas base bien explicadas</li>
+        <li>Aprendés 8 tipos de accesorios, uno detrás de otro</li>
+        <li>Con la lista de materiales para comprar solo lo necesario</li>
+      </ul>
+      <a class="btn cta" href="/checkout">Quiero mi guía Brillo Propio<small>Pago único de {{price}} · Acceso inmediato</small></a>
+      <p class="trust">🔒 Pago seguro · 📩 Entrega por correo en minutos · ✅ Garantía de 7 días</p>
+    </div>
+    <div class="hero-media">
+      <!-- IMAGEN HERO: accesorios bordados terminados (aros, collar, clutch) sobre fondo neutro, 4:5 -->
+      <figure class="ph r-4x5" data-label="FOTO HERO · accesorios bordados terminados (4:5)"><img src="" alt="Accesorios bordados con pedrería e hilos" loading="eager"></figure>
+      <!-- VIDEO OPCIONAL: demostración corta de una puntada con pedrería, 16:9 -->
+      <figure class="ph r-16x9" data-label="VIDEO OPCIONAL · demostración corta del bordado (16:9)"><video src="" poster="" controls playsinline preload="none"></video></figure>
+    </div>
+  </div>
+</header>
+
+<!-- ============ 2. ¿TE SUENA FAMILIAR? ============ -->
+<section class="pains">
+  <div class="wrap">
+    <span class="eyebrow">¿Te suena familiar?</span>
+    <h2>Esta guía es para vos si alguna vez pensaste…</h2>
+    <p class="lead">Si te pasa alguna de estas cosas, lo que sigue está pensado para vos.</p>
+    <div class="grid2">
+      <div class="card"><span class="ico">💭</span><h3>«Quisiera sumar un ingreso extra, pero no sé por dónde empezar»</h3><p>Querés algo que puedas hacer desde tu casa, a tu ritmo, sin una inversión enorme.</p></div>
+      <div class="card"><span class="ico">🧵</span><h3>«Se ve lindo, pero seguro es muy difícil»</h3><p>Ves accesorios bordados con pedrería y creés que hace falta un talento especial. No hace falta: se aprende puntada a puntada.</p></div>
+      <div class="card"><span class="ico">👛</span><h3>«No quiero gastar de más en materiales»</h3><p>Te da miedo comprar cosas que después no usás. Por eso la guía trae la lista de materiales.</p></div>
+      <div class="card"><span class="ico">✨</span><h3>«¿Y si no me queda bien?»</h3><p>Es normal. Por eso empezás por las puntadas base y vas sumando de a una pieza por vez.</p></div>
+    </div>
+    <p class="closer">Con tus manos, un poco de práctica y la guía correcta, podés empezar. ✦</p>
+  </div>
+</section>
+
+<!-- ============ 3. LO QUE VAS A LOGRAR ============ -->
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Lo que vas a lograr</span>
+    <h2>Un oficio con tus manos que también podés ofrecer</h2>
+    <p class="lead">Aprendés a bordar con pedrería e hilos y a hacer piezas con un acabado cuidado, desde tu casa.</p>
+    <ul class="goals">
+      <li>Dominar las puntadas base del bordado con pedrería e hilos</li>
+      <li>Crear 8 tipos de accesorios, con un diseño paso a paso de cada uno</li>
+      <li>Usar más de 60 diseños extra listos para imprimir y bordar</li>
+      <li>Saber qué materiales comprar y evitar gastos innecesarios</li>
+      <li>Hacer piezas para vos, para regalar o para ofrecer</li>
+      <li>Convertir tu pasatiempo en una entrada extra, a tu ritmo</li>
+    </ul>
+    <div class="grid3 grid3-x">
+      <div class="card"><span class="ico">💎</span><h3>Piezas con brillo propio</h3><p>La pedrería le da a cada accesorio un acabado que llama la atención.</p></div>
+      <div class="card"><span class="ico">🪡</span><h3>Empezás con pocos materiales</h3><p>La lista de materiales te dice qué necesitás para arrancar y para qué sirve cada cosa.</p></div>
+      <div class="card"><span class="ico">🎁</span><h3>Para cada ocasión</h3><p>Para usar, para regalar en las fiestas o para ofrecer a quienes te rodean.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 4. QUÉ INCLUYE (3 EN 1) ============ -->
+<section class="includes" id="incluye">
+  <div class="wrap">
+    <span class="eyebrow">Qué incluye la guía principal</span>
+    <h2>3 en 1: todo lo que necesitás en una sola guía</h2>
+    <p class="lead">Tres partes pensadas para que avances en orden: primero las bases, después tus accesorios y por último un banco de diseños para seguir creando.</p>
+    <div class="inc">
+      <article class="part">
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 1 · portada o página de puntadas y materiales (4:5)"><img src="" alt="Guía de puntadas y lista de materiales" loading="lazy"></figure>
+        <div class="body">
+          <span class="badge">Parte 1</span>
+          <h3>Materiales y guía de puntadas</h3>
+          <p>La base de todo: qué comprar y cómo hacer cada puntada.</p>
+          <ul>
+            <li>Lista de materiales para comprar solo lo necesario</li>
+            <li>Las puntadas base con pedrería e hilos</li>
+            <li>Consejos para un acabado prolijo</li>
+          </ul>
+          <span class="incl-tag">Incluido</span>
+        </div>
+      </article>
+      <article class="part">
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 2 · página de un diseño paso a paso (4:5)"><img src="" alt="Un diseño paso a paso de cada accesorio" loading="lazy"></figure>
+        <div class="body">
+          <span class="badge">Parte 2</span>
+          <h3>8 tipos de accesorios, paso a paso</h3>
+          <p>Un diseño explicado de principio a fin de cada tipo de accesorio.</p>
+          <ul>
+            <li>Aros y collares</li>
+            <li>Vinchas, hebillas y pines</li>
+            <li>Llaveros, clutches o bolsos de mano y apliques para ropa</li>
+          </ul>
+          <span class="incl-tag">Incluido</span>
+        </div>
+      </article>
+      <article class="part">
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 3 · hoja de diseños para imprimir (4:5)"><img src="" alt="Más de 60 diseños para imprimir" loading="lazy"></figure>
+        <div class="body">
+          <span class="badge">Parte 3</span>
+          <h3>Más de 60 diseños para imprimir</h3>
+          <p>Un banco de diseños extra para seguir creando sin quedarte sin ideas.</p>
+          <ul>
+            <li>Listos para imprimir y bordar</li>
+            <li>Para practicar o para hacer piezas nuevas</li>
+            <li>Diseños variados para distintos accesorios</li>
+          </ul>
+          <span class="incl-tag">Incluido</span>
+        </div>
+      </article>
+    </div>
+    <p class="center" style="margin-top:30px;"><a class="btn cta" href="/checkout">Quiero la guía completa<small>Pago único de {{price}}</small></a></p>
+  </div>
+</section>
+<!-- CONFIRMAR ANTES DE PUBLICAR: que cada diseño tenga fotos del proceso. Si las hay, se puede sumar "con fotos del proceso" en la Parte 2. -->
+
+<!-- ============ 5. GALERÍA ============ -->
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Mirá lo que vas a poder crear</span>
+    <h2>Accesorios que vas a poder bordar vos</h2>
+    <p class="lead">Fotos de piezas hechas con las puntadas y los diseños de la guía.</p>
+    <!-- 6 FOTOS: usar solo piezas realmente hechas con la guía -->
+    <div class="gallery">
+      <figure class="ph r-1x1" data-label="FOTO 1 · aros bordados"><img src="" alt="Aros bordados con pedrería" loading="lazy"></figure>
+      <figure class="ph r-1x1" data-label="FOTO 2 · collar bordado"><img src="" alt="Collar bordado con pedrería" loading="lazy"></figure>
+      <figure class="ph r-1x1" data-label="FOTO 3 · vincha o hebilla"><img src="" alt="Vincha bordada" loading="lazy"></figure>
+      <figure class="ph r-1x1" data-label="FOTO 4 · llaveros y pines"><img src="" alt="Llaveros y pines bordados" loading="lazy"></figure>
+      <figure class="ph r-1x1" data-label="FOTO 5 · clutch o bolso de mano"><img src="" alt="Clutch bordado" loading="lazy"></figure>
+      <figure class="ph r-1x1" data-label="FOTO 6 · aplique en ropa"><img src="" alt="Aplique bordado en una prenda" loading="lazy"></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 6. CÓMO FUNCIONA ============ -->
+<section style="background:var(--white);border-top:1px solid var(--line);border-bottom:1px solid var(--line);">
+  <div class="wrap">
+    <span class="eyebrow">Cómo funciona</span>
+    <h2>Empezás en tres pasos simples</h2>
+    <div class="steps">
+      <div class="card"><h3>Hacés tu pedido</h3><p>Pagás una sola vez, con Mercado Pago o con tarjeta.</p></div>
+      <div class="card"><h3>La recibís por correo</h3><p>La guía llega a tu correo en minutos. La podés leer en el celular, en la compu o imprimirla.</p></div>
+      <div class="card"><h3>Empezás por las puntadas</h3><p>Seguís el orden de la guía y hacés tu primera pieza, a tu ritmo.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 7. BONOS ============ -->
+<section class="bonuses">
+  <div class="wrap">
+    <span class="eyebrow">Bonos de regalo</span>
+    <h2>Llevate 4 bonos incluidos con tu guía</h2>
+    <p class="lead">Para que no te frene el miedo a equivocarte ni la duda de cómo ponerle precio, mostrar tus piezas y encontrar tus primeros clientes.</p>
+    <!-- IMPORTANTE: producir los 4 bonos antes de lanzar. Si se producen menos, avisar para ajustar esta sección y el resumen. -->
+    <div class="bon-grid">
+      <article class="part">
+        <figure class="ph r-16x9" data-label="IMAGEN BONO 1 · portada (16:9)"><img src="" alt="Bono 1: Errores comunes y cómo arreglarlos" loading="lazy"></figure>
+        <div class="body"><span class="badge bonus">Bono 1</span><h3>Errores comunes y cómo arreglarlos</h3><p>Qué hacer cuando la pedrería se corre, el hilo se enreda o la pieza queda chueca. Para que un error no te frene.</p><span class="incl-tag">Incluido</span></div>
+      </article>
+      <article class="part">
+        <figure class="ph r-16x9" data-label="IMAGEN BONO 2 · portada (16:9)"><img src="" alt="Bono 2: Precio justo" loading="lazy"></figure>
+        <div class="body"><span class="badge bonus">Bono 2</span><h3>Precio justo: cuánto cobrar por tus piezas</h3><p>Cómo sumar materiales y tiempo para ponerle precio a cada accesorio sin regalar tu trabajo.</p><span class="incl-tag">Incluido</span></div>
+      </article>
+      <article class="part">
+        <figure class="ph r-16x9" data-label="IMAGEN BONO 3 · portada (16:9)"><img src="" alt="Bono 3: Fotos con el celular" loading="lazy"></figure>
+        <div class="body"><span class="badge bonus">Bono 3</span><h3>Fotos de tus piezas con el celular</h3><p>Cómo sacarles fotos prolijas con luz natural y sin equipo, para mostrarlas mejor.</p><span class="incl-tag">Incluido</span></div>
+      </article>
+      <article class="part">
+        <figure class="ph r-16x9" data-label="IMAGEN BONO 4 · portada (16:9)"><img src="" alt="Bono 4: Primeros clientes" loading="lazy"></figure>
+        <div class="body"><span class="badge bonus">Bono 4</span><h3>Primeros clientes: dónde y cómo ofrecer tus piezas</h3><p>Ideas para ofrecer lo que hagas por WhatsApp, Instagram, Mercado Libre y ferias.</p><span class="incl-tag">Incluido</span></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 8. OFERTA ============ -->
+<section id="oferta">
+  <div class="wrap">
+    <div class="offer-card">
+      <span class="eyebrow">Tu guía hoy</span>
+      <h2>Guía Brillo Propio</h2>
+      <p class="once">Accesorios bordados con pedrería e hilos · 3 en 1 + 4 bonos</p>
+      <div class="timer-wrap" id="timer-wrap">
+        <strong style="font-size:14px;color:var(--plum);">El precio de lanzamiento termina en:</strong>
+        <div class="timer"><div id="t-d">00<span>días</span></div><div id="t-h">00<span>horas</span></div><div id="t-m">00<span>min</span></div><div id="t-s">00<span>seg</span></div></div>
+      </div>
+      <div class="price">{{price}}</div>
+      <p class="once">Pago único · Acceso inmediato · Sin suscripción</p>
+      <ul class="checklist">
+        <li>Parte 1 · Materiales y guía de puntadas</li>
+        <li>Parte 2 · 8 tipos de accesorios, paso a paso</li>
+        <li>Parte 3 · Más de 60 diseños para imprimir</li>
+        <li class="bono">Bono 1 · Errores comunes y cómo arreglarlos</li>
+        <li class="bono">Bono 2 · Precio justo: cuánto cobrar por tus piezas</li>
+        <li class="bono">Bono 3 · Fotos de tus piezas con el celular</li>
+        <li class="bono">Bono 4 · Primeros clientes: dónde y cómo ofrecer tus piezas</li>
+      </ul>
+      <a class="btn btn-block cta" href="/checkout">Quiero empezar con Brillo Propio<small>Pago único de {{price}}</small></a>
+      <div class="pay"><strong>Medios de pago</strong>Mercado Pago · Tarjetas de crédito y débito · <span class="todo">[OTROS MEDIOS: completar con los de la landing argentina]</span></div>
+      <div class="mini-guar">🛡️ Garantía de 7 días: si no es para vos, te devolvemos tu dinero.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 9. PRUEBA SOCIAL ============ -->
+<!-- Si no hay testimonios reales, eliminá toda esta sección. No inventar mensajes ni nombres. -->
+<section id="prueba" style="background:var(--white);border-top:1px solid var(--line);border-bottom:1px solid var(--line);">
+  <div class="wrap">
+    <span class="eyebrow">Mensajes de quienes ya empezaron</span>
+    <h2>Lo que cuentan quienes ya usan la guía</h2>
+    <p class="lead">Capturas reales de mensajes de compradores, con su permiso.</p>
+    <div class="proofs">
+      <div class="proof"><figure class="ph r-9x16" data-label="CAPTURA DE WHATSAPP 1 (9:16)"><img src="" alt="Mensaje de una compradora" loading="lazy"></figure><p class="cap"><span class="todo">[TESTIMONIO 1]</span></p></div>
+      <div class="proof"><figure class="ph r-9x16" data-label="CAPTURA DE WHATSAPP 2 (9:16)"><img src="" alt="Mensaje de una compradora" loading="lazy"></figure><p class="cap"><span class="todo">[TESTIMONIO 2]</span></p></div>
+      <div class="proof"><figure class="ph r-9x16" data-label="CAPTURA DE WHATSAPP 3 (9:16)"><img src="" alt="Mensaje de una compradora" loading="lazy"></figure><p class="cap"><span class="todo">[TESTIMONIO 3]</span></p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 10. RESUMEN DEL PEDIDO ============ -->
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Resumen del pedido</span>
+    <h2>Esto es todo lo que te llevás hoy</h2>
+    <div class="summary">
+      <table>
+        <tr><td>Parte 1 · Materiales y guía de puntadas</td><td>Incluido</td></tr>
+        <tr><td>Parte 2 · 8 tipos de accesorios, paso a paso</td><td>Incluido</td></tr>
+        <tr><td>Parte 3 · Más de 60 diseños para imprimir</td><td>Incluido</td></tr>
+        <tr><td>Bono 1 · Errores comunes y cómo arreglarlos</td><td>Incluido</td></tr>
+        <tr><td>Bono 2 · Precio justo</td><td>Incluido</td></tr>
+        <tr><td>Bono 3 · Fotos con el celular</td><td>Incluido</td></tr>
+        <tr><td>Bono 4 · Primeros clientes</td><td>Incluido</td></tr>
+        <tr class="total"><td>Hoy, pago único</td><td>{{price}}</td></tr>
+      </table>
+      <p style="margin-top:18px;"><a class="btn btn-block cta" href="/checkout">Comprar la guía completa<small>Pago único · Acceso inmediato por correo</small></a></p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 11. GARANTÍA ============ -->
+<section class="guar">
+  <div class="wrap">
+    <div class="guar-box">
+      <div class="seal"><b>7</b><span>días</span></div>
+      <h2 style="margin:0;">Garantía de 7 días, sin vueltas</h2>
+      <p style="color:var(--soft);">Probá la guía con tranquilidad. Si dentro de los 7 días de tu compra sentís que no es para vos, escribinos a <span class="todo">[EMAIL_CONTACTO]</span> y te devolvemos el 100% de tu dinero.</p>
+    </div>
+  </div>
+</section>
+<!-- OPCIONAL: sección "Quién está detrás" solo si hay una creadora real, con su nombre y foto reales. No inventar personas. -->
+
+<!-- ============ 12. FAQ ============ -->
+<section id="faq">
+  <div class="wrap">
+    <span class="eyebrow">Preguntas frecuentes</span>
+    <h2>Las dudas más comunes, respondidas</h2>
+    <div class="faq">
+      <details><summary>¿Necesito experiencia previa?</summary><p>No. La guía empieza desde cero, con las puntadas base explicadas paso a paso.</p></details>
+      <details><summary>¿Qué materiales necesito y son caros?</summary><p>La lista de materiales viene incluida en la guía principal: te dice qué comprar, para qué sirve cada cosa y con qué podés empezar para no gastar de más.</p></details>
+      <details><summary>¿Dónde consigo los materiales en Argentina?</summary><p>La lista te dice qué buscar. Suelen encontrarse en mercerías, casas de insumos para bijouterie y tiendas online.</p></details>
+      <details><summary>¿Cómo recibo la guía?</summary><p>Es digital: te llega por correo electrónico en minutos, una vez acreditado el pago. La podés leer en el celular, en la compu o imprimirla.</p></details>
+      <details><summary>¿Los diseños extra son para imprimir?</summary><p>Sí. Son más de 60 diseños para imprimir y bordar, para que sigas creando después de tus primeras piezas.</p></details>
+      <details><summary>¿Cuánto tardo en hacer una pieza?</summary><p>Depende del accesorio y de tu práctica. Al principio vas más lento; con las puntadas base y un poco de práctica vas ganando velocidad.</p></details>
+      <details><summary>¿Puedo vender lo que haga?</summary><p>Podés ofrecer lo que hagas: a conocidos, por redes o en ferias. Los bonos te enseñan a ponerle precio, fotografiar tus piezas y buscar tus primeros clientes. Cuánto vendas depende de tu dedicación y de tu zona: no garantizamos ingresos.</p></details>
+      <details><summary>¿Es un pago único?</summary><p>Sí. Pagás una sola vez y no hay suscripción ni cargos mensuales.</p></details>
+      <details><summary>¿Qué medios de pago puedo usar?</summary><p>Mercado Pago, tarjetas de crédito y débito, <span class="todo">[OTROS MEDIOS]</span>.</p></details>
+      <details><summary>¿Cómo funciona la garantía?</summary><p>Tenés 7 días desde tu compra. Si no es para vos, escribinos a <span class="todo">[EMAIL_CONTACTO]</span> y te devolvemos el 100% de tu dinero.</p></details>
+      <details><summary>¿Es seguro comprar acá?</summary><p>El pago se hace en un checkout seguro. Si tenés cualquier duda, escribinos a <span class="todo">[EMAIL_CONTACTO]</span>.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 13. CIERRE ============ -->
+<section class="final">
+  <div class="wrap">
+    <span class="eyebrow" style="color:var(--gold-lt);">Tu primera pieza te espera</span>
+    <h2>Empezá hoy con tu Brillo Propio</h2>
+    <p>Una guía, más de 60 diseños para imprimir y 4 bonos, para que bordes tus primeros accesorios y los puedas ofrecer cuando estés lista o listo.</p>
+    <div class="price">{{price}}</div>
+    <p class="once" style="color:#ecd9e3;">Pago único · Acceso inmediato · Garantía de 7 días</p>
+    <a class="btn cta" href="/checkout">Quiero empezar por {{price}}<small>Acceso inmediato por correo</small></a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p><strong>Brillo Propio</strong> · Guía digital de bordado con pedrería e hilos</p>
+    <p><a href="#" class="todo">[TÉRMINOS Y CONDICIONES]</a><a href="#" class="todo">[POLÍTICA DE PRIVACIDAD]</a><a href="#" class="todo">[CONTACTO]</a></p>
+    <p style="max-width:720px;margin:12px auto 0;">Brillo Propio es una guía educativa digital. Los resultados dependen de la dedicación, la práctica y la gestión de ventas de cada persona; no garantizamos ingresos ni resultados económicos. Las imágenes son ilustrativas. Este sitio no es parte de Facebook ni de Meta Platforms, Inc.</p>
+    <p>© <span id="yr">2026</span> Brillo Propio. Todos los derechos reservados.</p>
+  </div>
+</footer>
+
+<!-- BARRA FIJA -->
+<div class="stk" id="stk">
+  <div class="p">{{price}}<small>Pago único · Garantía de 7 días</small></div>
+  <a class="btn cta" href="/checkout">Lo quiero</a>
+</div>
+
+<script>
+(function(){
+  /* ===== CONFIGURACIÓN ===== */
+  var EDIT = true;      // true = muestra los espacios de foto vacíos; poner false al publicar para ocultar los que sigan sin imagen
+  var DEADLINE = "";    // [FECHA_CIERRE] fecha REAL de fin de la promo, ej. "2026-12-24T23:59:00-03:00". Vacío = no se muestra urgencia ni contador
+
+  /* espacios de imagen: marcar los completos, ocultar vacíos si EDIT=false */
+  document.querySelectorAll('.ph').forEach(function(f){
+    var m=f.querySelector('img,video');
+    var ok=m && m.getAttribute('src');
+    if(ok){f.classList.add('filled');}
+    else if(!EDIT){f.remove();}
+  });
+  /* prueba social: si EDIT=false y no hay ninguna imagen, eliminar la sección */
+  if(!EDIT){
+    var pr=document.getElementById('prueba');
+    if(pr && !pr.querySelector('.ph')){pr.remove();}
+  }
+
+  /* urgencia honesta: solo con fecha real */
+  if(DEADLINE){
+    var end=new Date(DEADLINE).getTime();
+    if(!isNaN(end) && end>Date.now()){
+      document.getElementById('urg').classList.add('on');
+      document.getElementById('timer-wrap').classList.add('on');
+      document.getElementById('urg-date').textContent=new Date(end).toLocaleDateString('es-AR',{day:'numeric',month:'long'});
+      var pad=function(n){return (n<10?'0':'')+n;};
+      var tick=function(){
+        var d=end-Date.now(); if(d<0)d=0;
+        var s=Math.floor(d/1000);
+        document.getElementById('t-d').firstChild.nodeValue=pad(Math.floor(s/86400));
+        document.getElementById('t-h').firstChild.nodeValue=pad(Math.floor(s%86400/3600));
+        document.getElementById('t-m').firstChild.nodeValue=pad(Math.floor(s%3600/60));
+        document.getElementById('t-s').firstChild.nodeValue=pad(s%60);
+      };
+      tick(); setInterval(tick,1000);
+    }
+  }
+
+  /* barra fija al hacer scroll */
+  var st=document.getElementById('stk');
+  function chk(){st.classList.toggle('show',window.scrollY>560);}
+  window.addEventListener('scroll',chk,{passive:true});chk();
+
+  /* seguimiento: AddToCart al tocar cualquier botón de compra (si el Pixel está instalado) */
+  document.querySelectorAll('.cta').forEach(function(a){
+    a.addEventListener('click',function(){ if(window.fbq){try{fbq('track','AddToCart');}catch(e){}} });
+  });
+})();
+</script>
+</body>
+</html>

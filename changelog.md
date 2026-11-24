@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-24
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio.txt — landing «Brillo Propio» (guía 3 en 1 + 4 bonos, 14.900 ARS, garantía de 7 días), modelada sobre la landing de Colombia y la de bijouterie de Argentina; enlazada en WIKI/index.md.
+
 ## 2026-11-21 (resultados tandas 1 y 2)
 **Cambios:** historial: resultados de la tanda 1 (39,67 USD, 2 compras: H19 y H20) y de la tanda 2 (3,1 USD, 1 compra: H29).
 
