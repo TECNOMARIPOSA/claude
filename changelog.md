@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-24 (versión B de la landing)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio-joyeria.txt — versión B «Joyería bordada»: core con aros, collares, pulseras, pines y llaveros; 5 bonos (cabello; carteras y apliques; errores; kit de venta; primeros clientes en Mercado Libre y redes); hero más corto. La versión A queda intacta para el test; enlazada en WIKI/index.md.
+
 ## 2026-11-24
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio.txt — landing «Brillo Propio» (guía 3 en 1 con método de bordado hindú + 4 bonos, 14.900 ARS, garantía de 7 días; v3 con las 3 partes originales (materiales y puntadas, 8 tipos de accesorios, más de 60 diseños para imprimir), método de bordado hindú y tipos de accesorios nombrados), modelada sobre la landing de Colombia y la de bijouterie de Argentina; enlazada en WIKI/index.md.

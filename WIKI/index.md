@@ -81,6 +81,7 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-24 · Landing «Brillo Propio» · versión B «joyería bordada»](../OUTPUTS/2026-11-24-landing-brillo-propio-joyeria.txt) — misma oferta con presentación de joyería y accesorios (core: aros, collares, pulseras, pines y llaveros) y 5 bonos (cabello; carteras y apliques; errores; kit de venta; primeros clientes en Mercado Libre y redes); para testear contra la versión A.
 - [2026-11-24 · Landing «Brillo Propio» (bordado con pedrería e hilos)](../OUTPUTS/2026-11-24-landing-brillo-propio.txt) — guía 3 en 1 (con más de 60 diseños para imprimir), método de bordado hindú + 4 bonos, 14.900 ARS, garantía de 7 días; modelada sobre la landing de Colombia y la de bijouterie de Argentina; espacios de imagen vacíos y marcadores por completar.
 - [2026-11-05 · Bono 4 · Calma Kids](../OUTPUTS/2026-11-05-ebook-bono-4-calma-kids.md) — PDF de 34 páginas; pendiente de revisión.
 - [2026-11-05 · Bono 3 · Flora y Fauna de Latinoamérica](../OUTPUTS/2026-11-05-ebook-bono-3-flora-y-fauna.md) — PDF de 34 páginas; pendiente de confirmación.
