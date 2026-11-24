@@ -225,7 +225,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
 <section class="includes" id="incluye">
   <div class="wrap">
     <span class="eyebrow">Qué incluye la guía principal</span>
-    <h2>Todo lo que necesitás en una sola guía</h2>
+    <h2>3 en 1: todo lo que necesitás en una sola guía</h2>
     <p class="lead">Tres partes pensadas para que avances en orden con el método de bordado hindú: primero los materiales, después las puntadas y por último tus accesorios.</p>
     <div class="inc">
       <article class="part">
@@ -341,7 +341,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <div class="offer-card">
       <span class="eyebrow">Tu guía hoy</span>
       <h2>Guía Brillo Propio</h2>
-      <p class="once">Método de bordado hindú · Guía completa + 4 bonos</p>
+      <p class="once">Método de bordado hindú · 3 en 1 + 4 bonos</p>
       <div class="timer-wrap" id="timer-wrap">
         <strong style="font-size:14px;color:var(--plum);">El precio de lanzamiento termina en:</strong>
         <div class="timer"><div id="t-d">00<span>días</span></div><div id="t-h">00<span>horas</span></div><div id="t-m">00<span>min</span></div><div id="t-s">00<span>seg</span></div></div>
