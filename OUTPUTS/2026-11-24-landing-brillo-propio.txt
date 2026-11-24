@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Brillo Propio — Accesorios bordados con pedrería e hilos</title>
-<meta name="description" content="Guía digital paso a paso para crear 8 tipos de accesorios bordados con pedrería e hilos, con más de 60 diseños para imprimir y 4 bonos. Acceso inmediato por correo. Garantía de 7 días.">
+<title>Brillo Propio — Método de bordado hindú: accesorios con pedrería e hilos</title>
+<meta name="description" content="Aprendé el método de bordado hindú y creá aros, collares, vinchas, llaveros, hebillas, pines, clutches y apliques para ropa con pedrería e hilos, aunque nunca hayas bordado antes. Guía digital paso a paso. Acceso inmediato por correo. Garantía de 7 días.">
 <!-- META PIXEL: pegá acá tu código base del Pixel (PageView) -->
 <!-- PRECIO: {{price}} lo reemplaza la plataforma por el valor formateado. Configurá el producto en Impultienda a 14.900 ARS. No escribir símbolos de moneda al lado del token. No hay precio tachado ni ahorro: no hay precio de referencia confirmado. -->
 <!-- CHECKOUT: todos los botones (.cta) apuntan a /checkout, igual que las landings anteriores de este proyecto. Cambiá el href si usás otro link. -->
@@ -163,12 +163,12 @@ footer a{color:#e6cfb8;margin:0 8px;}
 <header class="hero">
   <div class="wrap hero-grid">
     <div>
-      <span class="tag">Guía digital de bordado con pedrería</span>
-      <h1>Aprendé a crear <em>accesorios bordados</em> con pedrería e hilos y convertí tu pasatiempo en un ingreso extra</h1>
-      <p class="sub">Una guía paso a paso para hacer 8 tipos de accesorios desde tu casa, aunque nunca hayas bordado una sola pieza. Más de 60 diseños extra para imprimir y 4 bonos de regalo.</p>
+      <span class="tag">Guía digital · Método de bordado hindú</span>
+      <h1>Aprendé el <em>método de bordado hindú</em> y creá accesorios con pedrería e hilos para sumar un ingreso extra, aunque nunca hayas bordado antes</h1>
+      <p class="sub">Una guía paso a paso para hacer aros, collares, vinchas, llaveros, hebillas, pines, clutches y apliques para ropa desde tu casa, empezando desde cero.</p>
       <ul>
-        <li>Empezás desde cero, con las puntadas base bien explicadas</li>
-        <li>Aprendés 8 tipos de accesorios, uno detrás de otro</li>
+        <li>Empezás desde cero, aunque nunca hayas bordado antes</li>
+        <li>Aprendés 8 tipos de accesorios: aros, collares, vinchas, llaveros, hebillas, pines, clutches y apliques para ropa</li>
         <li>Con la lista de materiales para comprar solo lo necesario</li>
       </ul>
       <a class="btn cta" href="/checkout">Quiero mi guía Brillo Propio<small>Pago único de {{price}} · Acceso inmediato</small></a>
@@ -206,12 +206,12 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <h2>Un oficio con tus manos que también podés ofrecer</h2>
     <p class="lead">Aprendés a bordar con pedrería e hilos y a hacer piezas con un acabado cuidado, desde tu casa.</p>
     <ul class="goals">
-      <li>Dominar las puntadas base del bordado con pedrería e hilos</li>
-      <li>Crear 8 tipos de accesorios, con un diseño paso a paso de cada uno</li>
-      <li>Usar más de 60 diseños extra listos para imprimir y bordar</li>
+      <li>Dominar las puntadas base del método de bordado hindú con pedrería e hilos</li>
+      <li>Crear aros, collares, vinchas, llaveros, hebillas, pines, clutches o bolsos de mano y apliques para ropa</li>
+      <li>Seguir cada accesorio paso a paso, sin improvisar</li>
       <li>Saber qué materiales comprar y evitar gastos innecesarios</li>
       <li>Hacer piezas para vos, para regalar o para ofrecer</li>
-      <li>Convertir tu pasatiempo en una entrada extra, a tu ritmo</li>
+      <li>Ofrecer tus piezas y sumar una entrada extra, a tu ritmo</li>
     </ul>
     <div class="grid3 grid3-x">
       <div class="card"><span class="ico">💎</span><h3>Piezas con brillo propio</h3><p>La pedrería le da a cada accesorio un acabado que llama la atención.</p></div>
@@ -225,27 +225,41 @@ footer a{color:#e6cfb8;margin:0 8px;}
 <section class="includes" id="incluye">
   <div class="wrap">
     <span class="eyebrow">Qué incluye la guía principal</span>
-    <h2>3 en 1: todo lo que necesitás en una sola guía</h2>
-    <p class="lead">Tres partes pensadas para que avances en orden: primero las bases, después tus accesorios y por último un banco de diseños para seguir creando.</p>
+    <h2>Todo lo que necesitás en una sola guía</h2>
+    <p class="lead">Tres partes pensadas para que avances en orden con el método de bordado hindú: primero los materiales, después las puntadas y por último tus accesorios.</p>
     <div class="inc">
       <article class="part">
-        <figure class="ph r-4x5" data-label="IMAGEN PARTE 1 · portada o página de puntadas y materiales (4:5)"><img src="" alt="Guía de puntadas y lista de materiales" loading="lazy"></figure>
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 1 · página de la lista de materiales (4:5)"><img src="" alt="Lista de materiales" loading="lazy"></figure>
         <div class="body">
           <span class="badge">Parte 1</span>
-          <h3>Materiales y guía de puntadas</h3>
-          <p>La base de todo: qué comprar y cómo hacer cada puntada.</p>
+          <h3>Lista de materiales</h3>
+          <p>Qué comprar para empezar, sin gastar de más.</p>
           <ul>
-            <li>Lista de materiales para comprar solo lo necesario</li>
-            <li>Las puntadas base con pedrería e hilos</li>
+            <li>La lista completa de materiales</li>
+            <li>Para qué sirve cada material</li>
+            <li>Con qué podés empezar si querés gastar poco</li>
+          </ul>
+          <span class="incl-tag">Incluido</span>
+        </div>
+      </article>
+      <article class="part">
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 2 · página de puntadas (4:5)"><img src="" alt="Guía de puntadas del método de bordado hindú" loading="lazy"></figure>
+        <div class="body">
+          <span class="badge">Parte 2</span>
+          <h3>Guía de puntadas del método de bordado hindú</h3>
+          <p>La base de todos tus accesorios: cómo hacer cada puntada.</p>
+          <ul>
+            <li>Las puntadas base, paso a paso</li>
+            <li>Cómo combinar la pedrería y los hilos</li>
             <li>Consejos para un acabado prolijo</li>
           </ul>
           <span class="incl-tag">Incluido</span>
         </div>
       </article>
       <article class="part">
-        <figure class="ph r-4x5" data-label="IMAGEN PARTE 2 · página de un diseño paso a paso (4:5)"><img src="" alt="Un diseño paso a paso de cada accesorio" loading="lazy"></figure>
+        <figure class="ph r-4x5" data-label="IMAGEN PARTE 3 · página de un diseño paso a paso (4:5)"><img src="" alt="Un diseño paso a paso de cada accesorio" loading="lazy"></figure>
         <div class="body">
-          <span class="badge">Parte 2</span>
+          <span class="badge">Parte 3</span>
           <h3>8 tipos de accesorios, paso a paso</h3>
           <p>Un diseño explicado de principio a fin de cada tipo de accesorio.</p>
           <ul>
@@ -256,25 +270,11 @@ footer a{color:#e6cfb8;margin:0 8px;}
           <span class="incl-tag">Incluido</span>
         </div>
       </article>
-      <article class="part">
-        <figure class="ph r-4x5" data-label="IMAGEN PARTE 3 · hoja de diseños para imprimir (4:5)"><img src="" alt="Más de 60 diseños para imprimir" loading="lazy"></figure>
-        <div class="body">
-          <span class="badge">Parte 3</span>
-          <h3>Más de 60 diseños para imprimir</h3>
-          <p>Un banco de diseños extra para seguir creando sin quedarte sin ideas.</p>
-          <ul>
-            <li>Listos para imprimir y bordar</li>
-            <li>Para practicar o para hacer piezas nuevas</li>
-            <li>Diseños variados para distintos accesorios</li>
-          </ul>
-          <span class="incl-tag">Incluido</span>
-        </div>
-      </article>
     </div>
     <p class="center" style="margin-top:30px;"><a class="btn cta" href="/checkout">Quiero la guía completa<small>Pago único de {{price}}</small></a></p>
   </div>
 </section>
-<!-- CONFIRMAR ANTES DE PUBLICAR: que cada diseño tenga fotos del proceso. Si las hay, se puede sumar "con fotos del proceso" en la Parte 2. -->
+<!-- CONFIRMAR ANTES DE PUBLICAR: que cada diseño tenga fotos del proceso. Si las hay, se puede sumar "con fotos del proceso" en la Parte 3. -->
 
 <!-- ============ 5. GALERÍA ============ -->
 <section>
@@ -302,7 +302,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <div class="steps">
       <div class="card"><h3>Hacés tu pedido</h3><p>Pagás una sola vez, con Mercado Pago o con tarjeta.</p></div>
       <div class="card"><h3>La recibís por correo</h3><p>La guía llega a tu correo en minutos. La podés leer en el celular, en la compu o imprimirla.</p></div>
-      <div class="card"><h3>Empezás por las puntadas</h3><p>Seguís el orden de la guía y hacés tu primera pieza, a tu ritmo.</p></div>
+      <div class="card"><h3>Empezás por los materiales y las puntadas</h3><p>Seguís el orden de la guía y hacés tu primera pieza, a tu ritmo.</p></div>
     </div>
   </div>
 </section>
@@ -341,7 +341,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <div class="offer-card">
       <span class="eyebrow">Tu guía hoy</span>
       <h2>Guía Brillo Propio</h2>
-      <p class="once">Accesorios bordados con pedrería e hilos · 3 en 1 + 4 bonos</p>
+      <p class="once">Método de bordado hindú · Guía completa + 4 bonos</p>
       <div class="timer-wrap" id="timer-wrap">
         <strong style="font-size:14px;color:var(--plum);">El precio de lanzamiento termina en:</strong>
         <div class="timer"><div id="t-d">00<span>días</span></div><div id="t-h">00<span>horas</span></div><div id="t-m">00<span>min</span></div><div id="t-s">00<span>seg</span></div></div>
@@ -349,9 +349,9 @@ footer a{color:#e6cfb8;margin:0 8px;}
       <div class="price">{{price}}</div>
       <p class="once">Pago único · Acceso inmediato · Sin suscripción</p>
       <ul class="checklist">
-        <li>Parte 1 · Materiales y guía de puntadas</li>
-        <li>Parte 2 · 8 tipos de accesorios, paso a paso</li>
-        <li>Parte 3 · Más de 60 diseños para imprimir</li>
+        <li>Parte 1 · Lista de materiales</li>
+        <li>Parte 2 · Guía de puntadas del método de bordado hindú</li>
+        <li>Parte 3 · 8 tipos de accesorios, paso a paso</li>
         <li class="bono">Bono 1 · Errores comunes y cómo arreglarlos</li>
         <li class="bono">Bono 2 · Precio justo: cuánto cobrar por tus piezas</li>
         <li class="bono">Bono 3 · Fotos de tus piezas con el celular</li>
@@ -386,9 +386,9 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <h2>Esto es todo lo que te llevás hoy</h2>
     <div class="summary">
       <table>
-        <tr><td>Parte 1 · Materiales y guía de puntadas</td><td>Incluido</td></tr>
-        <tr><td>Parte 2 · 8 tipos de accesorios, paso a paso</td><td>Incluido</td></tr>
-        <tr><td>Parte 3 · Más de 60 diseños para imprimir</td><td>Incluido</td></tr>
+        <tr><td>Parte 1 · Lista de materiales</td><td>Incluido</td></tr>
+        <tr><td>Parte 2 · Guía de puntadas del método de bordado hindú</td><td>Incluido</td></tr>
+        <tr><td>Parte 3 · 8 tipos de accesorios, paso a paso</td><td>Incluido</td></tr>
         <tr><td>Bono 1 · Errores comunes y cómo arreglarlos</td><td>Incluido</td></tr>
         <tr><td>Bono 2 · Precio justo</td><td>Incluido</td></tr>
         <tr><td>Bono 3 · Fotos con el celular</td><td>Incluido</td></tr>
@@ -418,11 +418,11 @@ footer a{color:#e6cfb8;margin:0 8px;}
     <span class="eyebrow">Preguntas frecuentes</span>
     <h2>Las dudas más comunes, respondidas</h2>
     <div class="faq">
-      <details><summary>¿Necesito experiencia previa?</summary><p>No. La guía empieza desde cero, con las puntadas base explicadas paso a paso.</p></details>
+      <details><summary>¿Necesito experiencia previa?</summary><p>No. Podés empezar aunque nunca hayas bordado antes: la guía parte desde cero, con las puntadas base explicadas paso a paso.</p></details>
       <details><summary>¿Qué materiales necesito y son caros?</summary><p>La lista de materiales viene incluida en la guía principal: te dice qué comprar, para qué sirve cada cosa y con qué podés empezar para no gastar de más.</p></details>
       <details><summary>¿Dónde consigo los materiales en Argentina?</summary><p>La lista te dice qué buscar. Suelen encontrarse en mercerías, casas de insumos para bijouterie y tiendas online.</p></details>
       <details><summary>¿Cómo recibo la guía?</summary><p>Es digital: te llega por correo electrónico en minutos, una vez acreditado el pago. La podés leer en el celular, en la compu o imprimirla.</p></details>
-      <details><summary>¿Los diseños extra son para imprimir?</summary><p>Sí. Son más de 60 diseños para imprimir y bordar, para que sigas creando después de tus primeras piezas.</p></details>
+      <details><summary>¿Qué accesorios voy a aprender a hacer?</summary><p>Aros, collares, vinchas, llaveros, hebillas, pines, clutches o bolsos de mano y apliques para ropa: 8 tipos de accesorios, cada uno con su paso a paso.</p></details>
       <details><summary>¿Cuánto tardo en hacer una pieza?</summary><p>Depende del accesorio y de tu práctica. Al principio vas más lento; con las puntadas base y un poco de práctica vas ganando velocidad.</p></details>
       <details><summary>¿Puedo vender lo que haga?</summary><p>Podés ofrecer lo que hagas: a conocidos, por redes o en ferias. Los bonos te enseñan a ponerle precio, fotografiar tus piezas y buscar tus primeros clientes. Cuánto vendas depende de tu dedicación y de tu zona: no garantizamos ingresos.</p></details>
       <details><summary>¿Es un pago único?</summary><p>Sí. Pagás una sola vez y no hay suscripción ni cargos mensuales.</p></details>
@@ -438,7 +438,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
   <div class="wrap">
     <span class="eyebrow" style="color:var(--gold-lt);">Tu primera pieza te espera</span>
     <h2>Empezá hoy con tu Brillo Propio</h2>
-    <p>Una guía, más de 60 diseños para imprimir y 4 bonos, para que bordes tus primeros accesorios y los puedas ofrecer cuando estés lista o listo.</p>
+    <p>Una guía con el método de bordado hindú y 4 bonos, para que bordes tus primeros accesorios aunque nunca hayas bordado antes.</p>
     <div class="price">{{price}}</div>
     <p class="once" style="color:#ecd9e3;">Pago único · Acceso inmediato · Garantía de 7 días</p>
     <a class="btn cta" href="/checkout">Quiero empezar por {{price}}<small>Acceso inmediato por correo</small></a>
@@ -447,7 +447,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
 
 <footer>
   <div class="wrap">
-    <p><strong>Brillo Propio</strong> · Guía digital de bordado con pedrería e hilos</p>
+    <p><strong>Brillo Propio</strong> · Guía digital · Método de bordado hindú con pedrería e hilos</p>
     <p><a href="#" class="todo">[TÉRMINOS Y CONDICIONES]</a><a href="#" class="todo">[POLÍTICA DE PRIVACIDAD]</a><a href="#" class="todo">[CONTACTO]</a></p>
     <p style="max-width:720px;margin:12px auto 0;">Brillo Propio es una guía educativa digital. Los resultados dependen de la dedicación, la práctica y la gestión de ventas de cada persona; no garantizamos ingresos ni resultados económicos. Las imágenes son ilustrativas. Este sitio no es parte de Facebook ni de Meta Platforms, Inc.</p>
     <p>© <span id="yr">2026</span> Brillo Propio. Todos los derechos reservados.</p>
