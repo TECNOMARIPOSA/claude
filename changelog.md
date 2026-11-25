@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (imagen de la oferta completa)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-oferta-completa.webp — imagen 1:1 (1600×1600) con la oferta completa de «Brillo Propio» en la estructura de la referencia aportada (título y cápsula, tarjeta diseño→pieza, pila de portadas de la guía y los 5 bonos, insignia «+60 diseños para imprimir», tres viñetas, barra de 5 bonos y línea de garantías). Sin precio ni urgencia. Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos. Imagen generada con IA; los 60 diseños y los 5 bonos tienen que existir al lanzar.
+
 ## 2026-11-25 (Bono 5 v2)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono5-primeros-clientes.webp reemplazado: aros en seis familias de color (esmeralda, azul zafiro, rosa, lila, coral y plata con cristal), íconos de Instagram, Facebook y Mercado Libre en la portada y en la pantalla del celular para indicar los canales de venta que se enseñan (16:9, 1600×905; Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Los íconos son recreaciones hechas por IA, no los archivos oficiales de las marcas. La versión anterior queda en el historial de git.
