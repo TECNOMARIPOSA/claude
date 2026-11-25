@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (imagen del hero)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-hero-aros-collage.webp — collage de aros bordados para el hero de «Brillo Propio» (4:5, 1200×1500; original 1792×2240 generado en Higgsfield con GPT Image 2.6, calidad alta 2K, 2 créditos). Imagen generada con IA, diseños originales; usar con el aviso «imágenes ilustrativas».
+
 ## 2026-11-24 (versión B de la landing)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-24-landing-brillo-propio-joyeria.txt — versión B «Joyería bordada»: core con aros, collares, pulseras, pines y llaveros; 5 bonos (cabello; carteras y apliques; errores; kit de venta; primeros clientes en Mercado Libre y redes); hero más corto. La versión A queda intacta para el test; enlazada en WIKI/index.md. Ajuste: foto bajo el título y tics bajo la foto, sin botón en el hero, botones de compra solo desde los bonos.
