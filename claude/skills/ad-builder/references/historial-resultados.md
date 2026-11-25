@@ -155,3 +155,21 @@ Hipótesis a revisar primero (no conclusiones): (1) la carga de la landing (84% 
 **Lectura por anuncio — H09 «Despeja la mente pintando» (4:5), 3 días, datos del usuario:** gasto 27 USD · 83 clics · 70 visitas a la página · 6 pagos iniciados · 1 venta (15 USD) · CPC 0,31 · conversión 1,43% (1÷70 ✓) · ROAS 15÷27 = 0,56x · CPA 27 USD.
 Embudo: 83 clics → 70 visitas (84%) → 6 pagos iniciados (8,6% de las visitas) → 1 compra (**16,7% de los inicios; la referencia de `WIKI/diagnostico-de-checkout.md` es 25–30%**). Costo por pago iniciado ≈ 4,50 USD.
 Conclusión provisoria: el anuncio sí trae tráfico que llega al pago (6 inicios con 27 USD); **la fuga está entre «pago iniciado» y «compra»**, no en el clic. Muestra: 6 inicios; no es concluyente. Esta lectura sustituye a la lectura agregada anterior (30 USD / 84 visitas), cuyas cifras no cuadraban con esta.
+
+
+## ARG · Brillo Propio
+
+- **Dashboard:** — · **Idioma / mercado:** español rioplatense, Argentina
+- **Ticket front:** 14.900 ARS · AOV real: — · CPA medio: 7.450 ARS (ticket ÷ 2) · CPA break-even: — (faltan las comisiones)
+- **Compliance:** nicho dinero/manualidades: sin promesa de ingresos ni cifras; solo citas reales; sin «miles de personas»; correr aislado de la cuenta que sostiene la facturación
+
+| Fecha | ID | Ángulo | NC | Formato | Hook (resumen) | Spend | Ventas | CPA | ROAS | CTR | Hook rate | Veredicto |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 25/11 | texto A | TRA | N2 | texto | «De un dibujo en una hoja a una pieza que podés llevar puesta» | — | — | — | — | — | — | sin correr |
+| 25/11 | texto B | SIM | N2 | texto | «Si nunca bordaste, este es un buen lugar para empezar» | — | — | — | — | — | — | sin correr |
+| 25/11 | texto C | REG | N2 | texto | «Este fin de año, regalá algo hecho por vos» | — | — | — | — | — | — | sin correr |
+
+**Aprendido:**
+- 25/11: tres textos modelados desde el anuncio de video de CasaFeliz (punch needle, 64 s, ángulo ECO + SIM con historia de pedidos). Se tomó la estructura y se cambió ángulo, protagonista, prueba y cierre. Archivos en `CREATIVOS/entregas/2026-11-25/ARG-brillo-propio/`; audio transcripto en `CREATIVOS/swipe/`. Falta asignar IDs completos cuando haya creativo (imagen o video).
+
+**Sin atribuir:** —

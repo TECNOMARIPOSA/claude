@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (textos del anuncio de Brillo Propio)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** CREATIVOS/entregas/2026-11-25/ARG-brillo-propio/251125_brillo-propio_textos-meta.md — tres textos para Meta (TRA, SIM y REG) modelados desde un anuncio de la competencia en Argentina y diferenciados en producto, entrada, prueba y cierre. CREATIVOS/swipe/2026-11-25-casafeliz-punch-needle-audio.txt — audio del video de referencia transcripto, con diagnóstico. Historial de la skill: bloque «ARG · Brillo Propio». No se hizo guion de video: el usuario pidió solo el texto.
+
 ## 2026-11-25 (galería «Mirá lo que vas a poder crear», lote 2)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-galeria-vincha-hebilla-perlas, -aros-dije-corazon y -pulsera-libelula (.webp, 1:1, 1400×1400) — reinterpretaciones originales y nítidas de las piezas del segundo lote (vincha y hebilla de perlas, par de aros, dije de corazón, pulsera alargada y libélula plana), fusionadas en tres imágenes. Higgsfield, GPT Image 2.6, calidad alta 2K, 6 créditos (12 entre los dos lotes). Sin usar las fotos aportadas como entrada y sin la marca de agua de una de ellas. La galería queda con seis imágenes más una de pines sobre campera; falta una imagen de cartera o clutch.

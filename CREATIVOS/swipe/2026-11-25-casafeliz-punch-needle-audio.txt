@@ -1,0 +1,49 @@
+SWIPE · Anuncio en video, Argentina — marca de agua «CasaFeliz» (Bienestar · Familia · Creatividad)
+Fecha de registro: 2026-11-25
+Fuente: video aportado por el usuario (64 s, 9:16, con voz en off y subtítulos en pantalla)
+Producto del anuncio: bordado «ruso» con aguja mágica (punch needle): piezas con relieve, tipo posavasos, fundas de celular y cuadros
+Uso: solo para aprender estructura y ángulo. No se reutiliza su material ni su texto (CREATIVOS: nunca rippear ads ajenos).
+
+==============================================================
+1. AUDIO EN ESCRITO (voz en off)
+==============================================================
+Transcripción automática hecha con un modelo local (Whisper «base») y revisada. Lo que va entre
+corchetes es una corrección o una duda: conviene escuchar esos tramos para confirmarlos.
+
+[00:00–00:05] Aunque no lo creas, todos estos pedidos empezaron con una sola pieza que hice en casa para practicar.
+[00:05–00:10] Nunca había bordado [la transcripción dice «abordado»], no sabía dibujar y tampoco pensaba que fuera buena para las manualidades.
+[00:10–00:16] Pero encontré el método de Mariana, [tramo dudoso: la transcripción dice «el eje uno de los moldes»] y empecé siguiendo el paso a paso desde cero.
+[00:16–00:21] Primero transferí el diseño a la tela, marqué el contorno con la aguja mágica y después fui rellenándolo.
+[00:21–00:27] Cuando terminé mi primera pieza, le saqué una foto y la publiqué en mis estados, simplemente para mostrar lo que había hecho.
+[00:27–00:32] Ese mismo día empezaron a preguntarme si la vendía y si podía hacer diseños personalizados.
+[00:32–00:37] Primero llegó un pedido, después otro, y ahora estoy preparando todas estas piezas para entregar.
+[00:37–00:46] Todavía me cuesta creer que algo que empecé para practicar y despejarme también se haya convertido en una forma de generar un ingreso extra desde casa.
+[00:46–00:53] Dentro del método de Mariana, aprendés todo paso a paso y también encontrás más de 100 moldes listos para calcar.
+[00:53–00:58] Una guía de materiales y herramientas [tramo dudoso] para calcular el precio de tus piezas y empezar a venderlas.
+[00:58–01:04] Si vos también querés aprender bordado ruso desde cero y crear tus primeras piezas, hacé clic en más información.
+
+Texto principal del anuncio (aportado por el usuario):
+«Miles de personas ya descubrieron cómo transformar el bordado ruso en piezas hermosas y en una forma de generar ingresos desde casa. Aunque empieces completamente desde cero, vas a aprender paso a paso a crear: ajuar para bebés y decoración infantil, cuadros decorativos, almohadones personalizados, llaveros y souvenirs, carteras, posavasos y mucho más. Todo explicado de manera simple para que puedas crear tus primeras piezas rápidamente y empezar a vender tus propias creaciones. Una actividad creativa y terapéutica que puede convertirse en un emprendimiento rentable, hecho desde casa y a tu ritmo.»
+
+==============================================================
+2. DIAGNÓSTICO: POR QUÉ ESTÁ ARMADO ASÍ
+==============================================================
+Estructura (los 7 pasos de WIKI/guiones-de-video-ads.md):
+  1. Hook (0–5 s) ........ prueba primero: «todos estos pedidos» con una caja llena de piezas. Curiosidad + resultado.
+  2. Re-hook (5–10 s) .... tres objeciones juntas: nunca bordó, no sabe dibujar, no es buena para manualidades.
+  3. Producto (10–16 s) .. «el método de Mariana», paso a paso desde cero.
+  4. Mecánica (16–21 s) .. transferir el diseño, marcar el contorno con la aguja mágica, rellenar.
+  5. Historia (21–37 s) .. foto en estados → preguntan si la vende → primer pedido, después otro.
+  6. Payoff (37–46 s) .... «ingreso extra desde casa».
+  7. Oferta + CTA (46–64 s) más de 100 moldes, guía de materiales y herramientas, cómo calcular el precio; «hacé clic en más información».
+
+Ángulo dominante: ECO (ganar dinero con el oficio) apoyado en SIM (sin experiencia).
+Nivel de conciencia: N2–N3.
+Formato: VOZ (voz en off) + b-roll de pedidos y de proceso, con subtítulos y marca de agua.
+Protagonista: una narradora en primera persona («Mariana») que cuenta pedidos propios.
+
+Puntos que NO se heredan:
+  - Los «pedidos» y el «ingreso extra» en primera persona son prueba social con cifras implícitas. Sin citas reales, no se redacta.
+  - «Miles de personas» es una cifra que no tenemos.
+  - «Actividad terapéutica» roza una promesa de bienestar/salud.
+  - Los claims de ingresos con manualidades son la causa más común de rechazo en Meta.
