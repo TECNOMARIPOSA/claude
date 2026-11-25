@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (Bono 5 v2)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono5-primeros-clientes.webp reemplazado: aros en seis familias de color (esmeralda, azul zafiro, rosa, lila, coral y plata con cristal), íconos de Instagram, Facebook y Mercado Libre en la portada y en la pantalla del celular para indicar los canales de venta que se enseñan (16:9, 1600×905; Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Los íconos son recreaciones hechas por IA, no los archivos oficiales de las marcas. La versión anterior queda en el historial de git.
+
 ## 2026-11-25 (Bono 1 v2)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono1-cabello.webp reemplazado: vincha amatista y dorada, hebilla rectangular de hojas esmeralda y verde azulado, hebilla ovalada de flor rosa y una tiara sencilla de plata con pocos cristales, cada pieza con color y diseño propios (16:9, 1600×905; Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). La versión anterior (todo ámbar y dorado, con corona recargada) queda en el historial de git.
