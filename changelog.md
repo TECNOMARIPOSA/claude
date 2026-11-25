@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (Bono 1 v2)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono1-cabello.webp reemplazado: vincha amatista y dorada, hebilla rectangular de hojas esmeralda y verde azulado, hebilla ovalada de flor rosa y una tiara sencilla de plata con pocos cristales, cada pieza con color y diseño propios (16:9, 1600×905; Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). La versión anterior (todo ámbar y dorado, con corona recargada) queda en el historial de git.
+
 ## 2026-11-25 (mockups de los 5 bonos)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono1…bono5 (.webp, 16:9, 1600×905) — portadas en tablet de los cinco bonos (cabello; carteras y apliques; errores comunes; kit de venta; primeros clientes) con props de cada tema, en la misma línea visual que la portada de la guía. Higgsfield, GPT Image 2.6, calidad alta 2K, 10 créditos (2 por imagen). Imágenes generadas con IA; los bonos tienen que existir al lanzar.
