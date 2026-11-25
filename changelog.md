@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (mockups de los 5 bonos)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-bono1…bono5 (.webp, 16:9, 1600×905) — portadas en tablet de los cinco bonos (cabello; carteras y apliques; errores comunes; kit de venta; primeros clientes) con props de cada tema, en la misma línea visual que la portada de la guía. Higgsfield, GPT Image 2.6, calidad alta 2K, 10 créditos (2 por imagen). Imágenes generadas con IA; los bonos tienen que existir al lanzar.
+
 ## 2026-11-25 (Parte 3 en abanico)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-guia-parte3-abanico.webp — las tres hojas imprimibles de muestra (mariposa, tira de pulsera y dije) en una sola imagen 4:5 sobre satén ciruela, con mostacillas, lápiz y aguja (original 1792×2240 en Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Es un mockup ilustrativo; los más de 60 diseños hay que producirlos aparte.
