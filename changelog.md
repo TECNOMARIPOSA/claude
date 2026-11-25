@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (Parte 3 en abanico)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-guia-parte3-abanico.webp — las tres hojas imprimibles de muestra (mariposa, tira de pulsera y dije) en una sola imagen 4:5 sobre satén ciruela, con mostacillas, lápiz y aguja (original 1792×2240 en Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Es un mockup ilustrativo; los más de 60 diseños hay que producirlos aparte.
+
 ## 2026-11-25 (imágenes de «Qué incluye la guía principal»)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/ — portada de la guía en tablet (brillo-propio-guia-portada-tablet), Parte 1 (páginas internas con mostacillas y agujas), Parte 2 (mujer bordando aros con página paso a paso) y Parte 3 (tres hojas imprimibles de muestra: mariposa, tira de pulsera y dije, con contorno y mapa de cuentas), todas con la marca Brillo Propio y su paleta. Higgsfield, GPT Image 2.6, calidad alta 2K, 12 créditos en total (2 por imagen). Imágenes generadas con IA, diseños originales y sin usar las páginas de referencia como entrada; son ilustrativas y los diseños son muestras (los imprimibles finales y los más de 60 diseños hay que producirlos aparte).
