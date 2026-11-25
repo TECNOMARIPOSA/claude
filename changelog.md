@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (galería «Mirá lo que vas a poder crear», lote 1)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-galeria-insectos-pines, -mar-llavero-pin y -gargantilla-dorada (.webp, 1:1, 1400×1400) — reinterpretaciones originales y nítidas de cinco piezas aportadas (libélula, mariposa, estrella de mar, pez y gargantilla), fusionadas en tres imágenes y mostradas como pines sobre campera, llavero y pin, y collar. Higgsfield, GPT Image 2.6, calidad alta 2K, 6 créditos. Sin usar las fotos aportadas como entrada. Faltan las piezas restantes.
+
 ## 2026-11-25 (imagen de la oferta completa)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-oferta-completa.webp — imagen 1:1 (1600×1600) con la oferta completa de «Brillo Propio» en la estructura de la referencia aportada (título y cápsula, tarjeta diseño→pieza, pila de portadas de la guía y los 5 bonos, insignia «+60 diseños para imprimir», tres viñetas, barra de 5 bonos y línea de garantías). Sin precio ni urgencia. Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos. Imagen generada con IA; los 60 diseños y los 5 bonos tienen que existir al lanzar.
