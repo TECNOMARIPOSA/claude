@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-25 (hero con pieza para principiantes)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/landing-imagenes/brillo-propio-hero-mano-ciruela-llavero.webp — misma escena del hero con mano sobre satén ciruela, más un llavero redondo sencillo (perla central y un anillo de mostacillas) como pieza de nivel principiante (4:5, 1200×1500; original 1792×2240 en Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Imagen generada con IA: usar con el aviso «imágenes ilustrativas».
+
 ## 2026-11-25 (imagen del hero con mano)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/landing-imagenes/brillo-propio-hero-mano-ciruela.webp — hero alternativo de «Brillo Propio»: aros medallón ámbar (referencia propia), aros mariposa y broche de abeja originales, mano sosteniendo una pieza, bowl de mostacillas y aguja con pieza a medio bordar, sobre satén ciruela claro (4:5, 1200×1500; original 1792×2240 en Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos). Imagen generada con IA: usar con el aviso «imágenes ilustrativas».
