@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26 (audios de los tres videos y audios modelados)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** CREATIVOS/swipe/2026-11-25-casafeliz-punch-needle-audio.txt — ahora con el audio transcripto de los tres videos de CasaFeliz (el video 1 corregido) y su diagnóstico. CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/261126_brillo-propio_audios-modelados.md — tres textos de voz en off (TRA-N2_VOZ_H01, DIR-N4_VOZ_H02 y SIM-N3_VOZ_H03) modelados para el método de bordado hindú, sin cifras ni pedidos. Historial de la skill: tres filas nuevas en «ARG · Brillo Propio».
+
 ## 2026-11-25 (textos del anuncio de Brillo Propio)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** CREATIVOS/entregas/2026-11-25/ARG-brillo-propio/251125_brillo-propio_textos-meta.md — tres textos para Meta (TRA, SIM y REG) modelados desde un anuncio de la competencia en Argentina y diferenciados en producto, entrada, prueba y cierre. CREATIVOS/swipe/2026-11-25-casafeliz-punch-needle-audio.txt — audio del video de referencia transcripto, con diagnóstico. Historial de la skill: bloque «ARG · Brillo Propio». No se hizo guion de video: el usuario pidió solo el texto.

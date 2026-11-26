@@ -168,8 +168,12 @@ Conclusión provisoria: el anuncio sí trae tráfico que llega al pago (6 inicio
 | 25/11 | texto A | TRA | N2 | texto | «De un dibujo en una hoja a una pieza que podés llevar puesta» | — | — | — | — | — | — | sin correr |
 | 25/11 | texto B | SIM | N2 | texto | «Si nunca bordaste, este es un buen lugar para empezar» | — | — | — | — | — | — | sin correr |
 | 25/11 | texto C | REG | N2 | texto | «Este fin de año, regalá algo hecho por vos» | — | — | — | — | — | — | sin correr |
+| 26/11 | TRA-N2_VOZ_H01_v1 | TRA | N2 | VOZ | «De un dibujo en una hoja a una pieza que podés llevar puesta» | — | — | — | — | — | — | sin correr |
+| 26/11 | DIR-N4_VOZ_H02_v1 | DIR | N4 | VOZ | «Aprendé joyería bordada desde cero… tu primera pieza esta semana» | — | — | — | — | — | — | sin correr |
+| 26/11 | SIM-N3_VOZ_H03_v1 | SIM | N3 | VOZ | «Si te gustaría aprender algo nuevo con las manos, desde casa» | — | — | — | — | — | — | sin correr |
 
 **Aprendido:**
+- 26/11: tres audios de voz en off (H01–H03, ~53–61 s) modelados desde los tres videos de CasaFeliz (64, 101 y 75 s). Mismo cuerpo, distinta entrada. Se descartó todo lo que el producto no tiene (certificado, soporte, Excel, proveedores, 10 tutoriales, descuento) y toda prueba con cifras. Archivos en `CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/`.
 - 25/11: tres textos modelados desde el anuncio de video de CasaFeliz (punch needle, 64 s, ángulo ECO + SIM con historia de pedidos). Se tomó la estructura y se cambió ángulo, protagonista, prueba y cierre. Archivos en `CREATIVOS/entregas/2026-11-25/ARG-brillo-propio/`; audio transcripto en `CREATIVOS/swipe/`. Falta asignar IDs completos cuando haya creativo (imagen o video).
 
 **Sin atribuir:** —

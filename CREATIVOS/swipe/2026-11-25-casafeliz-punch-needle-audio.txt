@@ -1,49 +1,76 @@
-SWIPE · Anuncio en video, Argentina — marca de agua «CasaFeliz» (Bienestar · Familia · Creatividad)
-Fecha de registro: 2026-11-25
-Fuente: video aportado por el usuario (64 s, 9:16, con voz en off y subtítulos en pantalla)
-Producto del anuncio: bordado «ruso» con aguja mágica (punch needle): piezas con relieve, tipo posavasos, fundas de celular y cuadros
+SWIPE · 3 anuncios en video, Argentina — marca de agua «CasaFeliz» (Bienestar · Familia · Creatividad)
+Fecha de registro: 2026-11-25 (actualizado 2026-11-26 con los videos 2 y 3)
+Fuente: tres videos aportados por el usuario (video 1: 64 s · video 2: 101 s · video 3: 75 s), todos con voz en off
+Producto de los anuncios: bordado «ruso» con aguja mágica (punch needle), piezas con relieve
 Uso: solo para aprender estructura y ángulo. No se reutiliza su material ni su texto (CREATIVOS: nunca rippear ads ajenos).
 
-==============================================================
-1. AUDIO EN ESCRITO (voz en off)
-==============================================================
-Transcripción automática hecha con un modelo local (Whisper «base») y revisada. Lo que va entre
-corchetes es una corrección o una duda: conviene escuchar esos tramos para confirmarlos.
+Transcripción automática con un modelo local (Whisper «small») y revisada. Lo que va entre corchetes es una
+corrección: conviene escuchar esos tramos para confirmarlos. El video 1 se volvió a transcribir con este
+modelo y reemplaza a la primera versión, que tenía errores («el eje uno de los moldes»).
 
+==============================================================
+VIDEO 1 (64 s) — historia de la primera pieza y los pedidos
+==============================================================
 [00:00–00:05] Aunque no lo creas, todos estos pedidos empezaron con una sola pieza que hice en casa para practicar.
 [00:05–00:10] Nunca había bordado [la transcripción dice «abordado»], no sabía dibujar y tampoco pensaba que fuera buena para las manualidades.
-[00:10–00:16] Pero encontré el método de Mariana, [tramo dudoso: la transcripción dice «el eje uno de los moldes»] y empecé siguiendo el paso a paso desde cero.
-[00:16–00:21] Primero transferí el diseño a la tela, marqué el contorno con la aguja mágica y después fui rellenándolo.
-[00:21–00:27] Cuando terminé mi primera pieza, le saqué una foto y la publiqué en mis estados, simplemente para mostrar lo que había hecho.
+[00:10–00:15] Pero encontré el método de Mariana. Elegí uno de los moldes y empecé siguiendo el paso a paso desde cero.
+[00:15–00:21] Primero transferí el diseño a la tela. Marqué el contorno con la aguja mágica y después fui rellenándolo.
+[00:21–00:27] Cuando terminé mi primera pieza, le saqué una foto y la publiqué en mis estados simplemente para mostrar lo que había hecho.
 [00:27–00:32] Ese mismo día empezaron a preguntarme si la vendía y si podía hacer diseños personalizados.
 [00:32–00:37] Primero llegó un pedido, después otro, y ahora estoy preparando todas estas piezas para entregar.
-[00:37–00:46] Todavía me cuesta creer que algo que empecé para practicar y despejarme también se haya convertido en una forma de generar un ingreso extra desde casa.
-[00:46–00:53] Dentro del método de Mariana, aprendés todo paso a paso y también encontrás más de 100 moldes listos para calcar.
-[00:53–00:58] Una guía de materiales y herramientas [tramo dudoso] para calcular el precio de tus piezas y empezar a venderlas.
+[00:37–00:45] Todavía me cuesta creer que algo que empecé para practicar y despejarme también se haya convertido en una forma de generar un ingreso extra desde casa.
+[00:45–00:52] Dentro del método de Mariana aprendés todo paso a paso y también encontrás más de 100 moldes listos para calcar.
+[00:52–00:58] Una guía de materiales y herramientas para calcular el precio de tus piezas y empezar a venderlas.
 [00:58–01:04] Si vos también querés aprender bordado ruso desde cero y crear tus primeras piezas, hacé clic en más información.
 
-Texto principal del anuncio (aportado por el usuario):
+==============================================================
+VIDEO 2 (101 s) — lista de todo lo que incluye
+==============================================================
+[00:00–00:05] Empecé bordado ruso sin saber nada y para la segunda semana ya tenía 5 pedidos.
+[00:05–00:11] Con el método de Mariana, empezás completamente desde cero, aunque nunca hayas bordado y no sepas dibujar.
+[00:11–00:18] Primero aprendés qué materiales necesitás, cómo preparar y usar la aguja mágica y cómo hacer las puntadas básicas.
+[00:18–00:25] Después avanzás paso a paso hasta crear, personalizar y darle una terminación prolija a tus primeras piezas.
+[00:25–00:37] Podés hacer almohadones, cuadros, espejos, bolsos, accesorios, decoración y un montón de productos diferentes para vos, para regalar o para empezar a vender.
+[00:37–00:46] Y lo mejor es que no necesitás saber dibujar, porque también recibís más de 100 moldes creativos listos para imprimir y transferir a la tela.
+[00:46–00:50] Además, vas a encontrar una guía con proveedores para conseguir los materiales sin gastar de más,
+[00:50–00:59] 10 tutoriales con nuevas ideas para crear y vender y un Excel de costos para calcular cuánto te cuesta cada pieza y a qué precio podés ofrecerla.
+[00:59–01:07] También contás con soporte por WhatsApp para resolver tus dudas y cuando completes la guía, recibís tu certificado de finalización.
+[01:07–01:15] Todo es completamente digital, tenés acceso inmediato y podés aprender desde tu casa y avanzar a tu propio ritmo.
+[01:15–01:21] No necesitás experiencia, saber dibujar ni comprar un montón de materiales para empezar.
+[01:21–01:31] Comenzás desde cero y terminás creando piezas lindas que podés hacer para vos, regalar o convertir en una forma de generar un ingreso extra desde casa.
+[01:31–01:36] Ahora podés acceder al método de Mariana con un 50% de descuento por tiempo limitado.
+[01:36–01:42] Hacé clic en Más información y empezá hoy mismo con tu primera pieza.
+
+==============================================================
+VIDEO 3 (75 s) — motivación, descubrimiento y posibilidades
+==============================================================
+[00:00–00:05] Quería empezar a generar un ingreso extra desde casa, pero no sabía qué podía hacer.
+[00:05–00:11] Buscaba algo que pudiera aprender desde cero, que no necesitara una gran inversión y que pudiera hacer en mis ratitos libres.
+[00:11–00:20] Hasta que descubrí el bordado ruso. Me encantó porque es una técnica fácil de aprender y podés empezar con pocos materiales: una aguja mágica, lana, tela y un bastidor.
+[00:20–00:24] Yo no sabía dibujar, nunca había bordado y tampoco era muy buena para las manualidades.
+[00:24–00:33] Pero con el método de Mariana, los moldes listos para calcar y todo el paso a paso desde cero, pude empezar siendo completamente principiante.
+[00:33–00:38] Cuando conocí mejor el bordado ruso, me sorprendió descubrir la cantidad de cosas que podía crear.
+[00:38–00:47] Desde un simple posavasos [la transcripción dice «posabasos»], hasta almohadones, cuadros, espejos, bolsos, fundas para celulares, pantuflas y un montón de productos personalizados para vender.
+[00:47–00:54] Ahí entendí que no estaba aprendiendo a hacer un solo producto: estaba aprendiendo una técnica con muchísimas posibilidades.
+[00:54–01:03] Además, Mariana te enseña cómo calcular los costos, ponerle precio a tus piezas y empezar a mostrarlas y ofrecerlas en las redes sociales.
+[01:03–01:09] Así podés empezar desde casa, a tu ritmo, creando piezas lindas y generando un ingreso extra con algo hecho por vos.
+[01:09–01:15] Si vos también querés conocer el método de Mariana y aprender bordado ruso desde cero, hacé clic en más información.
+
+==============================================================
+DIAGNÓSTICO
+==============================================================
+Los tres comparten el cuerpo: sin experiencia → método paso a paso → moldes listos → cómo calcular el precio y vender → «ingreso extra desde casa» → CTA «más información». Cambia la entrada:
+
+  Video 1 — prueba primero (pedidos) + historia de la primera pieza. Ángulo ECO + SIM, NC N2–N3, formato VOZ.
+  Video 2 — explicación de todo lo que incluye, con una cifra («5 pedidos en la segunda semana») y una oferta («50% de descuento por tiempo limitado»). Ángulo DIR, NC N4–N5.
+  Video 3 — motivación («quería generar un ingreso extra») y descubrimiento de la técnica como algo con muchas posibilidades. Ángulo ECO + SIM, NC N2–N3.
+
+Lo que NO se hereda:
+  - Pedidos, «5 pedidos en la segunda semana» e «ingreso extra» en primera persona: son pruebas con cifras que no tenemos.
+  - La narradora «Mariana», que es un personaje: no se inventa una persona.
+  - Certificado de finalización, soporte por WhatsApp, 10 tutoriales, Excel de costos y guía de proveedores: el producto no los incluye.
+  - «50% de descuento por tiempo limitado»: no hay precio de referencia ni cierre confirmado.
+  - «Actividad terapéutica» y «miles de personas» del texto del anuncio.
+
+Texto principal del anuncio de la competencia (aportado por el usuario):
 «Miles de personas ya descubrieron cómo transformar el bordado ruso en piezas hermosas y en una forma de generar ingresos desde casa. Aunque empieces completamente desde cero, vas a aprender paso a paso a crear: ajuar para bebés y decoración infantil, cuadros decorativos, almohadones personalizados, llaveros y souvenirs, carteras, posavasos y mucho más. Todo explicado de manera simple para que puedas crear tus primeras piezas rápidamente y empezar a vender tus propias creaciones. Una actividad creativa y terapéutica que puede convertirse en un emprendimiento rentable, hecho desde casa y a tu ritmo.»
-
-==============================================================
-2. DIAGNÓSTICO: POR QUÉ ESTÁ ARMADO ASÍ
-==============================================================
-Estructura (los 7 pasos de WIKI/guiones-de-video-ads.md):
-  1. Hook (0–5 s) ........ prueba primero: «todos estos pedidos» con una caja llena de piezas. Curiosidad + resultado.
-  2. Re-hook (5–10 s) .... tres objeciones juntas: nunca bordó, no sabe dibujar, no es buena para manualidades.
-  3. Producto (10–16 s) .. «el método de Mariana», paso a paso desde cero.
-  4. Mecánica (16–21 s) .. transferir el diseño, marcar el contorno con la aguja mágica, rellenar.
-  5. Historia (21–37 s) .. foto en estados → preguntan si la vende → primer pedido, después otro.
-  6. Payoff (37–46 s) .... «ingreso extra desde casa».
-  7. Oferta + CTA (46–64 s) más de 100 moldes, guía de materiales y herramientas, cómo calcular el precio; «hacé clic en más información».
-
-Ángulo dominante: ECO (ganar dinero con el oficio) apoyado en SIM (sin experiencia).
-Nivel de conciencia: N2–N3.
-Formato: VOZ (voz en off) + b-roll de pedidos y de proceso, con subtítulos y marca de agua.
-Protagonista: una narradora en primera persona («Mariana») que cuenta pedidos propios.
-
-Puntos que NO se heredan:
-  - Los «pedidos» y el «ingreso extra» en primera persona son prueba social con cifras implícitas. Sin citas reales, no se redacta.
-  - «Miles de personas» es una cifra que no tenemos.
-  - «Actividad terapéutica» roza una promesa de bienestar/salud.
-  - Los claims de ingresos con manualidades son la causa más común de rechazo en Meta.
