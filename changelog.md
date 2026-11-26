@@ -2,7 +2,7 @@
 
 ## 2026-11-26 (landing v3)
 **Procesado:** ninguno de RAW/ (producción de entregable)
-**Cambios:** OUTPUTS/2026-11-26-landing-brillo-propio-joyeria-v3.txt — sobre la versión B editada por el usuario: precio original tachado ({{original_price}}, con respaldo a 29.900), valores tachados de los bonos (8.900, 9.900, 5.900, 8.900, 9.900) en las tarjetas, la oferta y el resumen, comparativa «por separado 73.400 / hoy 14.900 / te ahorrás 58.500», sección de resumen de la oferta con espacio para la imagen de la oferta completa, sin los marcadores [OTROS MEDIOS], [EMAIL_CONTACTO] y los enlaces legales (quedan como comentarios), sección de tarjetas con su contenedor y alt de la foto 6 corregido.
+**Cambios:** OUTPUTS/2026-11-26-landing-brillo-propio-joyeria-v3.txt — sobre la versión B editada por el usuario: precio original tachado ({{original_price}}, con respaldo a 29.900), valores tachados de los bonos (8.900, 9.900, 5.900, 8.900, 9.900) en las tarjetas, la oferta y el resumen, comparativa «por separado 73.400 / hoy 14.900 / te ahorrás 58.500», sección de resumen de la oferta con espacio para la imagen de la oferta completa, sin los marcadores [OTROS MEDIOS], [EMAIL_CONTACTO] y los enlaces legales (quedan como comentarios), sección de tarjetas con su contenedor y alt de la foto 6 corregido. Se quitó la frase «Fotos de piezas hechas con las puntadas y los diseños de la guía» de la galería.
 
 ## 2026-11-26 (audios de los tres videos y audios modelados)
 **Procesado:** ninguno de RAW/ (producción de entregable)

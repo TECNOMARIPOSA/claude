@@ -88,7 +88,7 @@ h3{font-size:20px;}
 .incl-tag{display:inline-block;margin-top:10px;font-size:13px;font-weight:700;color:var(--green);background:var(--green-bg);padding:4px 12px;border-radius:999px;}
 @media(min-width:860px){.inc{grid-template-columns:repeat(3,1fr);}}
 /* galería */
-.gallery{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+.gallery{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:26px;}
 @media(min-width:760px){.gallery{grid-template-columns:repeat(3,1fr);}}
 /* pasos */
 .steps{counter-reset:s;display:grid;gap:14px;}
@@ -243,7 +243,6 @@ footer a{color:#e6cfb8;margin:0 8px;}
   <div class="wrap">
     <span class="eyebrow">Mirá algunas ilustraciones de lo que vas a poder crear</span>
     <h2>Joyería y accesorios que vas a poder bordar vos</h2>
-    <p class="lead">Fotos de piezas hechas con las puntadas y los diseños de la guía.</p>
     <!-- 6 FOTOS: usar solo piezas realmente hechas con la guía -->
     <div class="gallery">
       <figure class="ph r-1x1" data-label="FOTO 1 · aros bordados"><img src="https://cdn.impultienda.ar/store-resources/d0cc1544-0e57-454b-9ca6-7082279e27af/1795659410890_brillo-propio-galeria-aros-dije-corazon.webp" alt="Aros bordados con pedrería" loading="lazy"></figure>
