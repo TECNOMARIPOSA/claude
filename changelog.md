@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26 (tres mosaicos adaptados de una referencia de LATAM)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/ — tres anuncios estáticos de mosaico (DIR-N4_MOS_H04 y H05 en 1:1, VEL-N2_MOS_H06 en 4:5, 1440 px) más NOMBRES-ANUNCIOS-261126-mosaicos.txt; historial de la skill actualizado. Higgsfield, GPT Image 2.6, calidad alta 2K, 6 créditos. Sin precio ni promesa de ingresos.
+
 ## 2026-11-26 (landing v3)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-26-landing-brillo-propio-joyeria-v3.txt — sobre la versión B editada por el usuario: precio original tachado ({{original_price}}, con respaldo a 29.900), valores tachados de los bonos (8.900, 9.900, 5.900, 8.900, 9.900) en las tarjetas, la oferta y el resumen, comparativa «por separado 73.400 / hoy 14.900 / te ahorrás 58.500», sección de resumen de la oferta con espacio para la imagen de la oferta completa, sin los marcadores [OTROS MEDIOS], [EMAIL_CONTACTO] y los enlaces legales (quedan como comentarios), sección de tarjetas con su contenedor y alt de la foto 6 corregido. Se quitó la frase «Fotos de piezas hechas con las puntadas y los diseños de la guía» de la galería. Hero: «…para usar, regalar o, si querés, vender». Ahorro con {{savings}} en la oferta y totales del resumen calculados por script con el precio vigente.
