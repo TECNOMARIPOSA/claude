@@ -6,7 +6,7 @@
 <title>Brillo Propio — Joyería bordada con el método de bordado hindú</title>
 <meta name="description" content="Aprendé el método de bordado hindú y creá joyería y accesorios bordados con pedrería y mostacillas: aros, collares, pulseras, pines y llaveros, aunque nunca hayas bordado antes. Guía digital paso a paso, con más de 60 diseños para imprimir. Acceso inmediato por correo. Garantía de 7 días.">
 <!-- META PIXEL: pegá acá tu código base del Pixel (PageView) -->
-<!-- PRECIOS: {{price}} y {{original_price}} los reemplaza la plataforma por el valor formateado. Configurá el producto en Impultienda con precio 14.900 y precio original 29.900 ARS. No escribir símbolos de moneda al lado del token. Los valores de los bonos (8.900, 9.900, 5.900, 8.900 y 9.900) y los totales (73.400 por separado, 58.500 de ahorro) están escritos a mano: si cambia algún precio, hay que actualizarlos. -->
+<!-- PRECIOS: {{price}} y {{original_price}} los reemplaza la plataforma por el valor formateado. Configurá el producto en Impultienda con precio 14.900 y precio original 29.900 ARS. No escribir símbolos de moneda al lado del token. {{savings}} muestra el ahorro de la guía sola. Los valores de los bonos (8.900, 9.900, 5.900, 8.900 y 9.900) están escritos a mano. «Todo por separado» y «Te ahorrás» del resumen se calculan solos con el script a partir de {{price}}, {{original_price}} y esos valores, así que siguen bien si cambiás el precio en Impultienda. -->
 <!-- CHECKOUT: todos los botones (.cta) apuntan a /checkout, igual que las landings anteriores de este proyecto. Cambiá el href si usás otro link. -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -156,6 +156,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
 .stk .p small{display:block;font-family:'Inter',sans-serif;font-weight:500;font-size:11px;color:var(--soft);}
 .stk .btn{padding:13px 22px;font-size:16px;}
 /* precios tachados y comparativa */
+.save-line{font-weight:700;color:var(--green);font-size:15px;margin-bottom:6px;}
 .price-was{font-size:22px;color:var(--soft);margin-top:12px;line-height:1;}
 .price-was s{text-decoration-thickness:2px;}
 .final .price-was{color:#ecd9e3;}
@@ -188,7 +189,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
 <header class="hero">
   <div class="wrap hero-stack">
     <h1>Aprendé a crear <em>joyería bordada</em> con el Método de Bordado Hindú, y tené tu primera pieza esta semana</h1>
-    <p class="sub">Aunque nunca hayas bordado antes. Joyería y accesorios con pedrería y mostacillas: aros, collares, pulseras, pines y llaveros, paso a paso y desde tu casa, para sumar un ingreso extra.</p>
+    <p class="sub">Aunque nunca hayas bordado antes. Joyería y accesorios con pedrería y mostacillas: aros, collares, pulseras, pines y llaveros, paso a paso y desde tu casa, para usar, regalar o, si querés, vender.</p>
     <!-- IMAGEN HERO: joyería bordada terminada (aros, collar, pulsera) sobre fondo neutro, 4:5 -->
     <figure class="ph r-4x5 hero-img" data-label="FOTO HERO · joyería bordada terminada (4:5)"><img src="https://cdn.impultienda.ar/store-resources/d0cc1544-0e57-454b-9ca6-7082279e27af/1795659570702_brillo-propio-hero-mano-ciruela-llavero.webp" alt="Joyería bordada con pedrería y mostacillas" loading="eager"></figure>
     <ul>
@@ -372,6 +373,7 @@ footer a{color:#e6cfb8;margin:0 8px;}
       </div>
       <div class="price-was"><s class="js-orig">{{original_price}}</s></div>
       <div class="price">{{price}}</div>
+      <p class="save-line">Te ahorrás {{savings}} en la guía</p>
       <p class="once">Pago único · Acceso inmediato · Sin suscripción</p>
       <ul class="checklist">
         <li><span>Parte 1 · Materiales y guía de puntadas</span></li>
@@ -434,13 +436,13 @@ footer a{color:#e6cfb8;margin:0 8px;}
         <tr><td>Bono 3 · Errores comunes y cómo arreglarlos</td><td><s>$5.900</s></td></tr>
         <tr><td>Bono 4 · Kit de venta: precio justo y fotos</td><td><s>$8.900</s></td></tr>
         <tr><td>Bono 5 · Primeros clientes: Mercado Libre y redes</td><td><s>$9.900</s></td></tr>
-        <tr class="total"><td>Todo por separado</td><td><s>$73.400</s></td></tr>
+        <tr class="total"><td>Todo por separado</td><td><s id="sum-total">$73.400</s></td></tr>
       </table>
       <div class="cmp">
-        <div class="before">Por separado<b>$73.400</b></div>
+        <div class="before">Por separado<b id="sum-before">$73.400</b></div>
         <div class="after">Hoy, pago único<b>{{price}}</b></div>
       </div>
-      <p class="save">Te ahorrás $58.500</p>
+      <p class="save">Te ahorrás <span id="sum-save">$58.500</span></p>
       <p class="refnote">Los valores tachados son valores de referencia de cada contenido por separado.</p>
       <p style="margin-top:18px;"><a class="btn btn-block cta" href="/checkout">Quiero empezar con Brillo Propio<small>Pago único de {{price}} · Acceso inmediato por correo</small></a></p>
     </div>
@@ -520,6 +522,21 @@ footer a{color:#e6cfb8;margin:0 8px;}
   document.querySelectorAll('.js-orig').forEach(function(e){
     if(e.textContent.indexOf('{{')>-1){e.textContent='$29.900';}
   });
+
+  /* totales del resumen: se calculan con el precio vigente (price + original_price + valor de los bonos), así siguen bien si el precio cambia */
+  (function(){
+    function num(t){var m=String(t).match(/[\d.,]+/);if(!m)return NaN;var x=m[0];x=x.indexOf(',')>-1?x.replace(/\./g,'').replace(',','.'):x.replace(/\./g,'');return parseFloat(x);}
+    var pe=document.querySelector('.offer-card .price'), oe=document.querySelector('.js-orig');
+    if(!pe||!oe){return;}
+    var ptxt=pe.textContent.trim(), price=num(ptxt), orig=num(oe.textContent), bon=0;
+    document.querySelectorAll('.bonuses .bval s').forEach(function(e){bon+=num(e.textContent)||0;});
+    if(isNaN(price)||isNaN(orig)||!bon){return;}
+    var sym=(ptxt.match(/^[^\d]*/)||[''])[0];
+    var fmt=function(n){return sym+String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');};
+    var total=orig+bon;
+    var a=document.getElementById('sum-total'),b=document.getElementById('sum-before'),c=document.getElementById('sum-save');
+    if(a){a.textContent=fmt(total);} if(b){b.textContent=fmt(total);} if(c){c.textContent=fmt(total-price);}
+  })();
 
   /* espacios de imagen: marcar los completos, ocultar vacíos si EDIT=false */
   document.querySelectorAll('.ph').forEach(function(f){
