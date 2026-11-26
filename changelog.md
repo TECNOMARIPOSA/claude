@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26 (landing v3)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-26-landing-brillo-propio-joyeria-v3.txt — sobre la versión B editada por el usuario: precio original tachado ({{original_price}}, con respaldo a 29.900), valores tachados de los bonos (8.900, 9.900, 5.900, 8.900, 9.900) en las tarjetas, la oferta y el resumen, comparativa «por separado 73.400 / hoy 14.900 / te ahorrás 58.500», sección de resumen de la oferta con espacio para la imagen de la oferta completa, sin los marcadores [OTROS MEDIOS], [EMAIL_CONTACTO] y los enlaces legales (quedan como comentarios), sección de tarjetas con su contenedor y alt de la foto 6 corregido.
+
 ## 2026-11-26 (audios de los tres videos y audios modelados)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** CREATIVOS/swipe/2026-11-25-casafeliz-punch-needle-audio.txt — ahora con el audio transcripto de los tres videos de CasaFeliz (el video 1 corregido) y su diagnóstico. CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/261126_brillo-propio_audios-modelados.md — tres textos de voz en off (TRA-N2_VOZ_H01, DIR-N4_VOZ_H02 y SIM-N3_VOZ_H03) modelados para el método de bordado hindú, sin cifras ni pedidos. Historial de la skill: tres filas nuevas en «ARG · Brillo Propio».
