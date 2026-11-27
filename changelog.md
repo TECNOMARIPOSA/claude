@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-27 (cuarto mosaico: abejita, corazón, flor y cerezas)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** CREATIVOS/entregas/2026-11-27/ARG-brillo-propio/261127_brillo-propio_SIM-N3_MOS_H07_v1_11.png (1:1, 1440 px) y NOMBRES-ANUNCIOS-261127-mosaico.txt; historial de la skill actualizado. Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos. Sin precio ni promesa de ingresos.
+
 ## 2026-11-26 (tres mosaicos adaptados de una referencia de LATAM)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/ — tres anuncios estáticos de mosaico (DIR-N4_MOS_H04, H05 y VEL-N2_MOS_H06, los tres en 1:1 y 1440 px; la versión de H06 en 4:5 se reemplazó por una en 1:1, +2 créditos) más NOMBRES-ANUNCIOS-261126-mosaicos.txt; historial de la skill actualizado. Higgsfield, GPT Image 2.6, calidad alta 2K, 6 créditos. Sin precio ni promesa de ingresos.
