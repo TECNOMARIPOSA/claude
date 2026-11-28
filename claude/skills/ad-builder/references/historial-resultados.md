@@ -27,6 +27,26 @@ Plantilla del bloque:
 | | | | | | | | | | | | | |
 
 **Aprendido:**
+- H20, día 2 (cierre): 11,5 USD, 29 clics (CTR 3,06%), 29 visitas (100% de los clics), 2 pagos iniciados (6,9%), 1 compra; CPA del día 11,5. Acumulado 2 días: 19,69 USD, 62 clics, 52 visitas, 4 pagos iniciados (7,7%), 2 compras, CPA 9,85. Aún < 2× ticket: sin veredicto.
+- 20/11: nueva campaña con objetivo mensajes (WhatsApp) para México, Colombia y Chile; H31–H40 (10 anuncios) con link de pago; 2 con precio en el chat, 4 con oferta en el texto, 4 con precio en la imagen. Métrica clave: costo por conversación y compras por conversación.
+- 20/11: el precio de venta pasó a US$ 9. Anuncios con precio rehechos por país (H37–H40 v2: MX $169 MXN, CO $35.900 COP, CL $8.490 CLP; conversión aproximada, por confirmar contra el link de pago). Pendiente: actualizar los textos que aún mencionan US$ 14.99 y 50% OFF si ese descuento ya no aplica.
+- Tanda 1 (H19, H21, H18, H20; 17–20/11, conjunto): 39,67 USD, 73 visitas, 8 pagos iniciados (11,0%), 2 compras (H19 y H20), CPA 19,84 (ROAS ≈ 0,76 antes de comisiones). Dato dudoso: «clics en el enlace» = 9 con 73 visitas. Tanda 2 (H19a, H19b, H19c, H29): 3,1 USD, 7 clics (CTR 5,88%), 6 visitas, 1 pago iniciado, 1 compra (H29). Sin veredicto: tanda 1 está en 2,6× el ticket y bajo el punto de equilibrio; tanda 2 en 0,2×.
+- H19 y H20 fueron los anuncios que vendieron (confirmado 20/11). 20/11: 5 variaciones (H19a–c, H20f–g) + 5 conceptos nuevos (H25–H29: lista de dolores, comparación, 3 pasos, por dentro, progresión).
+- Acumulado 3 días (campaña): 30 USD, CPM 14,72, CPC 0,41, CTR 3,36%, 71 visitas, 5 pagos iniciados (7,0%), 2 compras, CPA 15,0 (ROAS ≈ 1,0 antes de comisiones). Día 3 (por diferencia): ~10,3 USD, 19 visitas, 1 pago iniciado, 0 compras. Visita → pago iniciado: 8,7% / 6,9% / ~5,3% por día.
+- H20a–H20e (18/11): 5 variantes de H20, cada una cambia una sola cosa (3 láminas distintas, segunda línea, franja verde). Se suben al mismo conjunto del H20.
+- H20 (día de venta, ~18/11): gasto del día 8,19 USD, 33 clics, 23 visitas (70% de los clics), 2 pagos iniciados (8,7% de las visitas), 1 compra; la venta vino de H20. Las métricas son de la campaña del día, no solo de H20. Gasto < 2× ticket: no concluir.
+- H18–H24 (17/11): siete anuncios con titular que repite el de la landing reconstruida (H18 y H19 son los anuncios «Despeja la mente» con texto nuevo). Entregados en 1:1, 4:5 y 9:16. Siguen siendo DIR-N5.
+- H15–H17: tres hooks nuevos sobre la estructura de H09 (autocuidado, sin saber dibujar, cambia el scroll por color). Siguen siendo DIR-N5: si alguno gana, es hook, no ángulo.
+- H09 («Despeja la mente pintando», 4:5) **generó una venta** (dato del usuario; sin números de UTMify todavía). H11–H14 son 4 variaciones en 1:1 (formato que sirve en todas las ubicaciones de Meta) con el mismo ángulo, estructura y botón, cambiando 2.ª línea del titular, escena, lámina y gancho. Una venta no valida el ángulo: falta spend y CPA.
+- H08–H10: tres hooks de venta directa (deja el celular / despeja la mente / relájate), tres escenas y tres láminas distintas, con la regla de textos grandes para celular. Las tres comparten ángulo DIR-N5: si una gana, cuenta como hook, no como ángulo nuevo.
+- H07 v2: el usuario pidió textos más grandes, legibles en celular. Regla de producción para este producto: el texto más pequeño de una imagen 1080×1350 debe medir ≥ 26–27 px (≈ 9 px a 360 px de ancho), titular ≥ 80 px, y menos elementos de texto por pieza. Aplicar también a H03–H06 si se van a usar.
+- H07: estilo de la referencia con tablet + hoja; la tablet muestra la portada real del ebook. Ángulo `SIM` (ya existía en la tabla).
+- H06: estilo de una imagen de referencia del usuario (hoja a medio pintar con pincel, vela, titular con palabra manuscrita). Ángulo nuevo `CAL` añadido a la nomenclatura; copy sin promesa médica.
+- H05 v2: el usuario pidió acercar la hoja y usar una ilustración más realista. Regla: en este producto, hoja grande que se sale del cuadro y lámina realista (paisaje con animales) funcionan mejor que la lámina plana.
+- H05: formato de «contenido del producto» (hoja inclinada mitad numerada/mitad pintada + franja de beneficios + categorías), calcado en estructura de la referencia argentina. Usa la lámina más vistosa del ebook. Sin oferta dentro de la imagen.
+- Feedback del usuario sobre H03/H04 v1: la imagen debe parecerse más a los anuncios de referencia, con la ilustración como protagonista, y **sin 50% OFF ni bonos dentro de la imagen** (la oferta va en el texto). Regla para próximas piezas de este producto. v2 aplica esto: hoja grande mitad numerada/mitad pintada con lámina real del ebook.
+- H04 abre un ángulo nuevo (`REG`, agregado a la nomenclatura) con la estructura de los anuncios argentinos 2 y 4; escena de hogar con lámina real del ebook enmarcada. Se quitó «Día de la Madre» por ser fecha local.
+- H03 toma el gancho del anuncio argentino 5 (celular «solo un minuto»), con diseño propio de marca (verde oliva + durazno, Fraunces) y una página real del ebook sobre la hoja. Si H03 y H02 comparten ángulo (PSL-N2), el ángulo es el mismo y cambia el hook: no cuentan como ángulos distintos.
 - (prosa — vale más que la tabla)
 
 **Sin atribuir:** anuncios que corrieron sin nomenclatura y no se pueden asignar a ningún ángulo.
@@ -49,3 +69,117 @@ Veredictos: ✅ Validado · 🟢 Vende · ⏳ En testeo · ❌ Descartar · 🔁
 ## Índice de bloques
 
 *(vacío — se agrega un renglón por cada producto al crear su bloque)*
+
+
+## LATAM · Calma en colores
+
+- **Dashboard:** — · **Idioma / mercado:** español neutro, Latinoamérica
+- **Ticket front:** 15 USD (precio normal 30 USD) · AOV real: — · CPA medio: — · CPA break-even: —
+- **Compliance:** bienestar/estrés: sin promesa médica ni «cura»; prueba social solo con citas reales
+
+| Fecha | ID | Ángulo | NC | Formato | Hook (resumen) | Spend | Ventas | CPA | ROAS | CTR | Hook rate | Veredicto |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-05 | PSL-N2_IMG_H01_v1 | Problema–solución | N2 | Estático 4:5 | «¿Terminas el día con la cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr (reemplazada por H02) |
+| 2026-11-05 | PSL-N2_IMG_H02_v1 | Problema–solución («tiempo para ti») | N2 | Estático 4:5 | «Un té. Unos colores. Una ilustración.» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | PSL-N2_IMG_H03_v2 | Problema–solución («celular: un minuto → una hora») | N2 | Estático 4:5 | «Solo un minuto en el celular… y pasó una hora.» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | REG-N3_IMG_H04_v2 | Regalo («no termina en un cajón, termina en tu pared») | N3 | Estático 4:5 | «Un regalo que no termina en un cajón: termina en tu pared.» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | DIR-N4_IMG_H05_v2 | Venta directa («qué incluye») | N4 | Estático 4:5 | «Más de 100 ilustraciones para pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | CAL-N2_IMG_H06_v1 | Calma («dale un respiro a tu mente») | N2 | Estático 4:5 | «Dale un respiro a tu mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | SIM-N3_IMG_H07_v2 | Simplicidad («sin experiencia ni materiales especiales») | N3 | Estático 4:5 | «¡Pinta tu propia obra de arte!» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | DIR-N5_IMG_H08_v1 | Venta directa («deja el celular») | N5 | Estático 4:5 | «Deja el celular y pinta un rato» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-05 | DIR-N5_IMG_H09_v1 | Venta directa («despeja la mente») | N5 | Estático 4:5 | «Despeja la mente pintando» | 27 | 1 | 27,00 | 0,56x | — (83 clics; CPC 0,31) | — | ⏳ En testeo · **vendió 1** (3 días; 70 visitas, 6 pagos iniciados) |
+| 2026-11-05 | DIR-N5_IMG_H10_v1 | Venta directa («relájate») | N5 | Estático 4:5 | «Relájate con un ritual de colores» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H11_v1 | Venta directa (variación de H09: «pintando») | N5 | Estático 1:1 | «Despeja la mente pintando» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H12_v1 | Venta directa (variación de H09: «sin pantallas») | N5 | Estático 1:1 | «Despeja la mente sin pantallas» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H13_v1 | Venta directa (variación de H09: «en 30 minutos») | N5 | Estático 1:1 | «Despeja la mente en 30 minutos» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H14_v1 | Venta directa (variación de H09: «con una pausa») | N5 | Estático 1:1 | «Despeja la mente con una pausa» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H15_v1 | Venta directa (hook nuevo: autocuidado) | N5 | Estático 1:1 | «Regálate 30 minutos solo para ti» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H16_v1 | Venta directa (hook nuevo: sin saber dibujar) | N5 | Estático 1:1 | «Pinta sin saber dibujar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-08 | DIR-N5_IMG_H17_v1 | Venta directa (hook nuevo: cambia el scroll) | N5 | Estático 1:1 | «Cambia el scroll por color» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H18_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cambia el celular por 30 minutos de calma (hero de la landing)» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H19_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «30 minutos de calma sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H20_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? 30 minutos de calma» | 8,19 (día; total campaña) | 1 | 8,19 | ≈1,8x (15 USD; antes de comisiones) | 5,75% (33 clics; CPC 0,25; CPM 14,36) | — | ⏳ En testeo · **trajo la 1ª venta de la tanda H18–H24** · muestra mínima (23 visitas, 2 pagos iniciados = 8,7%, 1 compra) |
+| 2026-11-17 | DIR-N5_IMG_H21_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Meditar no es lo tuyo? Pinta por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H22_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cero decisiones, solo sigue los números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H23_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Cambia el scroll por 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-17 | DIR-N5_IMG_H24_v1 | Venta directa (titular alineado con la landing reconstruida) | N5 | Estático 1:1, 4:5 y 9:16 | «Un descanso para tu mente pintando por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20a_v1 | Venta directa (variante de H20: Lámina Santorini, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20b_v1 | Venta directa (variante de H20: Lámina lavanda, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20c_v1 | Venta directa (variante de H20: Lámina Torre Eiffel, misma copia que H20) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20d_v1 | Venta directa (variante de H20: H20 con segunda línea «pinta por números») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-18 | DIR-N5_IMG_H20e_v1 | Venta directa (variante de H20: H20 con franja «Sin meditar · sin saber dibujar») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19a_v1 | Venta directa (variante: «¿Cabeza a mil?» + «sin tener que meditar») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19b_v1 | Venta directa (variante: frases invertidas) | N5 | Estático 1:1, 4:5 y 9:16 | «Sin tener que meditar / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H19c_v1 | Venta directa (variante: lámina Machu Picchu) | N5 | Estático 1:1, 4:5 y 9:16 | «30 minutos de calma / sin tener que meditar» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H20f_v1 | Venta directa (variante: lámina Ha Long) | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | DIR-N5_IMG_H20g_v1 | Venta directa (variante: botón «Empieza hoy tus 30 minutos») | N5 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N2_IMG_H25_v1 | Problema–solución (concepto nuevo: lista «¿Te pasa que…?») | N2 | Estático 1:1, 4:5 y 9:16 | «¿Te pasa que…?» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N3_IMG_H26_v1 | Problema–solución (concepto nuevo: meditar vs. pintar por números) | N3 | Estático 1:1, 4:5 y 9:16 | «Meditar vs. pintar por números» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | SIM-N3_IMG_H27_v1 | Simplicidad (concepto nuevo: 3 pasos) | N3 | Estático 1:1, 4:5 y 9:16 | «Tu calma en 3 pasos» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | CUR-N3_IMG_H28_v1 | Curiosidad (concepto nuevo: por dentro del libro) | N3 | Estático 1:1, 4:5 y 9:16 | «Así se ve por dentro» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | TRA-N3_IMG_H29_v1 | Transformación (concepto nuevo: de números a obra) | N3 | Estático 1:1, 4:5 y 9:16 | «De números a obra de arte» | 3,1 | 1 | 3,10 | — | 5,88% | — | ⏳ En testeo · **vendió 1** (7 clics, 6 visitas, 1 pago iniciado); muestra mínima |
+| 2026-11-20 | PSL-N3_VOZ_H30_v1 | Problema–solución (video: meditar no funcionó → efecto manos ocupadas; versión LATAM del anuncio que corre en Argentina) | N3 | Video 9:16, 31 s, subtitulado, sin voz | «Guarda el celular un rato» | — | — | — | — | — | — | ⏳ Sin correr |
+| 2026-11-20 | PSL-N3_VOZ_H30_v2 | Problema–solución (mismo guion que H30 v1; imagen: mano pintando la lámina sobre foto de mesa) | N3 | Video 9:16, 31 s, subtitulado, sin voz | «Guarda el celular un rato» | — | — | — | — | — | — | ⏳ Sin correr · v1 se mantiene (no se sobrescribe) |
+| 2026-11-20 | PSL-N2_IMG_H31_v1 | Mensajes WhatsApp · opción 1 (precio en el chat): cabeza a mil | N2 | Estático 1:1, 4:5 y 9:16 | «¿Cabeza a mil? / 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | PSL-N2_IMG_H32_v1 | Mensajes WhatsApp · opción 1: sin tener que meditar | N2 | Estático 1:1, 4:5 y 9:16 | «Sin tener que meditar / pinta por números» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | CAL-N2_IMG_H33_v1 | Mensajes WhatsApp · oferta en el texto: cambia el scroll | N2 | Estático 1:1, 4:5 y 9:16 | «Cambia el scroll / por 30 minutos de calma» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | SIM-N3_IMG_H34_v1 | Mensajes WhatsApp · oferta en el texto: 3 pasos | N3 | Estático 1:1, 4:5 y 9:16 | «Pídelo por WhatsApp en 3 pasos» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | PSL-N2_IMG_H35_v1 | Mensajes WhatsApp · oferta en el texto: «¿Te pasa que…?» | N2 | Estático 1:1, 4:5 y 9:16 | «¿Te pasa que…?» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | CUR-N3_IMG_H36_v1 | Mensajes WhatsApp · oferta en el texto: por dentro | N3 | Estático 1:1, 4:5 y 9:16 | «Así se ve por dentro» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H37_v1 | Mensajes WhatsApp · precio en la imagen: producto | N5 | Estático 1:1, 4:5 y 9:16 | «Calma en Colores · US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H38_v1 | Mensajes WhatsApp · precio en la imagen: 50% OFF | N5 | Estático 1:1, 4:5 y 9:16 | «50% OFF solo hoy · US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H39_v1 | Mensajes WhatsApp · precio en la imagen: +100 ilustraciones | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones por solo US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H40_v1 | Mensajes WhatsApp · precio en la imagen: todo incluido | N5 | Estático 1:1, 4:5 y 9:16 | «Todo esto por US$ 14.99» | — | — | — | — | — | — | ⏳ Sin correr (objetivo mensajes) |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_MX | Mensajes WhatsApp · precio en la imagen (producto con precio) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_MX | Mensajes WhatsApp · precio en la imagen (precio especial) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_MX | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_MX | Mensajes WhatsApp · precio en la imagen (todo incluido) · México $169 MXN | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_CO | Mensajes WhatsApp · precio en la imagen (producto con precio) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_CO | Mensajes WhatsApp · precio en la imagen (precio especial) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_CO | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_CO | Mensajes WhatsApp · precio en la imagen (todo incluido) · Colombia $35.900 COP | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H37_v2_CL | Mensajes WhatsApp · precio en la imagen (producto con precio) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «producto con precio» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H38_v2_CL | Mensajes WhatsApp · precio en la imagen (precio especial) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «precio especial» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H39_v2_CL | Mensajes WhatsApp · precio en la imagen (+100 ilustraciones) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «+100 ilustraciones» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+| 2026-11-20 | DIR-N5_IMG_H40_v2_CL | Mensajes WhatsApp · precio en la imagen (todo incluido) · Chile $8.490 CLP | N5 | Estático 1:1, 4:5 y 9:16 | «todo incluido» | — | — | — | — | — | — | ⏳ Sin correr · reemplaza v1 |
+
+**Aprendido:**
+- H02 calibrada con el copy y las imágenes reales de los 5 anuncios argentinos (pasados por el usuario). Foto de portada real del usuario.
+- Primera pieza (H01) hecha sin poder leer los 5 anuncios de referencia de Argentina (la Biblioteca de Meta devolvió 403). Pendiente calibrar con su copy real.
+
+**Lectura de campaña — Calma en colores LATAM (3 días, datos pasados por el usuario, sin desglose por anuncio):**
+Inversión 30 USD · clics en el enlace 82 · visitas a la landing 84 · carga de landing 84% · ventas 1 · facturación 15 USD · CPC reportado 0,30 (30÷82 da 0,37) · CPV 0,357 · conversión reportada 1,45% (1÷84 da 1,19%) · ROAS reportado 0,61x (15÷30 da 0,50x). **Cifras que no cuadran entre sí: confirmar contra UTMify antes de decidir.**
+CPA real = 30 USD vs. break-even ≈ 13 y CPA medio ≈ 7,5 → **no rentable todavía, pero muestra de 1 venta / 84 visitas: ⏳ en testeo, no ❌.** Anuncios sin ID atribuible → «sin atribuir» hasta tener el nombre de cada anuncio.
+Hipótesis a revisar primero (no conclusiones): (1) la carga de la landing (84% implica que ~16% de los clics no llega a ver la página; imágenes PNG pesadas de 2K en hosting externo); (2) conversión de landing ~1,2–1,5% frente al objetivo de la metodología; (3) que el tráfico llegue con la oferta que el anuncio promete.
+
+**Lectura por anuncio — H09 «Despeja la mente pintando» (4:5), 3 días, datos del usuario:** gasto 27 USD · 83 clics · 70 visitas a la página · 6 pagos iniciados · 1 venta (15 USD) · CPC 0,31 · conversión 1,43% (1÷70 ✓) · ROAS 15÷27 = 0,56x · CPA 27 USD.
+Embudo: 83 clics → 70 visitas (84%) → 6 pagos iniciados (8,6% de las visitas) → 1 compra (**16,7% de los inicios; la referencia de `WIKI/diagnostico-de-checkout.md` es 25–30%**). Costo por pago iniciado ≈ 4,50 USD.
+Conclusión provisoria: el anuncio sí trae tráfico que llega al pago (6 inicios con 27 USD); **la fuga está entre «pago iniciado» y «compra»**, no en el clic. Muestra: 6 inicios; no es concluyente. Esta lectura sustituye a la lectura agregada anterior (30 USD / 84 visitas), cuyas cifras no cuadraban con esta.
+
+
+## ARG · Brillo Propio
+
+- **Dashboard:** — · **Idioma / mercado:** español rioplatense, Argentina
+- **Ticket front:** 14.900 ARS · AOV real: — · CPA medio: 7.450 ARS (ticket ÷ 2) · CPA break-even: — (faltan las comisiones)
+- **Compliance:** nicho dinero/manualidades: sin promesa de ingresos ni cifras; solo citas reales; sin «miles de personas»; correr aislado de la cuenta que sostiene la facturación
+
+| Fecha | ID | Ángulo | NC | Formato | Hook (resumen) | Spend | Ventas | CPA | ROAS | CTR | Hook rate | Veredicto |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 25/11 | texto A | TRA | N2 | texto | «De un dibujo en una hoja a una pieza que podés llevar puesta» | — | — | — | — | — | — | sin correr |
+| 25/11 | texto B | SIM | N2 | texto | «Si nunca bordaste, este es un buen lugar para empezar» | — | — | — | — | — | — | sin correr |
+| 25/11 | texto C | REG | N2 | texto | «Este fin de año, regalá algo hecho por vos» | — | — | — | — | — | — | sin correr |
+| 26/11 | TRA-N2_VOZ_H01_v1 | TRA | N2 | VOZ | «De un dibujo en una hoja a una pieza que podés llevar puesta» | — | — | — | — | — | — | sin correr |
+| 26/11 | DIR-N4_VOZ_H02_v1 | DIR | N4 | VOZ | «Aprendé joyería bordada desde cero… tu primera pieza esta semana» | — | — | — | — | — | — | sin correr |
+| 26/11 | SIM-N3_VOZ_H03_v1 | SIM | N3 | VOZ | «Si te gustaría aprender algo nuevo con las manos, desde casa» | — | — | — | — | — | — | sin correr |
+| 26/11 | DIR-N4_MOS_H04_v1 | DIR | N4 | MOS | «+60 diseños para imprimir · paso a paso» (collage de 5 piezas) | — | — | — | — | — | — | sin correr |
+| 26/11 | DIR-N4_MOS_H05_v1 | DIR | N4 | MOS | «10 tipos de joyería y accesorios · + 5 bonos incluidos» | — | — | — | — | — | — | sin correr |
+| 26/11 | VEL-N2_MOS_H06_v1 | VEL | N2 | MOS | «Tu primera pieza esta semana · desde cero» (1:1, collage de proceso) | — | — | — | — | — | — | sin correr |
+| 27/11 | SIM-N3_MOS_H07_v1 | SIM | N3 | MOS | «Paso a paso · aros, dijes y llaveros · desde cero» (abejita, corazón, flor, cerezas) | — | — | — | — | — | — | sin correr |
+
+**Aprendido:**
+- 27/11: cuarto mosaico (H07, 1:1) con piezas chicas y simpáticas pedidas por el usuario (aros de abejita, dije de corazón, llavero de flor, aros de cerezas y una cereza en proceso). Mensaje nuevo: paso a paso y desde cero con aros, dijes y llaveros; sin cifras ni precio. Ángulo SIM; si funciona, probar el mismo esqueleto con otros motivos.
+- 26/11: tres mosaicos estáticos (H04–H06) adaptados de la imagen de un producto similar que el usuario vende en LATAM («8 en 1 · artesanías en chaquira · 200+ proyectos»): collage de 5 piezas + tarjeta central con la cifra grande + tira de portadas. Mismo esqueleto, tres mensajes (cantidad de diseños, cantidad de tipos y bonos, plazo). Sin precio. Textos verificados uno por uno. H04 y H05 comparten ángulo DIR: si uno gana, cuenta como hook; H06 es otro ángulo (VEL). Los tres en 1:1 por pedido del usuario: todas las imágenes de este producto van en 1:1.
+- 26/11: tres audios de voz en off (H01–H03, ~53–61 s) modelados desde los tres videos de CasaFeliz (64, 101 y 75 s). Mismo cuerpo, distinta entrada. Se descartó todo lo que el producto no tiene (certificado, soporte, Excel, proveedores, 10 tutoriales, descuento) y toda prueba con cifras. Archivos en `CREATIVOS/entregas/2026-11-26/ARG-brillo-propio/`.
+- 25/11: tres textos modelados desde el anuncio de video de CasaFeliz (punch needle, 64 s, ángulo ECO + SIM con historia de pedidos). Se tomó la estructura y se cambió ángulo, protagonista, prueba y cierre. Archivos en `CREATIVOS/entregas/2026-11-25/ARG-brillo-propio/`; audio transcripto en `CREATIVOS/swipe/`. Falta asignar IDs completos cuando haya creativo (imagen o video).
+
+**Sin atribuir:** —

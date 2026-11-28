@@ -1,0 +1,71 @@
+<!-- ============ CARRUSEL «MIRA POR DENTRO» ============
+ CÓMO USARLO EN LA SECCIÓN 05 («Mira por dentro»):
+ 1) Pega el bloque de estilos (CSS) al final de tu CSS general (o justo antes de la sección).
+ 2) Reemplaza estas dos líneas de la sección:
+      <div class="sol-img"> ... </div>
+      <div class="sol-chips"> ... </div>
+    por el bloque HTML «mpd» de más abajo (incluye el texto debajo del carrusel).
+ 3) Pega el bloque de JavaScript al final de la página (antes del cierre del body).
+ 4) Sube las 4 imágenes a tu hosting y reemplaza TU-HOSTING en las 4 URLs.
+-->
+<style>
+.mpd{max-width:880px;width:100%;margin:0 auto 40px;}
+.mpd-vp{position:relative;}
+.mpd-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;gap:0;-webkit-overflow-scrolling:touch;scrollbar-width:none;border-radius:20px;border:1px solid var(--line);box-shadow:0 26px 56px -28px rgba(92,94,58,.45);background:var(--white);}
+.mpd-track::-webkit-scrollbar{display:none;}
+.mpd-slide{flex:0 0 100%;width:100%;min-width:0;scroll-snap-align:center;margin:0;}
+.mpd-slide img{display:block;width:100%;height:auto;aspect-ratio:1.44/1;object-fit:cover;}
+.mpd-arrow{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;border-radius:50%;border:1px solid var(--line);background:rgba(255,253,246,.94);color:var(--olive-deep);font-size:22px;line-height:1;cursor:pointer;box-shadow:0 10px 22px -10px rgba(60,40,10,.55);display:flex;align-items:center;justify-content:center;transition:background .25s,color .25s;}
+.mpd-arrow:hover{background:var(--olive-deep);color:var(--cream-lt);}
+.mpd-prev{left:-14px;}.mpd-next{right:-14px;}
+.mpd-dots{display:flex;justify-content:center;gap:10px;margin-top:18px;}
+.mpd-dot{width:12px;height:12px;border-radius:50%;border:0;padding:0;background:#d9d6bd;cursor:pointer;transition:background .25s,transform .25s;}
+.mpd-dot.on{background:var(--terra);transform:scale(1.25);}
+.mpd-cap{max-width:640px;margin:20px auto 0;text-align:center;font-size:17px;line-height:1.65;color:var(--ink-soft);font-weight:500;}
+@media(max-width:600px){.mpd-arrow{width:42px;height:42px;font-size:19px}.mpd-prev{left:6px}.mpd-next{right:6px}.mpd-cap{font-size:16px}.mpd-slide img{aspect-ratio:1.44/1}}
+</style>
+
+<!-- BLOQUE HTML (reemplaza .sol-img y .sol-chips) -->
+<div class="mpd" id="mpd" aria-roledescription="carrusel" aria-label="Así se ve Calma en colores por dentro">
+  <div class="mpd-vp">
+    <div class="mpd-track" id="mpdTrack">
+      <figure class="mpd-slide"><img src="https://TU-HOSTING/mira-por-dentro-1-flamencos.jpg" alt="Por dentro: página con datos, ilustración a color y paleta de los flamencos, y la lámina numerada para colorear" width="2000" height="1389"></figure>
+      <figure class="mpd-slide"><img loading="lazy" src="https://TU-HOSTING/mira-por-dentro-2-peonias.jpg" alt="Por dentro: página con datos, ilustración a color y paleta del jardín de peonías, y la lámina numerada para colorear" width="2000" height="1389"></figure>
+      <figure class="mpd-slide"><img loading="lazy" src="https://TU-HOSTING/mira-por-dentro-3-torre-eiffel.jpg" alt="Por dentro: página con datos, ilustración a color y paleta de la Torre Eiffel, y la lámina numerada para colorear" width="2000" height="1389"></figure>
+      <figure class="mpd-slide"><img loading="lazy" src="https://TU-HOSTING/mira-por-dentro-4-santorini.jpg" alt="Por dentro: página con datos, ilustración a color y paleta de Santorini, y la lámina numerada para colorear" width="2000" height="1389"></figure>
+    </div>
+    <button type="button" class="mpd-arrow mpd-prev" id="mpdPrev" aria-label="Imagen anterior">&#8592;</button>
+    <button type="button" class="mpd-arrow mpd-next" id="mpdNext" aria-label="Imagen siguiente">&#8594;</button>
+  </div>
+  <div class="mpd-dots" id="mpdDots" role="tablist" aria-label="Elegir imagen">
+    <button type="button" class="mpd-dot on" aria-label="Ver imagen 1"></button>
+    <button type="button" class="mpd-dot" aria-label="Ver imagen 2"></button>
+    <button type="button" class="mpd-dot" aria-label="Ver imagen 3"></button>
+    <button type="button" class="mpd-dot" aria-label="Ver imagen 4"></button>
+  </div>
+  <p class="mpd-cap">Imprimilas en A4, A3 o el tamaño que prefieras. Pintá con lápices, fibrones o acuarelas — lo que ya tengas en casa.</p>
+</div>
+
+<script>
+(function(){
+  var t=document.getElementById('mpdTrack'); if(!t) return;
+  var dots=document.querySelectorAll('#mpdDots .mpd-dot'), n=dots.length, cur=0;
+  function w(){return t.clientWidth;}
+  function go(i){cur=Math.max(0,Math.min(n-1,i)); t.scrollTo({left:cur*w(),behavior:'smooth'});}
+  document.getElementById('mpdNext').addEventListener('click',function(){go(cur>=n-1?0:cur+1);});
+  document.getElementById('mpdPrev').addEventListener('click',function(){go(cur<=0?n-1:cur-1);});
+  dots.forEach(function(d,i){d.addEventListener('click',function(){go(i);});});
+  var tick=false;
+  t.addEventListener('scroll',function(){
+    if(tick) return; tick=true;
+    requestAnimationFrame(function(){
+      cur=Math.round(t.scrollLeft/w());
+      dots.forEach(function(d,i){d.classList.toggle('on',i===cur);});
+      tick=false;
+    });
+  },{passive:true});
+  document.getElementById('mpd').addEventListener('keydown',function(e){
+    if(e.key==='ArrowRight'){go(cur+1);} else if(e.key==='ArrowLeft'){go(cur-1);}
+  });
+})();
+</script>
