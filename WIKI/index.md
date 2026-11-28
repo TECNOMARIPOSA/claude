@@ -81,6 +81,7 @@ El dominio es coherente y se puede resumir en una frase: **vender productos digi
 
 ## Outputs
 
+- [2026-11-28 · Landing «Brillo Propio» · v6 (cartera también en el bono de cabello)](../OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v6.txt) — Bono 2 «Accesorios para el cabello, carteras y apliques para ropa» (mismo valor); la guía principal conserva carteras o clutches; 9 tipos en total; mockup del Bono 2 con cartera.
 - [2026-11-28 · Landing «Brillo Propio» · v5 (sin coronas en el bono de cabello)](../OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v5.txt) — el Bono 2 queda en vinchas, hebillas y apliques; el total pasa a 9 tipos; mockup del Bono 2 regenerado sin tiara.
 - [2026-11-28 · Landing «Brillo Propio» · v4 (nuevos bonos 1 y 2)](../OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v4.txt) — carteras y clutches pasan a la guía principal (6 tipos); Bono 1 «Creá tus propios diseños y patrones»; Bono 2 «Accesorios para el cabello y apliques para ropa»; precios sin cambios; resumen de la oferta corregido en celular. Imágenes nuevas en  (bono 1, bono 2 y oferta completa v2).
 - [2026-11-26 · Landing «Brillo Propio» · versión B v3 (precios tachados y resumen de la oferta)](../OUTPUTS/2026-11-26-landing-brillo-propio-joyeria-v3.txt) — parte de la versión editada por el usuario: precio original 29.900 vs 14.900, valores de bonos tachados, resumen con comparativa (por separado 73.400, ahorro 58.500) y espacio para la imagen de la oferta completa; sin marcadores.

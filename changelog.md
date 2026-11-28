@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-28 (landing v6: carteras también en el Bono 2)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v6.txt — el Bono 2 pasa a «Accesorios para el cabello, carteras y apliques para ropa» (valor 9.900 sin cambios) en la tarjeta, la oferta, el resumen y las preguntas frecuentes; la guía principal sigue con carteras o clutches. OUTPUTS/landing-imagenes/brillo-propio-bono2-cabello-apliques.webp regenerado con una cartera y sin tiara (Higgsfield, calidad alta 2K, 2 créditos).
+
 ## 2026-11-28 (landing v5: sin coronas)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v5.txt — el Bono 2 deja de nombrar las coronas (vinchas, hebillas y apliques), la pregunta frecuente pasa de 10 a 9 tipos en total y el rótulo de la galería se ajusta. OUTPUTS/landing-imagenes/brillo-propio-bono2-cabello-apliques.webp regenerado sin la tiara (Higgsfield, calidad alta 2K, 2 créditos). Pendiente: el mosaico H05 dice «10 tipos» y los audios modelados nombran las coronas.
