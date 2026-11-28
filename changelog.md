@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-28 (landing v4: nuevos bonos 1 y 2)
+**Procesado:** ninguno de RAW/ (producción de entregable)
+**Cambios:** OUTPUTS/2026-11-28-landing-brillo-propio-joyeria-v4.txt — sobre la versión del usuario: Bono 1 «Creá tus propios diseños y patrones» (valor 8.900), Bono 2 «Accesorios para el cabello y apliques para ropa» (valor 9.900), carteras o clutches en la guía principal (6 tipos), precios sin cambios, y en el celular el recuadro «Hoy, pago único» queda debajo de «Por separado» (corregido y probado de 320 a 700 px). OUTPUTS/landing-imagenes/ — brillo-propio-bono1-disenos-patrones, brillo-propio-bono2-cabello-apliques (16:9, 1600×905) y brillo-propio-oferta-completa-v2 (1:1, 1600×1600). Higgsfield, GPT Image 2.6, calidad alta 2K, 6 créditos. Las tres imágenes quedan con el src vacío en el HTML hasta que se suban a Impultienda.
+
 ## 2026-11-27 (cuarto mosaico: abejita, corazón, flor y cerezas)
 **Procesado:** ninguno de RAW/ (producción de entregable)
 **Cambios:** CREATIVOS/entregas/2026-11-27/ARG-brillo-propio/261127_brillo-propio_SIM-N3_MOS_H07_v1_11.png (1:1, 1440 px) y NOMBRES-ANUNCIOS-261127-mosaico.txt; historial de la skill actualizado. Higgsfield, GPT Image 2.6, calidad alta 2K, 2 créditos. Sin precio ni promesa de ingresos.
